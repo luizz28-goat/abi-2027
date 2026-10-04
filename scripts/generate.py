@@ -358,10 +358,10 @@ def kalender(s: dict) -> dict:
         emoji = "📚"
     if s["phase"] == "klausuren":
         summary = f"{emoji} {s['fach']} · {s['titel']}" if s["fach"] != "Organisation" else f"{emoji} {s['titel']}"
-        fuer = f"{s['pruefung_name']} am {WT[p.weekday()]} {p:%d.%m.} – noch {(p - d).days} Tage"
+        fuer = f"{s['pruefung_name']} am {WT[p.weekday()]} {p:%d.%m.} – noch {(p - d).days} Tag{'' if (p - d).days == 1 else 'e'}"
     else:
         summary = f"Abi-{'Generalprobe' if s['generalprobe'] else 'Lernblock'} {s['fach']}: {s['titel']}"
-        fuer = f"{s['pruefung_name']} – noch {(p - d).days} Tage"
+        fuer = f"{s['pruefung_name']} – noch {(p - d).days} Tag{'' if (p - d).days == 1 else 'e'}"
     issue = f"{REPO_URL}/issues?q=is%3Aissue+{s['id']}"
     zeilen = [f"🎯 Ziel: {br['ziel']}",
               f"📌 Für: {fuer}",
