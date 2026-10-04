@@ -2,7 +2,7 @@
 
 _Generiert aus `data/` mit `scripts/generate.py`._
 
-**110 Lernblöcke · 329 Story Points · 24 Wochen · 10 Milestones**
+**185 Lernblöcke · 528 Story Points · 35 Wochen · 21 Milestones**
 
 ## Epics
 
@@ -14,11 +14,39 @@ _Generiert aus `data/` mit `scripts/generate.py`._
 | E04 Deutsch mündlich (28.–30.06.2027) | 15 Punkte mündlich: Mario und der Zauberer, Woyzeck, Lyrik, Sachtexte und Sprache aus allen vier Halbjahren. | 14 | 43 |
 | E05 Religion mündlich (28.–30.06.2027) | 15 Punkte mündlich: Gottesfrage, Jesus Christus, Menschenbild, Ethik, Kirche aus allen vier Halbjahren. | 11 | 34 |
 | E06 Wochentests, Nachholen und Organisation | Jede Woche getestet, nichts bleibt liegen, offene Fragen an Lehrkräfte geklärt. | 4 | 4 |
+| E07 Klausuren 1. Halbjahr Jg12 (Okt–Dez 2026) | In allen Klausuren bis 21.12.2026 auf 13–15 Punkte: jeder Block erledigt, vor Mathe, Physik, Englisch und Deutsch eine Probeklausur. | 75 | 199 |
+
+## Klausuren 1. Halbjahr
+
+| Datum | Klausur | Blöcke | SP |
+|---|---|---:|---:|
+| 09.11. | Klausur Mathe 09.11. | 18 | 54 |
+| 12.11. | Klausur Physik 12.11. | 15 | 40 |
+| 17.11. | Klausur Kunst 17.11. | 5 | 12 |
+| 23.11. | Klausur Geschichte 23.11. | 5 | 14 |
+| 26.11. | Klausur Englisch 26.11. | 5 | 11 |
+| 03.12. | Klausur Deutsch 03.12. | 6 | 14 |
+| 07.12. | Klausur Gemeinschaftskunde 07.12. | 4 | 11 |
+| 11.12. | Klausur Sport 11.12. | 4 | 9 |
+| 14.12. | Klausur Religion 14.12. | 3 | 7 |
+| 17.12. | Klausur Physik 17.12. | 5 | 12 |
+| 21.12. | Klausur Mathe 21.12. | 5 | 15 |
 
 ## Wochen
 
 | Woche | Zeitraum | Blöcke | SP | Testfragen |
 |---|---|---:|---:|---:|
+| [K01](wochen/K01.md) 05.–11.10. | 05.10.–11.10. | 6 | 15 | 6 |
+| [K02](wochen/K02.md) 12.–18.10. | 12.10.–18.10. | 6 | 15 | 6 |
+| [K03](wochen/K03.md) 19.–25.10. | 19.10.–25.10. | 6 | 15 | 6 |
+| [K04](wochen/K04.md) Herbstferien (26.10.–01.11.) | 26.10.–01.11. | 6 | 28 | 6 |
+| [K05](wochen/K05.md) 02.–08.11. | 02.11.–08.11. | 7 | 17 | 6 |
+| [K06](wochen/K06.md) 09.–15.11. | 09.11.–15.11. | 7 | 17 | 6 |
+| [K07](wochen/K07.md) 16.–22.11. | 16.11.–22.11. | 7 | 17 | 5 |
+| [K08](wochen/K08.md) 23.–29.11. | 23.11.–29.11. | 7 | 17 | 6 |
+| [K09](wochen/K09.md) 30.11.–06.12. | 30.11.–06.12. | 7 | 17 | 5 |
+| [K10](wochen/K10.md) 07.–13.12. | 07.12.–13.12. | 8 | 19 | 6 |
+| [K11](wochen/K11.md) 14.–20.12. | 14.12.–20.12. | 8 | 22 | 6 |
 | [W01](wochen/W01.md) Start (04.–10.01.) | 04.01.–10.01. | 3 | 13 | 3 |
 | [W02](wochen/W02.md) 11.01.–17.01. | 11.01.–17.01. | 6 | 13 | 6 |
 | [W03](wochen/W03.md) 18.01.–24.01. | 18.01.–24.01. | 5 | 12 | 5 |

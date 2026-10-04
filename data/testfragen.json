@@ -1,4 +1,260 @@
 {
+ "2026-10-05 17:30": {
+  "frage": "Wie lautet die 2. Pfadregel (Summenregel) und wann brauchst du sie?",
+  "loesung": "Die Wahrscheinlichkeit eines Ereignisses ist die Summe der Wahrscheinlichkeiten aller Pfade, die zu diesem Ereignis gehören – immer wenn mehrere Pfade zum Ereignis führen."
+ },
+ "2026-10-06 11:30": {
+  "frage": "Schicke Claude ohne Unterlagen die Themen der Physik-Klausur am 12.11. und zu jedem Thema die wichtigste Formel mit Bedeutung aller Größen.",
+  "loesung": "Claude prüft gegen die Lernversion und Herrn Baiers Themenliste."
+ },
+ "2026-10-07 08:30": {
+  "frage": "In einer Urne liegen 3 rote und 2 blaue Kugeln. Du ziehst zweimal ohne Zurücklegen. Wie groß ist P(beide rot)?",
+  "loesung": "3/5 · 2/4 = 6/20 = 3/10 = 0,3."
+ },
+ "2026-10-08 16:30": {
+  "frage": "Welche drei Englisch-Vokabeln aus dem Test am 08.10. hattest du falsch? Schreibe sie mit Übersetzung auf.",
+  "loesung": "Selbstauskunft – Claude fragt sie beim Wochencheck ab."
+ },
+ "2026-10-09 09:45": {
+  "frage": "Erkläre ohne Unterlagen den Lösungsweg der schwersten Aufgabe aus diesem Block in 3–4 Sätzen.",
+  "loesung": "Claude prüft gegen die Musterlösung."
+ },
+ "2026-10-10 10:00": {
+  "frage": "Ein Spiel kostet 2 € Einsatz. Mit P = 0,25 bekommt man 6 € ausgezahlt, sonst nichts. Ist das Spiel fair?",
+  "loesung": "E(Gewinn) = 0,25·6 − 2 = −0,50 € ≠ 0 → nicht fair (Spieler verliert im Schnitt 50 ct)."
+ },
+ "2026-10-12 17:30": {
+  "frage": "Wie oft muss man einen Würfel mindestens werfen, damit mit mindestens 90 % Wahrscheinlichkeit mindestens eine Sechs fällt?",
+  "loesung": "1 − (5/6)ⁿ ≥ 0,9 → (5/6)ⁿ ≤ 0,1 → n ≥ ln 0,1 / ln(5/6) ≈ 12,6 → n = 13."
+ },
+ "2026-10-13 11:30": {
+  "frage": "Schreibe ohne Unterlagen die Herleitung aus diesem Block in Stichpunkten auf und schicke sie Claude.",
+  "loesung": "Claude vergleicht mit dem Aufschrieb."
+ },
+ "2026-10-14 08:30": {
+  "frage": "Wie viele Möglichkeiten gibt es, aus 10 Personen ein Team aus 3 zu bilden? Rechenweg ohne WTR.",
+  "loesung": "(10 über 3) = 10·9·8 / (3·2·1) = 120."
+ },
+ "2026-10-15 16:30": {
+  "frage": "Nenne ohne Unterlagen die zwei wichtigsten Formeln zu Klausurthema 2 mit Bedeutung aller Größen.",
+  "loesung": "Claude prüft gegen die Lernversion."
+ },
+ "2026-10-16 09:45": {
+  "frage": "Welche Unterrichtsstunde dieser Woche war am unklarsten, und was hast du dazu geklärt?",
+  "loesung": "Selbstauskunft – Claude fragt nach, ob es jetzt sitzt."
+ },
+ "2026-10-17 10:00": {
+  "frage": "Wann sind zwei Ereignisse A und B stochastisch unabhängig?",
+  "loesung": "Wenn P(A∩B) = P(A)·P(B) gilt (gleichwertig: P_A(B) = P(B))."
+ },
+ "2026-10-19 17:30": {
+  "frage": "Gib die Formel für P(X = k) bei einer Binomialverteilung mit n und p an.",
+  "loesung": "P(X=k) = (n über k) · pᵏ · (1−p)ⁿ⁻ᵏ."
+ },
+ "2026-10-20 11:30": {
+  "frage": "Welche Aufgabe aus deiner Physik-Fehlerliste war am schwierigsten, und wie lautet der richtige Ansatz?",
+  "loesung": "Claude prüft gegen die Fehlerliste."
+ },
+ "2026-10-21 08:30": {
+  "frage": "X ist binomialverteilt mit n = 50 und p = 0,2. Berechne E(X) und σ.",
+  "loesung": "E(X) = 10, σ = √(50·0,2·0,8) = √8 ≈ 2,83."
+ },
+ "2026-10-22 16:30": {
+  "frage": "Nenne ohne Unterlagen die Kernaussage und die wichtigste Formel zu deinem dritten Physik-Klausurthema.",
+  "loesung": "Claude prüft gegen die Lernversion."
+ },
+ "2026-10-23 09:45": {
+  "frage": "Welche Lernversion dieser Woche hast du gelesen, und welche Frage ist offen geblieben?",
+  "loesung": "Selbstauskunft – Claude klärt die offene Frage."
+ },
+ "2026-10-24 10:00": {
+  "frage": "Was ist der Unterschied zwischen „P(X ≤ 3)“ und „P(X < 3)“ bei einer binomialverteilten Zufallsgröße?",
+  "loesung": "P(X ≤ 3) enthält k = 3, P(X < 3) = P(X ≤ 2) nicht."
+ },
+ "2026-10-26 09:30": {
+  "frage": "Welches Stochastik-Thema war nach dem Ferienblock noch rot oder gelb, und was übst du dazu?",
+  "loesung": "Selbstauskunft – Claude plant dazu eine Zusatzaufgabe ein."
+ },
+ "2026-10-27 09:30": {
+  "frage": "Schicke Claude ohne Unterlagen deine komplette Physik-Formelliste für die Klausur am 12.11.",
+  "loesung": "Claude vergleicht mit der Formelsammlung in Notion."
+ },
+ "2026-10-28 09:30": {
+  "frage": "Berechne ohne WTR: P(X=2) für n = 4 und p = 0,5.",
+  "loesung": "(4 über 2)·0,5⁴ = 6/16 = 0,375."
+ },
+ "2026-10-29 09:30": {
+  "frage": "Welche Fehlerart kam in der Physik-Fehlerliste am häufigsten vor (Rechnen, Verständnis, Zeit)? Was machst du dagegen?",
+  "loesung": "Selbstauskunft – Claude prüft die Liste."
+ },
+ "2026-10-30 09:30": {
+  "frage": "Probeklausur Mathe: mindestens 13 Punkte erreicht?",
+  "loesung": "Selbstauskunft – nur abhaken, wenn es stimmt."
+ },
+ "2026-10-31 10:00": {
+  "frage": "Löse ohne Unterlagen noch einmal die Aufgabe, die du in den Ferien falsch hattest, und schicke Claude den Ansatz.",
+  "loesung": "Claude prüft gegen die Lösung."
+ },
+ "2026-11-02 17:30": {
+  "frage": "Was war dein häufigster Fehler in der Mathe-Probeklausur, und wie vermeidest du ihn?",
+  "loesung": "Selbstauskunft – Claude prüft die Fehlerliste."
+ },
+ "2026-11-03 11:30": {
+  "frage": "Nenne ohne Unterlagen zu jedem Physik-Klausurthema eine typische Aufgabenstellung und den Lösungsansatz.",
+  "loesung": "Claude prüft."
+ },
+ "2026-11-03 16:30": {
+  "frage": "Nenne die Schritte einer Werkanalyse in der richtigen Reihenfolge.",
+  "loesung": "Werkdaten → erster Eindruck → Beschreibung → formale Analyse (Komposition, Farbe, Licht, Raum) → Interpretation → Wertung."
+ },
+ "2026-11-04 08:30": {
+  "frage": "Physik-Probeklausur: mindestens 13 Punkte erreicht?",
+  "loesung": "Selbstauskunft – nur abhaken, wenn es stimmt."
+ },
+ "2026-11-05 16:30": {
+  "frage": "Berechne ohne WTR: (5 über 2).",
+  "loesung": "10."
+ },
+ "2026-11-06 09:45": {
+  "frage": "Nenne drei Merkmale der Epoche bzw. des Künstlers, der in der Kunst-Klausur drankommt.",
+  "loesung": "Claude prüft gegen die Lernversion."
+ },
+ "2026-11-09 17:30": {
+  "frage": "Was war dein häufigster Fehler in der Physik-Probeklausur, und wie vermeidest du ihn?",
+  "loesung": "Selbstauskunft – Claude prüft die Fehlerliste."
+ },
+ "2026-11-10 11:30": {
+  "frage": "Nenne ohne Unterlagen fünf Formeln aus der Physik-Klausur mit Einheiten.",
+  "loesung": "Claude prüft."
+ },
+ "2026-11-10 16:30": {
+  "frage": "Wie viel Zeit hast du pro Aufgabe gebraucht, und wo hast du Zeit verloren?",
+  "loesung": "Selbstauskunft."
+ },
+ "2026-11-12 16:30": {
+  "frage": "Welche drei Aspekte gehören in die formale Analyse eines Gemäldes?",
+  "loesung": "Z. B. Komposition/Bildaufbau, Farbe, Licht, Raum/Perspektive, Form, Linie (drei davon)."
+ },
+ "2026-11-13 09:45": {
+  "frage": "Was ist der Unterschied zwischen Beschreibung und Interpretation in der Werkanalyse?",
+  "loesung": "Beschreibung: was zu sehen ist, wertfrei. Interpretation: Deutung/Bedeutung, am Bild belegt."
+ },
+ "2026-11-14 10:00": {
+  "frage": "Nenne fünf zentrale Daten deines Geschichts-Klausurthemas mit Ereignis.",
+  "loesung": "Claude prüft gegen die Lernversion."
+ },
+ "2026-11-17 11:30": {
+  "frage": "Erkläre zwei Fachbegriffe deines Geschichts-Klausurthemas in je einem Satz.",
+  "loesung": "Claude prüft."
+ },
+ "2026-11-17 16:30": {
+  "frage": "Nenne vier englische Redemittel für einen Comment (Einleitung, Gegenargument, Fazit).",
+  "loesung": "Z. B. „It is often argued that…“, „On the other hand…“, „Admittedly…“, „All things considered…“."
+ },
+ "2026-11-18 08:30": {
+  "frage": "Was verlangt der Operator „beurteilen“?",
+  "loesung": "Zu einem Sachverhalt ein selbstständiges Urteil mit Kriterien und Begründung fällen (ohne persönliche Wertmaßstäbe)."
+ },
+ "2026-11-19 16:30": {
+  "frage": "Übersetze ins Englische: „Einerseits …, andererseits …“ und „Zusammenfassend lässt sich sagen …“.",
+  "loesung": "„On the one hand …, on the other hand …“, „To sum up / All in all, …“."
+ },
+ "2026-11-20 09:45": {
+  "frage": "Was ist der Unterschied zwischen „erläutern“ und „erörtern“?",
+  "loesung": "Erläutern: Sachverhalt mit Beispielen/Belegen verständlich machen. Erörtern: Pro und Contra abwägen und zu einem begründeten Urteil kommen."
+ },
+ "2026-11-23 17:30": {
+  "frage": "Welche drei Bausteine braucht ein guter Analysis-Absatz?",
+  "loesung": "Behauptung (claim), Beleg/Zitat mit Zeilenangabe (evidence), Erklärung der Wirkung (analysis)."
+ },
+ "2026-11-24 11:30": {
+  "frage": "Wie ist ein Comment aufgebaut?",
+  "loesung": "Einleitung mit These/Hinführung → Argumente (pro/contra) mit Beispielen → begründetes Fazit."
+ },
+ "2026-11-24 16:30": {
+  "frage": "Nenne drei Hauptfiguren aus Woyzeck und ihre Rolle (oder aus dem Klausurwerk).",
+  "loesung": "Z. B. Woyzeck (ausgebeuteter Soldat), Marie (seine Geliebte), Tambourmajor (Rivale), Doktor/Hauptmann (Unterdrücker)."
+ },
+ "2026-11-26 16:30": {
+  "frage": "Was gehört in die Einleitung einer Szenenanalyse?",
+  "loesung": "Autor, Titel, Entstehungsjahr, Textsorte, Thema der Szene und Einordnung in den Handlungszusammenhang."
+ },
+ "2026-11-27 09:45": {
+  "frage": "Erkläre zwei zentrale Begriffe deines gk-Klausurthemas in je einem Satz.",
+  "loesung": "Claude prüft."
+ },
+ "2026-11-28 10:00": {
+  "frage": "Deutsch-Probeanalyse: mindestens 13 Punkte laut Claudes Korrektur?",
+  "loesung": "Selbstauskunft – nur abhaken, wenn es stimmt."
+ },
+ "2026-11-30 17:30": {
+  "frage": "Was war die größte Schwäche deiner Probeanalyse, und wie hast du sie verbessert?",
+  "loesung": "Selbstauskunft – Claude prüft."
+ },
+ "2026-12-01 11:30": {
+  "frage": "Nenne eine Deutungsthese zum Klausurwerk mit passendem Zitat.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-01 16:30": {
+  "frage": "Welche Themen kommen in der Mathe-Klausur am 21.12. dran?",
+  "loesung": "Selbstauskunft – Claude trägt sie ein."
+ },
+ "2026-12-03 16:30": {
+  "frage": "Nenne drei Unterpunkte deines gk-Klausurthemas und erkläre einen davon.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-04 09:45": {
+  "frage": "Was verlangt der Operator „Stellung nehmen“?",
+  "loesung": "Ein begründetes eigenes Urteil zu einer Position abgeben, nach Abwägen der Argumente."
+ },
+ "2026-12-07 17:30": {
+  "frage": "Erkläre fünf Fachbegriffe deines Sport-Klausurthemas in je einem Satz.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-08 11:30": {
+  "frage": "Zeichne und erkläre ein Modell aus deinem Sport-Klausurthema.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-08 16:30": {
+  "frage": "Nenne zwei Positionen aus deinem Reli-Klausurthema mit ihrer Kernaussage.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-09 08:30": {
+  "frage": "Wende ein Prinzip aus deinem Sport-Klausurthema auf ein Beispiel aus deiner Sportart an.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-12 10:00": {
+  "frage": "Wie ist eine Erörterung in Religion aufgebaut?",
+  "loesung": "Einleitung/Fragestellung → Positionen und Argumente (mit Bezug auf Theologen/Bibel) → Abwägung → begründetes eigenes Urteil."
+ },
+ "2026-12-13 14:30": {
+  "frage": "Welche Themen kommen in der Physik-Klausur am 17.12. dran, und was ist jeweils die wichtigste Formel?",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-14 17:30": {
+  "frage": "Löse ohne Unterlagen eine Grundaufgabe zum Physik-Thema vom 17.12. und schicke Claude den Ansatz.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-15 11:30": {
+  "frage": "Nenne ohne Unterlagen fünf Formeln für die Klausur am 17.12. mit Einheiten.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-15 16:30": {
+  "frage": "Physik-Mini-Probeklausur: mindestens 13 Punkte?",
+  "loesung": "Selbstauskunft – nur abhaken, wenn es stimmt."
+ },
+ "2026-12-17 16:30": {
+  "frage": "Löse ohne Unterlagen eine Grundaufgabe zum Mathe-Thema vom 21.12. und schicke Claude den Ansatz.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-18 09:45": {
+  "frage": "Rechne ohne WTR eine typische Teil-A-Aufgabe zum Dezember-Thema und schicke den Weg.",
+  "loesung": "Claude prüft."
+ },
+ "2026-12-19 10:00": {
+  "frage": "Mathe-Probeklausur: mindestens 13 Punkte?",
+  "loesung": "Selbstauskunft – nur abhaken, wenn es stimmt."
+ },
  "2027-01-04": {
   "frage": "Bestimme ohne Taschenrechner die Ableitung von f(x) = (2x−1)³ und die Steigung im Punkt x = 1.",
   "loesung": "f'(x) = 6(2x−1)², f'(1) = 6."

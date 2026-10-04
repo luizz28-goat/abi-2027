@@ -1,5 +1,104 @@
 [
  {
+  "id": "K01",
+  "title": "Klausur Mathe 09.11.",
+  "due": "2026-11-09",
+  "fach": "Mathe",
+  "beschreibung": "Klausur Mathe-LK (M1, Frau Assem). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 18,
+  "story_points": 54
+ },
+ {
+  "id": "K02",
+  "title": "Klausur Physik 12.11.",
+  "due": "2026-11-12",
+  "fach": "Physik",
+  "beschreibung": "Klausur Physik-LK (PH1, Herr Baier). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 15,
+  "story_points": 40
+ },
+ {
+  "id": "K03",
+  "title": "Klausur Kunst 17.11.",
+  "due": "2026-11-17",
+  "fach": "Kunst",
+  "beschreibung": "Klausur Kunst (bk2, Herr Kunze). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 5,
+  "story_points": 12
+ },
+ {
+  "id": "K04",
+  "title": "Klausur Geschichte 23.11.",
+  "due": "2026-11-23",
+  "fach": "Geschichte",
+  "beschreibung": "Klausur Geschichte (g3, Frau Schubert). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 5,
+  "story_points": 14
+ },
+ {
+  "id": "K05",
+  "title": "Klausur Englisch 26.11.",
+  "due": "2026-11-26",
+  "fach": "Englisch",
+  "beschreibung": "Klausur Englisch (e1, Frau Buchalla). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 5,
+  "story_points": 11
+ },
+ {
+  "id": "K06",
+  "title": "Klausur Deutsch 03.12.",
+  "due": "2026-12-03",
+  "fach": "Deutsch",
+  "beschreibung": "Klausur Deutsch (d1, Frau Keller, 3.–6. Std.). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 6,
+  "story_points": 14
+ },
+ {
+  "id": "K07",
+  "title": "Klausur Gemeinschaftskunde 07.12.",
+  "due": "2026-12-07",
+  "fach": "Gemeinschaftskunde",
+  "beschreibung": "Klausur Gemeinschaftskunde (gk, Su). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 4,
+  "story_points": 11
+ },
+ {
+  "id": "K08",
+  "title": "Klausur Sport 11.12.",
+  "due": "2026-12-11",
+  "fach": "Sport",
+  "beschreibung": "Klausur Sport-LK (Sp1, Herr Werner, im Plan als KOOP). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 4,
+  "story_points": 9
+ },
+ {
+  "id": "K09",
+  "title": "Klausur Religion 14.12.",
+  "due": "2026-12-14",
+  "fach": "Religion",
+  "beschreibung": "Klausur Religion (rev1, Herr Keller). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 3,
+  "story_points": 7
+ },
+ {
+  "id": "K10",
+  "title": "Klausur Physik 17.12.",
+  "due": "2026-12-17",
+  "fach": "Physik",
+  "beschreibung": "Klausur Physik-LK (PH1, Herr Baier). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 5,
+  "story_points": 12
+ },
+ {
+  "id": "K11",
+  "title": "Klausur Mathe 21.12.",
+  "due": "2026-12-21",
+  "fach": "Mathe",
+  "beschreibung": "Klausur Mathe-LK (M1, Frau Assem). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht.",
+  "stories": 5,
+  "story_points": 15
+ },
+ {
   "id": "M01",
   "title": "Diagnose abgeschlossen",
   "due": "2027-01-10",

@@ -60,6 +60,36 @@
   "description": ""
  },
  {
+  "name": "fach:kunst",
+  "color": "C2E0C6",
+  "description": ""
+ },
+ {
+  "name": "fach:geschichte",
+  "color": "D4C5F9",
+  "description": ""
+ },
+ {
+  "name": "fach:englisch",
+  "color": "0075CA",
+  "description": ""
+ },
+ {
+  "name": "fach:gemeinschaftskunde",
+  "color": "FEF2C0",
+  "description": ""
+ },
+ {
+  "name": "phase:klausuren",
+  "color": "5319E7",
+  "description": "Klausuren 1. Halbjahr (Okt–Dez 2026)"
+ },
+ {
+  "name": "phase:abi",
+  "color": "0E8A16",
+  "description": "Abiturvorbereitung (Jan–Jun 2027)"
+ },
+ {
   "name": "sp:1",
   "color": "FBCA04",
   "description": "1 Story Points"
@@ -83,6 +113,61 @@
   "name": "sp:8",
   "color": "FBCA04",
   "description": "8 Story Points"
+ },
+ {
+  "name": "woche:K01",
+  "color": "C5DEF5",
+  "description": "05.10.–11.10."
+ },
+ {
+  "name": "woche:K02",
+  "color": "C5DEF5",
+  "description": "12.10.–18.10."
+ },
+ {
+  "name": "woche:K03",
+  "color": "C5DEF5",
+  "description": "19.10.–25.10."
+ },
+ {
+  "name": "woche:K04",
+  "color": "C5DEF5",
+  "description": "26.10.–01.11."
+ },
+ {
+  "name": "woche:K05",
+  "color": "C5DEF5",
+  "description": "02.11.–08.11."
+ },
+ {
+  "name": "woche:K06",
+  "color": "C5DEF5",
+  "description": "09.11.–15.11."
+ },
+ {
+  "name": "woche:K07",
+  "color": "C5DEF5",
+  "description": "16.11.–22.11."
+ },
+ {
+  "name": "woche:K08",
+  "color": "C5DEF5",
+  "description": "23.11.–29.11."
+ },
+ {
+  "name": "woche:K09",
+  "color": "C5DEF5",
+  "description": "30.11.–06.12."
+ },
+ {
+  "name": "woche:K10",
+  "color": "C5DEF5",
+  "description": "07.12.–13.12."
+ },
+ {
+  "name": "woche:K11",
+  "color": "C5DEF5",
+  "description": "14.12.–20.12."
  },
  {
   "name": "woche:W01",

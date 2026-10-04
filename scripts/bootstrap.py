@@ -37,11 +37,23 @@ def story_body(s: dict, epic_numbers: dict) -> str:
         + (" · Generalprobe" if s["generalprobe"] else ""),
         "",
         f"Woche: `{s['woche']}` · Milestone: `{s['milestone']}` · Epic: " + (f"#{epic}" if epic else s["epic"]),
+        f"Für: {s['pruefung_name']} ({fmt(s['pruefung'])})",
+        "",
+        f"**Ziel:** {s['briefing']['ziel']}",
         "",
         "## Aufgaben",
         "",
         *[f"- [ ] {a}" for a in s["aufgaben"]],
         "",
+        "## Claude bei „bearbeite diesen Termin“",
+        "",
+        *[f"{n}. {c}" for n, c in enumerate(s["briefing"]["claude"], 1)],
+        "",
+        "## Material",
+        "",
+        *[f"- {m}" for m in s["briefing"]["material"]],
+        "",
+        *(["## Braucht Claude von Luiz", "", *[f"- {i}" for i in s["briefing"]["infos"]], ""] if s["briefing"]["infos"] else []),
         "## Erledigt, wenn",
         "",
         "- alle Aufgaben abgehakt sind,",
@@ -100,22 +112,22 @@ def main() -> None:
         if key in by_marker:
             epic_numbers[e["id"]] = by_marker[key]["number"]
         else:
-            created = gh.create_issue(f"[{e['id']}] {e['title']}", body, ["type:epic", f"fach:{e['fach'].lower()}"])
+            created = gh.create_issue(f"[{e['id']}] {e['title']}", body, ["type:epic", e.get("label") or f"fach:{e['fach'].lower()}"])
             epic_numbers[e["id"]] = created["number"]
             print("Epic", e["id"])
 
     # Lernblöcke
     for s in stories:
         key = ("story", s["id"])
-        title = f"[{s['woche']}] {s['fach']}: {s['titel']}"
+        title = f"[{s['woche']}] {s['fach']}: {s['titel']} · {s['id']}"
         body = story_body(s, epic_numbers)
         if key in by_marker:
             issue = by_marker[key]
             # Nur Text auffrischen, solange der Block offen ist; Labels (Woche/nachholen) gehören dem Wochenabschluss.
-            if issue["state"] == "open" and issue["body"] != body:
-                gh.update_issue(issue["number"], body=body)
+            if issue["state"] == "open" and (issue["body"] != body or issue["title"] != title):
+                gh.update_issue(issue["number"], body=body, title=title)
             continue
-        lab = ["type:lernblock", f"fach:{s['fach'].lower()}", f"woche:{s['woche']}", f"sp:{s['story_points']}"]
+        lab = ["type:lernblock", f"fach:{s['fach'].lower()}", f"woche:{s['woche']}", f"sp:{s['story_points']}", f"phase:{s['phase']}"]
         if s["generalprobe"]:
             lab.append("generalprobe")
         gh.create_issue(title, body, lab, ms_numbers[s["milestone"]])
@@ -123,7 +135,7 @@ def main() -> None:
 
     # Fortschritts-Issue
     if ("fortschritt", "main") not in by_marker:
-        created = gh.create_issue("📊 Fortschritt Abi 2027", marker("fortschritt", "main") + "\n\nWird jeden Sonntag vom Wochenabschluss aktualisiert.", ["type:fortschritt"])
+        created = gh.create_issue("📊 Fortschritt Klausuren + Abi 2027", marker("fortschritt", "main") + "\n\nWird jeden Sonntag vom Wochenabschluss aktualisiert.", ["type:fortschritt"])
         print("Fortschritt", created["number"])
 
     print("Bootstrap fertig.")

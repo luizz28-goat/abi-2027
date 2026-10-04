@@ -1,9 +1,206 @@
 [
  {
+  "id": "K01",
+  "titel": "05.–11.10.",
+  "start": "2026-10-05",
+  "ende": "2026-10-11",
+  "phase": "klausuren",
+  "story_points": 15,
+  "stories": [
+   "KL-001",
+   "KL-002",
+   "KL-003",
+   "KL-004",
+   "KL-005",
+   "KL-006"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K02",
+  "titel": "12.–18.10.",
+  "start": "2026-10-12",
+  "ende": "2026-10-18",
+  "phase": "klausuren",
+  "story_points": 15,
+  "stories": [
+   "KL-007",
+   "KL-008",
+   "KL-009",
+   "KL-010",
+   "KL-011",
+   "KL-012"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K03",
+  "titel": "19.–25.10.",
+  "start": "2026-10-19",
+  "ende": "2026-10-25",
+  "phase": "klausuren",
+  "story_points": 15,
+  "stories": [
+   "KL-013",
+   "KL-014",
+   "KL-015",
+   "KL-016",
+   "KL-017",
+   "KL-018"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K04",
+  "titel": "Herbstferien (26.10.–01.11.)",
+  "start": "2026-10-26",
+  "ende": "2026-11-01",
+  "phase": "klausuren",
+  "story_points": 28,
+  "stories": [
+   "KL-019",
+   "KL-020",
+   "KL-021",
+   "KL-022",
+   "KL-023",
+   "KL-024"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K05",
+  "titel": "02.–08.11.",
+  "start": "2026-11-02",
+  "ende": "2026-11-08",
+  "phase": "klausuren",
+  "story_points": 17,
+  "stories": [
+   "KL-025",
+   "KL-026",
+   "KL-027",
+   "KL-028",
+   "KL-029",
+   "KL-030",
+   "KL-031"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K06",
+  "titel": "09.–15.11.",
+  "start": "2026-11-09",
+  "ende": "2026-11-15",
+  "phase": "klausuren",
+  "story_points": 17,
+  "stories": [
+   "KL-032",
+   "KL-033",
+   "KL-034",
+   "KL-035",
+   "KL-036",
+   "KL-037",
+   "KL-038"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K07",
+  "titel": "16.–22.11.",
+  "start": "2026-11-16",
+  "ende": "2026-11-22",
+  "phase": "klausuren",
+  "story_points": 17,
+  "stories": [
+   "KL-039",
+   "KL-040",
+   "KL-041",
+   "KL-042",
+   "KL-043",
+   "KL-044",
+   "KL-045"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "K08",
+  "titel": "23.–29.11.",
+  "start": "2026-11-23",
+  "ende": "2026-11-29",
+  "phase": "klausuren",
+  "story_points": 17,
+  "stories": [
+   "KL-046",
+   "KL-047",
+   "KL-048",
+   "KL-049",
+   "KL-050",
+   "KL-051",
+   "KL-052"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K09",
+  "titel": "30.11.–06.12.",
+  "start": "2026-11-30",
+  "ende": "2026-12-06",
+  "phase": "klausuren",
+  "story_points": 17,
+  "stories": [
+   "KL-053",
+   "KL-054",
+   "KL-055",
+   "KL-056",
+   "KL-057",
+   "KL-058",
+   "KL-059"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "K10",
+  "titel": "07.–13.12.",
+  "start": "2026-12-07",
+  "ende": "2026-12-13",
+  "phase": "klausuren",
+  "story_points": 19,
+  "stories": [
+   "KL-060",
+   "KL-061",
+   "KL-062",
+   "KL-063",
+   "KL-064",
+   "KL-065",
+   "KL-066",
+   "KL-067"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "K11",
+  "titel": "14.–20.12.",
+  "start": "2026-12-14",
+  "ende": "2026-12-20",
+  "phase": "klausuren",
+  "story_points": 22,
+  "stories": [
+   "KL-068",
+   "KL-069",
+   "KL-070",
+   "KL-071",
+   "KL-072",
+   "KL-073",
+   "KL-074",
+   "KL-075"
+  ],
+  "testfragen": 6
+ },
+ {
   "id": "W01",
   "titel": "Start (04.–10.01.)",
   "start": "2027-01-04",
   "ende": "2027-01-10",
+  "phase": "abi",
   "story_points": 13,
   "stories": [
    "US-001",
@@ -17,6 +214,7 @@
   "titel": "11.01.–17.01.",
   "start": "2027-01-11",
   "ende": "2027-01-17",
+  "phase": "abi",
   "story_points": 13,
   "stories": [
    "US-004",
@@ -33,6 +231,7 @@
   "titel": "18.01.–24.01.",
   "start": "2027-01-18",
   "ende": "2027-01-24",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-010",
@@ -48,6 +247,7 @@
   "titel": "25.01.–31.01.",
   "start": "2027-01-25",
   "ende": "2027-01-31",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-015",
@@ -63,6 +263,7 @@
   "titel": "01.02.–07.02.",
   "start": "2027-02-01",
   "ende": "2027-02-07",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-020",
@@ -78,6 +279,7 @@
   "titel": "08.02.–14.02.",
   "start": "2027-02-08",
   "ende": "2027-02-14",
+  "phase": "abi",
   "story_points": 13,
   "stories": [
    "US-025",
@@ -94,6 +296,7 @@
   "titel": "15.02.–21.02.",
   "start": "2027-02-15",
   "ende": "2027-02-21",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-031",
@@ -109,6 +312,7 @@
   "titel": "22.02.–28.02.",
   "start": "2027-02-22",
   "ende": "2027-02-28",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-036",
@@ -124,6 +328,7 @@
   "titel": "01.03.–07.03.",
   "start": "2027-03-01",
   "ende": "2027-03-07",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-041",
@@ -139,6 +344,7 @@
   "titel": "08.03.–14.03.",
   "start": "2027-03-08",
   "ende": "2027-03-14",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-046",
@@ -154,6 +360,7 @@
   "titel": "15.03.–21.03.",
   "start": "2027-03-15",
   "ende": "2027-03-21",
+  "phase": "abi",
   "story_points": 12,
   "stories": [
    "US-051",
@@ -169,6 +376,7 @@
   "titel": "Osterferien (22.03.–04.04.)",
   "start": "2027-03-22",
   "ende": "2027-04-04",
+  "phase": "abi",
   "story_points": 34,
   "stories": [
    "US-056",
@@ -184,6 +392,7 @@
   "titel": "Endspurt Sport/Physik (05.–11.04.)",
   "start": "2027-04-05",
   "ende": "2027-04-11",
+  "phase": "abi",
   "story_points": 17,
   "stories": [
    "US-061",
@@ -199,6 +408,7 @@
   "titel": "Endspurt Sport/Physik (12.–18.04.)",
   "start": "2027-04-12",
   "ende": "2027-04-18",
+  "phase": "abi",
   "story_points": 13,
   "stories": [
    "US-066",
@@ -215,6 +425,7 @@
   "titel": "Mathe-Endspurt (19.–25.04.)",
   "start": "2027-04-19",
   "ende": "2027-04-25",
+  "phase": "abi",
   "story_points": 19,
   "stories": [
    "US-072",
@@ -230,6 +441,7 @@
   "titel": "Mathe-Endspurt (26.04.–02.05.)",
   "start": "2027-04-26",
   "ende": "2027-05-02",
+  "phase": "abi",
   "story_points": 28,
   "stories": [
    "US-077",
@@ -245,6 +457,7 @@
   "titel": "Mathe-Prüfung (03.–09.05.)",
   "start": "2027-05-03",
   "ende": "2027-05-09",
+  "phase": "abi",
   "story_points": 4,
   "stories": [
    "US-082",
@@ -257,6 +470,7 @@
   "titel": "Mündlich Start (10.–16.05.)",
   "start": "2027-05-10",
   "ende": "2027-05-16",
+  "phase": "abi",
   "story_points": 7,
   "stories": [
    "US-084",
@@ -270,6 +484,7 @@
   "titel": "Pfingstferien 1 (17.–23.05.)",
   "start": "2027-05-17",
   "ende": "2027-05-23",
+  "phase": "abi",
   "story_points": 18,
   "stories": [
    "US-087",
@@ -284,6 +499,7 @@
   "titel": "Pfingstferien 2 (24.–30.05.)",
   "start": "2027-05-24",
   "ende": "2027-05-30",
+  "phase": "abi",
   "story_points": 23,
   "stories": [
    "US-091",
@@ -299,6 +515,7 @@
   "titel": "Mündlich (31.05.–06.06.)",
   "start": "2027-05-31",
   "ende": "2027-06-06",
+  "phase": "abi",
   "story_points": 7,
   "stories": [
    "US-096",
@@ -312,6 +529,7 @@
   "titel": "Mündlich (07.–13.06.)",
   "start": "2027-06-07",
   "ende": "2027-06-13",
+  "phase": "abi",
   "story_points": 7,
   "stories": [
    "US-099",
@@ -325,6 +543,7 @@
   "titel": "Mündlich (14.–20.06.)",
   "start": "2027-06-14",
   "ende": "2027-06-20",
+  "phase": "abi",
   "story_points": 7,
   "stories": [
    "US-102",
@@ -338,6 +557,7 @@
   "titel": "Mündlich (21.–27.06.)",
   "start": "2027-06-21",
   "ende": "2027-06-27",
+  "phase": "abi",
   "story_points": 10,
   "stories": [
    "US-105",

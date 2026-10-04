@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PRUEFUNGEN = {"Sport": date(2027, 4, 19), "Physik": date(2027, 4, 20), "Mathe": date(2027, 5, 5),
               "Deutsch": date(2027, 6, 28), "Religion": date(2027, 6, 28)}
+ABI_START = date(2027, 1, 4)
 
 
 def load(name):
@@ -39,21 +40,35 @@ def main() -> int:
             fehler.append(f"{s['id']}: keine Aufgaben")
         if s["story_points"] not in (1, 2, 3, 5, 8):
             fehler.append(f"{s['id']}: Story Points {s['story_points']} nicht in Fibonacci-Reihe")
-        p = PRUEFUNGEN.get(s["fach"])
-        if p and d > p:
-            fehler.append(f"{s['id']}: Lernblock {s['fach']} nach der Prüfung ({d})")
-        for fach, pd in PRUEFUNGEN.items():
-            if d == pd and s["start"] < "15:00" and s["fach"] != "Organisation":
-                fehler.append(f"{s['id']}: Lernblock am Prüfungstag {fach} vormittags")
+        p = date.fromisoformat(s["pruefung"])
+        if s["phase"] == "klausuren":
+            if d >= p:
+                fehler.append(f"{s['id']}: Lernblock {s['fach']} nicht vor seiner Klausur ({d})")
+            if d >= ABI_START:
+                fehler.append(f"{s['id']}: Klausurphase-Block im Abi-Zeitraum ({d})")
+        else:
+            pa = PRUEFUNGEN.get(s["fach"])
+            if pa and d > pa:
+                fehler.append(f"{s['id']}: Lernblock {s['fach']} nach der Prüfung ({d})")
+            for fach, pd in PRUEFUNGEN.items():
+                if d == pd and s["start"] < "15:00" and s["fach"] != "Organisation":
+                    fehler.append(f"{s['id']}: Lernblock am Prüfungstag {fach} vormittags")
+        br = s.get("briefing") or {}
+        if not br.get("ziel") or len(br.get("claude", [])) < 2 or not br.get("material"):
+            fehler.append(f"{s['id']}: Briefing unvollständig (Ziel, Claude-Schritte, Material)")
         key = (s["datum"], s["start"])
         if key in slots:
             fehler.append(f"{s['id']}: zwei Blöcke zur selben Zeit {key}")
         slots.add(key)
-        if s["fach"] in ("Mathe", "Physik", "Sport", "Deutsch", "Religion") and not s["titel"].startswith("Letzter Check") and not s["testfrage"]:
+        braucht_frage = s["fach"] != "Organisation" if s["phase"] == "klausuren" else s["fach"] in ("Mathe", "Physik", "Sport", "Deutsch", "Religion")
+        if braucht_frage and not s["titel"].startswith("Letzter Check") and not s["testfrage"]:
             fehler.append(f"{s['id']}: keine Testfrage")
     for a, b in zip(wochen, wochen[1:]):
         if date.fromisoformat(a["ende"]) >= date.fromisoformat(b["start"]):
             fehler.append(f"Wochen {a['id']}/{b['id']} überlappen")
+    kal = load("kalender.json")
+    if len(kal) != len(stories) or any(not k["description"] or "BEARBEITE DIESEN TERMIN" not in k["description"] for k in kal):
+        fehler.append("data/kalender.json passt nicht zu den Stories (generate.py laufen lassen)")
     for m in ms:
         if m["stories"] == 0:
             fehler.append(f"Milestone {m['id']} hat keine Stories")

@@ -20,6 +20,14 @@ Selbstauskunft-Fragen (z. B. „Generalprobe ≥ 13 Punkte?“) werden nur abgeh
 
 Eine Woche ist bestanden ab **80 %** richtiger Testfragen. Nicht bestandene Wochen sieht man im Fortschritts-Issue mit ❌.
 
+## Klausurphase (Okt–Dez 2026)
+
+- Gleiche Regeln wie im Abi-Teil, nur mit Klausuren statt Abiprüfungen: Ein Block, dessen Klausur vor dem Start der
+  nächsten Woche liegt, wird nicht mehr verschoben, sondern geschlossen.
+- Am Tag vor einer Klausur gibt es nur den „Letzten Check“. Probeklausuren liegen mindestens zwei Tage vorher.
+- Fragen zu Blöcken ohne festes Thema (Physik, Kunst, Sport …) beantwortest du als Nachricht an Claude; sobald das
+  Klausurthema feststeht, ersetzt Claude sie durch echte Themenfragen.
+
 ## Prüfungsnähe
 
 - Ab den Osterferien zählt bei Generalproben nur „≥ 13 Punkte“.

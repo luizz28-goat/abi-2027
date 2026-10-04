@@ -100,12 +100,33 @@ class WocheTest(unittest.TestCase):
                 self.assertIn(sid, t3["body"])
         self.assertIn("nachgeholt", t3["body"])
 
+    def test_klausurphase(self):
+        """Nach der Klausur wird nichts mehr verschoben; andere Fächer wandern in die nächste K-Woche."""
+        gh = FakeGitHub()
+        k05 = [s for s in self.stories if s["woche"] == "K05"]
+        for s in k05:
+            gh._add(f"[K05] {s['titel']}", marker("story", s["id"]), ["type:lernblock", "woche:K05", f"sp:{s['story_points']}"])
+        gh._add("Fortschritt", marker("fortschritt", "main"), ["type:fortschritt"])
+        woche.main(["start", "--woche", "K05"], gh=gh)
+        woche.main(["abschluss", "--woche", "K05"], gh=gh)  # nichts erledigt, nichts richtig
+        status = {i["body"].split("abi-story: ")[1].split(" ")[0]: i for i in gh.items.values() if "abi-story" in (i["body"] or "")}
+        for s in k05:
+            labels = {l["name"] for l in status[s["id"]]["labels"]}
+            if s["fach"] == "Mathe":  # Mathe-Klausur am 09.11. = Start K06
+                self.assertEqual(status[s["id"]]["state"], "closed", s["id"])
+            else:
+                self.assertIn("woche:K06", labels, s["id"])
+                self.assertIn("nachholen", labels, s["id"])
+
     def test_wochenerkennung(self):
         wochen = woche.load("wochen.json")
         from datetime import date
         self.assertEqual(wochen[woche.woche_fuer(wochen, date(2027, 1, 11), "start")]["id"], "W02")
         self.assertEqual(wochen[woche.woche_fuer(wochen, date(2027, 4, 4), "abschluss")]["id"], "W12")
         self.assertIsNone(woche.woche_fuer(wochen, date(2027, 3, 28), "abschluss"))
+        self.assertEqual(wochen[woche.woche_fuer(wochen, date(2026, 10, 5), "start")]["id"], "K01")
+        self.assertEqual(wochen[woche.woche_fuer(wochen, date(2026, 12, 20), "abschluss")]["id"], "K11")
+        self.assertIsNone(woche.woche_fuer(wochen, date(2027, 1, 3), "abschluss"))
 
 
 if __name__ == "__main__":

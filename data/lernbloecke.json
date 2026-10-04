@@ -1,5 +1,1589 @@
 [
  {
+  "date": "2026-10-05",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Stochastik: Check-in Grundlagen der WK-Rechnung",
+  "aufgaben": [
+   "Mathebattle: Training „LF-8 Check-in Grundl. der WK-Rechnung“ komplett lösen, ohne Hilfe",
+   "Jede falsche Aufgabe in die Fehlerliste: Aufgabe · Thema · Fehlerart (Rechnen/Verständnis/Zeit) · richtiger Weg",
+   "Stoffübersicht Stochastik auf 1 Seite: Ergebnis, Ereignis, Gegenereignis, Laplace, Baumdiagramm, Pfadregeln"
+  ],
+  "week": "K01 05.–11.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Wissen, wo du in Stochastik stehst, und deine Fehlerliste ist angelegt.",
+  "claude": [
+   "Mathebattle im Browser öffnen: Stand des Check-ins und des Battles „Kombinatorik, Pfadregel, E-Wert“ (Frist 31.10.) auslesen",
+   "Lernversionen Mathe zu Stochastik in Notion lesen",
+   "Fehlerliste Mathe als Notion-Tabelle anlegen, falls es noch keine gibt",
+   "Nach dem Block: Ergebnis auswerten und die zwei schwächsten Themen in die nächsten Mathe-Blöcke eintragen"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 09.11. von Frau Assem: Stochastik bestätigt? Gehören Vierfeldertafel/bedingte Wahrscheinlichkeit und Binomialverteilung dazu? Hilfsmittelfreier Teil?"
+  ]
+ },
+ {
+  "date": "2026-10-06",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Physik",
+  "thema": "Klausurthemen klären + Formelsammlung starten",
+  "aufgaben": [
+   "Herrn Baier nach den Themen der Klausur am 12.11. fragen: Kapitel, Buchseiten, erlaubte Hilfsmittel",
+   "Eigene Formelsammlung fürs erste Klausurthema anlegen: jede Formel mit Bedeutung aller Größen und Einheiten",
+   "Drei Aufgaben aus dem Unterricht der letzten Wochen ohne Lösung nachrechnen"
+  ],
+  "week": "K01 05.–11.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du weißt genau, was am 12.11. drankommt, und hast die Formelsammlung fürs erste Thema.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Eine Formelsammlungs-Vorlage zum Thema als Notion-Seite erstellen",
+   "Drei passende Übungsaufgaben (LEIFI Physik, BW-Abi Physik) mit Lösung raussuchen",
+   "Die Physik-Testfragen im Repo (data/testfragen.json) auf das echte Thema umschreiben"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-07",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Stochastik: Ziehen mit und ohne Zurücklegen",
+  "aufgaben": [
+   "Mathebattle-Battle „Kombinatorik, Pfadregel, E-Wert“: Typ 2 Ziehen mit Zurücklegen (3 richtige)",
+   "Typ 3 Ziehen ohne Zurücklegen (3 richtige)",
+   "Zwei Alt-Abi-Teilaufgaben Baumdiagramm/Pfadregel in 25 Min (Claude sucht raus)",
+   "Fehler in die Fehlerliste"
+  ],
+  "week": "K01 05.–11.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ziehen mit und ohne Zurücklegen sicher im Baumdiagramm und per Formel rechnen.",
+  "claude": [
+   "Mathebattle-Stand der Typen 2 und 3 auslesen",
+   "Zwei Stochastik-Teilaufgaben zu Baumdiagramm/Pfadregel aus mathe-aufgaben.com (BW-Abi Leistungsfach) raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
+   "Lösungen erst nach Luiz' Abgabe zeigen und korrigieren"
+  ]
+ },
+ {
+  "date": "2026-10-08",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Organisation",
+  "thema": "Nacharbeiten + Vokabeln",
+  "aufgaben": [
+   "GoodNotes-Aufschriebe der Woche durchgehen und unklare Stellen markieren",
+   "Die Lernversionen lesen, die Claude aus der Woche in Notion erstellt hat, Fragen notieren",
+   "Englisch: 15 Min Vokabeln (aktuelle Unit), falsche Wörter auf die Wiederholungsliste"
+  ],
+  "week": "K01 05.–11.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Woche ist sauber nachgearbeitet: alle Aufschriebe als Lernversion in Notion, Unklares geklärt, Vokabeln sitzen.",
+  "claude": [
+   "Neue GoodNotes-PDFs (Drive-Backup) und Sprachmemos (Drive Schule/Memo) seit dem letzten Nacharbeiten-Block suchen",
+   "Daraus Lernversionen in Notion („Schule – Lernversionen“, einheitliches Schema) erstellen oder ergänzen",
+   "Unleserliche Wörter und unklare Stellen als kurze Liste zum Auflösen vorlegen",
+   "Eine Vokabel-Abfrage (10 Wörter Deutsch→Englisch) aus der aktuellen Unit stellen und auswerten"
+  ],
+  "infos": [
+   "Falls die Sprachmemos noch nicht exportiert sind: kurz Bescheid geben (Export freitags)"
+  ]
+ },
+ {
+  "date": "2026-10-09",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Physik",
+  "thema": "Erstes Klausurthema rechnen",
+  "aufgaben": [
+   "Vier Übungsaufgaben zum ersten Klausurthema ohne Lösung rechnen (Claude sucht raus)",
+   "Selbst korrigieren, Fehler in die Fehlerliste Physik",
+   "Formelsammlung ergänzen"
+  ],
+  "week": "K01 05.–11.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Grundaufgaben des ersten Klausurthemas laufen ohne Nachschauen.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Vier Aufgaben steigender Schwierigkeit (LEIFI Physik, BW-Abi Physik) mit Link und Lösung raussuchen",
+   "Fehlerliste Physik als Notion-Tabelle anlegen, falls es noch keine gibt"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-10",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Stochastik: Ziehen bis zum ersten Erfolg, Erwartungswert, faires Spiel",
+  "aufgaben": [
+   "Mathebattle Typ 4 „Ziehen bis erstmals x kommt“ (3 richtige)",
+   "Typ 5 Erwartungswerte (2 richtige)",
+   "Typ 6 Faires Spiel – fehlende Auszahlung bestimmen (2 richtige) → Battle komplett",
+   "Merkblatt: Erwartungswert E(X) = Σ xᵢ·P(X=xᵢ), faires Spiel ⇔ E(Gewinn) = 0"
+  ],
+  "week": "K01 05.–11.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Das Mathebattle-Battle ist komplett, Erwartungswert und faires Spiel sitzen.",
+  "claude": [
+   "Mathebattle-Stand der Typen 4–6 auslesen und prüfen, ob das Battle danach komplett ist",
+   "Zu jedem falsch gelösten Typ eine Erklär-Aufgabe mit Lösungsweg vorbereiten"
+  ]
+ },
+ {
+  "date": "2026-10-12",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Stochastik: Kombinatorik und „mindestens einmal“",
+  "aufgaben": [
+   "Urnenmodelle: mit/ohne Reihenfolge, mit/ohne Zurücklegen, Binomialkoeffizient (4 Aufgaben)",
+   "Gegenereignis: P(mindestens einmal) = 1 − P(keinmal), 3 Aufgaben",
+   "Eine „Wie oft muss man mindestens …?“-Aufgabe mit Ungleichung und ln lösen",
+   "Fehlerliste"
+  ],
+  "week": "K02 12.–18.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Anzahlen mit Urnenmodellen bestimmen und „mindestens einmal“-Aufgaben über das Gegenereignis lösen.",
+  "claude": [
+   "Sieben passende Aufgaben (Mathebattle-Training oder BW-Abi Teil A) raussuchen und als Aufgabenblatt mit Zeitvorgabe vorlegen",
+   "Lösungen erst nach Abgabe zeigen, Fehler in die Fehlerliste übernehmen"
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Physik",
+  "thema": "Klausurthema 1 vertiefen",
+  "aufgaben": [
+   "Drei Aufgaben mittleren Niveaus rechnen (Claude sucht raus)",
+   "Eine Herleitung aus dem Unterricht ohne Unterlagen aufschreiben und mit dem Aufschrieb vergleichen",
+   "Fehlerliste"
+  ],
+  "week": "K02 12.–18.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Thema 1 auch bei mittelschweren Aufgaben und Herleitungen sicher.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Drei Aufgaben mittleren Niveaus mit Lösung raussuchen",
+   "Die wichtigste Herleitung des Themas als Lückentext vorbereiten"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-14",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Stochastik: Alt-Abi Teil A und erste Wahlteil-Aufgabe",
+  "aufgaben": [
+   "Vier Stochastik-Aufgaben aus BW-Abi Teil A ohne WTR in 30 Min",
+   "Mit Musterlösung korrigieren, Punkte notieren",
+   "Eine Stochastik-Teilaufgabe aus Teil B mit WTR in 30 Min",
+   "Fehlerliste"
+  ],
+  "week": "K02 12.–18.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Stochastik-Aufgaben im echten Abi-Format unter Zeit lösen.",
+  "claude": [
+   "Vier Teil-A-Aufgaben Stochastik und eine Teil-B-Teilaufgabe aus mathe-aufgaben.com (BW Leistungsfach 2019–2026) auswählen: Jahrgang, Aufgabennummer, Link, BE",
+   "Nur Themen nehmen, die laut Frau Assem in der Klausur vorkommen",
+   "Korrigieren und Punktzahl in Prozent angeben"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 09.11. von Frau Assem: Stochastik bestätigt? Gehören Vierfeldertafel/bedingte Wahrscheinlichkeit und Binomialverteilung dazu? Hilfsmittelfreier Teil?"
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Klausurthema 2",
+  "aufgaben": [
+   "Lernversion zum zweiten Klausurthema lesen, Formelsammlung ergänzen",
+   "Drei Aufgaben rechnen (Claude sucht raus)",
+   "Fehlerliste"
+  ],
+  "week": "K02 12.–18.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Thema 2 ist verstanden und in der Formelsammlung.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Drei Grundaufgaben zum zweiten Thema mit Lösung raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-16",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Organisation",
+  "thema": "Nacharbeiten + Vokabeln",
+  "aufgaben": [
+   "GoodNotes-Aufschriebe der Woche durchgehen und unklare Stellen markieren",
+   "Die Lernversionen lesen, die Claude aus der Woche in Notion erstellt hat, Fragen notieren",
+   "Englisch: 15 Min Vokabeln (aktuelle Unit), falsche Wörter auf die Wiederholungsliste"
+  ],
+  "week": "K02 12.–18.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Woche ist sauber nachgearbeitet: alle Aufschriebe als Lernversion in Notion, Unklares geklärt, Vokabeln sitzen.",
+  "claude": [
+   "Neue GoodNotes-PDFs (Drive-Backup) und Sprachmemos (Drive Schule/Memo) seit dem letzten Nacharbeiten-Block suchen",
+   "Daraus Lernversionen in Notion („Schule – Lernversionen“, einheitliches Schema) erstellen oder ergänzen",
+   "Unleserliche Wörter und unklare Stellen als kurze Liste zum Auflösen vorlegen",
+   "Eine Vokabel-Abfrage (10 Wörter Deutsch→Englisch) aus der aktuellen Unit stellen und auswerten"
+  ],
+  "infos": [
+   "Falls die Sprachmemos noch nicht exportiert sind: kurz Bescheid geben (Export freitags)"
+  ]
+ },
+ {
+  "date": "2026-10-17",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Stochastik: Vierfeldertafel und bedingte Wahrscheinlichkeit",
+  "aufgaben": [
+   "Vierfeldertafel aufstellen, P_A(B) berechnen, Baum umdrehen (3 Aufgaben)",
+   "Stochastische Unabhängigkeit prüfen (2 Aufgaben)",
+   "Falls laut Frau Assem kein Klausurstoff: stattdessen zwei weitere Alt-Abi-Aufgaben zu Pfadregel und Erwartungswert",
+   "Fehlerliste"
+  ],
+  "week": "K02 12.–18.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Vierfeldertafel und bedingte Wahrscheinlichkeit sicher – oder, falls kein Klausurstoff, Pfadregeln vertieft.",
+  "claude": [
+   "Klären (lernplan-status.md oder Luiz fragen), ob Vierfeldertafel/bedingte Wahrscheinlichkeit in der Klausur vorkommt",
+   "Je nach Antwort fünf passende Aufgaben raussuchen (BW-Abi, Mathebattle)"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 09.11. von Frau Assem: Stochastik bestätigt? Gehören Vierfeldertafel/bedingte Wahrscheinlichkeit und Binomialverteilung dazu? Hilfsmittelfreier Teil?"
+  ]
+ },
+ {
+  "date": "2026-10-19",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Stochastik: Binomialverteilung – Grundlagen",
+  "aufgaben": [
+   "Voraussetzungen einer Bernoulli-Kette aufschreiben, Formel P(X=k) = (n über k)·pᵏ·(1−p)ⁿ⁻ᵏ",
+   "WTR-Befehle für P(X=k) und P(X≤k) üben",
+   "Sechs Aufgaben: genau k, höchstens k, mindestens k, zwischen a und b",
+   "Falls kein Klausurstoff: Alt-Abi-Mix Pfadregel/Erwartungswert"
+  ],
+  "week": "K03 19.–25.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Bernoulli-Ketten erkennen und Binomialwahrscheinlichkeiten mit Formel und WTR berechnen.",
+  "claude": [
+   "Prüfen, ob Binomialverteilung Klausurstoff ist",
+   "Sechs Aufgaben passend zum Stand raussuchen, WTR-Befehle für Luiz' Modell kurz erklären"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 09.11. von Frau Assem: Stochastik bestätigt? Gehören Vierfeldertafel/bedingte Wahrscheinlichkeit und Binomialverteilung dazu? Hilfsmittelfreier Teil?",
+   "Welcher Taschenrechner (Modell) ist in der Klausur erlaubt?"
+  ]
+ },
+ {
+  "date": "2026-10-20",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Physik",
+  "thema": "Aufgaben-Mix Thema 1 + 2",
+  "aufgaben": [
+   "Drei gemischte Aufgaben zu Thema 1 und 2 (Claude)",
+   "Fehlerliste Physik einmal durchrechnen"
+  ],
+  "week": "K03 19.–25.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Beide Themen gemischt, so wie in der Klausur.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Drei gemischte Aufgaben (Klausurniveau) raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-21",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Stochastik: Binomialverteilung – Erwartungswert und Problemlösen",
+  "aufgaben": [
+   "E(X) = n·p und σ = √(n·p·(1−p)) anwenden, Histogramme deuten",
+   "Gesucht n oder p: Mindestanzahl Versuche bestimmen",
+   "Zwei Teil-B-Stochastik-Aufgaben aus BW-Abis komplett in 45 Min",
+   "Fehlerliste"
+  ],
+  "week": "K03 19.–25.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Erwartungswert, Standardabweichung und gesuchtes n oder p bei der Binomialverteilung.",
+  "claude": [
+   "Zwei Teil-B-Stochastik-Aufgaben (mathe-aufgaben.com, BW Leistungsfach) mit Link, BE und Zeit auswählen",
+   "Nach Abgabe korrigieren und Punkte in Prozent angeben"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 09.11. von Frau Assem: Stochastik bestätigt? Gehören Vierfeldertafel/bedingte Wahrscheinlichkeit und Binomialverteilung dazu? Hilfsmittelfreier Teil?"
+  ]
+ },
+ {
+  "date": "2026-10-22",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Klausurthema 3 / Lücken schließen",
+  "aufgaben": [
+   "Drittes Klausurthema: Lernversion lesen, Formelsammlung ergänzen (gibt es keins: größte Lücke aus der Fehlerliste)",
+   "Drei Aufgaben dazu rechnen"
+  ],
+  "week": "K03 19.–25.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Das letzte Klausurthema ist angefangen oder die größte Lücke ist geschlossen.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Drei Aufgaben zum dritten Thema oder zur größten Lücke raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-23",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Organisation",
+  "thema": "Nacharbeiten + Vokabeln",
+  "aufgaben": [
+   "GoodNotes-Aufschriebe der Woche durchgehen und unklare Stellen markieren",
+   "Die Lernversionen lesen, die Claude aus der Woche in Notion erstellt hat, Fragen notieren",
+   "Englisch: 15 Min Vokabeln (aktuelle Unit), falsche Wörter auf die Wiederholungsliste"
+  ],
+  "week": "K03 19.–25.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Woche ist sauber nachgearbeitet: alle Aufschriebe als Lernversion in Notion, Unklares geklärt, Vokabeln sitzen.",
+  "claude": [
+   "Neue GoodNotes-PDFs (Drive-Backup) und Sprachmemos (Drive Schule/Memo) seit dem letzten Nacharbeiten-Block suchen",
+   "Daraus Lernversionen in Notion („Schule – Lernversionen“, einheitliches Schema) erstellen oder ergänzen",
+   "Unleserliche Wörter und unklare Stellen als kurze Liste zum Auflösen vorlegen",
+   "Eine Vokabel-Abfrage (10 Wörter Deutsch→Englisch) aus der aktuellen Unit stellen und auswerten"
+  ],
+  "infos": [
+   "Falls die Sprachmemos noch nicht exportiert sind: kurz Bescheid geben (Export freitags)"
+  ]
+ },
+ {
+  "date": "2026-10-24",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Stochastik: komplette Alt-Abi-Aufgabe",
+  "aufgaben": [
+   "Eine komplette Stochastik-Aufgabe Teil B aus einem BW-Abi in 45 Min (Claude)",
+   "Korrigieren, Fehlerliste",
+   "Fehlerliste der Wochen K01–K03 einmal komplett nachrechnen"
+  ],
+  "week": "K03 19.–25.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Eine komplette Stochastik-Aufgabe in Abi-Zeit durchziehen.",
+  "claude": [
+   "Eine komplette Teil-B-Stochastikaufgabe auswählen, die noch nicht bearbeitet wurde",
+   "Korrigieren und Punkte in Prozent angeben"
+  ]
+ },
+ {
+  "date": "2026-10-26",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Ferien: Mathe-Schwachstellen",
+  "aufgaben": [
+   "Fehlerliste durchrechnen: jede Aufgabe neu, ohne auf die Lösung zu schauen",
+   "Themen-Ampel Stochastik ausfüllen (grün/gelb/rot)",
+   "Zu jedem roten Thema drei Aufgaben (Claude)"
+  ],
+  "week": "K04 Herbstferien (26.10.–01.11.)",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Alle roten Themen in Stochastik werden mindestens gelb.",
+  "claude": [
+   "Fehlerliste und Ampel aus Notion lesen",
+   "Zu jedem roten Thema drei Aufgaben steigender Schwierigkeit raussuchen"
+  ]
+ },
+ {
+  "date": "2026-10-27",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Physik",
+  "thema": "Ferien: alle Physik-Klausurthemen einmal durch",
+  "aufgaben": [
+   "Formelsammlung komplettieren",
+   "Zu jedem Klausurthema zwei Aufgaben (Claude)",
+   "Themen-Ampel Physik ausfüllen"
+  ],
+  "week": "K04 Herbstferien (26.10.–01.11.)",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Jedes Klausurthema einmal mit Aufgaben durch, Formelsammlung komplett.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Zu jedem Klausurthema zwei Aufgaben auf Klausurniveau mit Lösung raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-28",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Ferien: Teil A und Teil B unter Zeit",
+  "aufgaben": [
+   "Sechs Teil-A-Stochastikaufgaben ohne WTR in 40 Min",
+   "Eine komplette Teil-B-Stochastikaufgabe in 45 Min",
+   "Korrigieren, Fehlerliste"
+  ],
+  "week": "K04 Herbstferien (26.10.–01.11.)",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Hilfsmittelfreie Aufgaben schnell und sicher, Teil-B-Aufgaben in Abi-Zeit.",
+  "claude": [
+   "Sechs Teil-A-Aufgaben und eine Teil-B-Aufgabe auswählen, die noch nicht bearbeitet wurden",
+   "Korrigieren und Punkte angeben"
+  ]
+ },
+ {
+  "date": "2026-10-29",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Physik",
+  "thema": "Ferien: Klausuraufgaben unter Zeit",
+  "aufgaben": [
+   "Zwei klausurtypische Aufgaben in 60 Min (Claude)",
+   "Korrigieren, Fehlerliste",
+   "Lücken mit LEIFI-Erklärungen schließen"
+  ],
+  "week": "K04 Herbstferien (26.10.–01.11.)",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Klausurtypische Aufgaben unter Zeitdruck lösen.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Zwei klausurähnliche Aufgaben (BW-Abi Physik oder alte Klausuren) mit Erwartungshorizont raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-10-30",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Mathe-Probeklausur",
+  "aufgaben": [
+   "Probeklausur von Claude ohne Unterlagen schreiben (Länge und Hilfsmittel wie in der echten Klausur)",
+   "Mit Erwartungshorizont korrigieren lassen, Punkte notieren",
+   "Alle Fehler in die Fehlerliste"
+  ],
+  "week": "K04 Herbstferien (26.10.–01.11.)",
+  "kind": "probe",
+  "phase": "klausuren",
+  "ziel": "Eine komplette Probeklausur unter echten Bedingungen.",
+  "claude": [
+   "Probeklausur im Format der echten Klausur erstellen (Themen laut Frau Assem, Teil ohne/mit WTR), mit Erwartungshorizont und Punkteschema",
+   "Nach Abgabe (Foto/Scan) korrigieren, Punkte in Notenpunkte umrechnen",
+   "Fehler in die Fehlerliste übernehmen und die Blöcke 02.11./05.11. darauf ausrichten"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 09.11. von Frau Assem: Stochastik bestätigt? Gehören Vierfeldertafel/bedingte Wahrscheinlichkeit und Binomialverteilung dazu? Hilfsmittelfreier Teil?",
+   "Wie lang ist die Klausur (Minuten) und gibt es einen hilfsmittelfreien Teil?"
+  ]
+ },
+ {
+  "date": "2026-10-31",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Lücken aus der Ferienwoche",
+  "aufgaben": [
+   "Fehlerliste Physik der Ferienwoche nachrechnen",
+   "Zwei Aufgaben zum schwächsten Thema (Claude)"
+  ],
+  "week": "K04 Herbstferien (26.10.–01.11.)",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Fehler aus den Ferienblöcken sind korrigiert.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Zwei Aufgaben zum schwächsten Thema laut Ampel raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-11-02",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Fehler aus der Probeklausur",
+  "aufgaben": [
+   "Alle Probeklausur-Fehler ohne Lösung neu rechnen",
+   "Zu jedem Fehlertyp eine ähnliche Aufgabe (Claude)"
+  ],
+  "week": "K05 02.–08.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Jeder Fehler aus der Probeklausur ist einmal richtig nachgerechnet.",
+  "claude": [
+   "Fehler aus der Probeklausur aus der Fehlerliste holen",
+   "Zu jedem Fehlertyp eine ähnliche Aufgabe raussuchen"
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Physik",
+  "thema": "Aufgaben-Mix",
+  "aufgaben": [
+   "Drei gemischte Aufgaben (Claude)",
+   "Fehlerliste"
+  ],
+  "week": "K05 02.–08.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Alle Themen gemischt auf Klausurniveau.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Drei gemischte Aufgaben raussuchen, die noch nicht bearbeitet wurden"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-11-03",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Kunst",
+  "thema": "Klausurthemen + Aufbau der Werkanalyse",
+  "aufgaben": [
+   "Herrn Kunze nach den Klausurthemen am 17.11. fragen (Epoche, Künstler, Aufgabenart)",
+   "Aufbau einer Werkanalyse aufschreiben: Werkdaten, erster Eindruck, Beschreibung, formale Analyse, Interpretation, Wertung",
+   "Fachbegriffe-Liste starten (Komposition, Farbe, Licht, Raum, Form)"
+  ],
+  "week": "K05 02.–08.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du kennst die Klausurthemen und den Aufbau einer Werkanalyse.",
+  "claude": [
+   "Klausurthemen Kunst aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
+   "Lernversionen Kunst in Notion lesen",
+   "Ein Analyseschema als Notion-Vorlage erstellen und ein Beispielbild zum Thema raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Kunst 17.11. (Herr Kunze): Epoche/Künstler, Aufgabenart"
+  ]
+ },
+ {
+  "date": "2026-11-04",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Physik",
+  "thema": "Physik-Probeklausur",
+  "aufgaben": [
+   "Probeklausur von Claude schreiben (90 Min, ohne Unterlagen, Hilfsmittel wie in der Klausur)",
+   "Korrigieren lassen, Punkte notieren",
+   "Fehler in die Fehlerliste"
+  ],
+  "week": "K05 02.–08.11.",
+  "kind": "probe",
+  "phase": "klausuren",
+  "ziel": "Eine Probeklausur unter echten Bedingungen.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Probeklausur mit Erwartungshorizont aus den Klausurthemen erstellen (Aufgaben im Stil BW-Abi Physik)",
+   "Nach Abgabe (Foto/Scan) korrigieren und Notenpunkte angeben",
+   "Blöcke 09.–11.11. auf die Fehler ausrichten"
+  ],
+  "infos": [
+   "Klausurthemen Physik 12.11. von Herrn Baier (Kapitel, Buchseiten, Formelsammlung erlaubt?)"
+  ]
+ },
+ {
+  "date": "2026-11-05",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Mathe",
+  "thema": "Hilfsmittelfreier Teil – Speedrun",
+  "aufgaben": [
+   "Acht kurze Stochastik-Aufgaben ohne WTR in 30 Min",
+   "Korrigieren",
+   "Merkblatt aktualisieren"
+  ],
+  "week": "K05 02.–08.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Hilfsmittelfreie Aufgaben schnell und fehlerfrei.",
+  "claude": [
+   "Acht kurze Aufgaben ohne WTR (BW-Abi Teil A, Mathebattle) raussuchen",
+   "Zeit mitstoppen lassen und auswerten"
+  ]
+ },
+ {
+  "date": "2026-11-06",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Kunst",
+  "thema": "Fachbegriffe + Epochen/Künstler",
+  "aufgaben": [
+   "Karteikarten: Fachbegriffe und Merkmale der Klausur-Epoche/des Künstlers",
+   "Ein Bild aus dem Unterricht mündlich in 5 Min beschreiben"
+  ],
+  "week": "K05 02.–08.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Fachbegriffe und Epochenmerkmale sitzen.",
+  "claude": [
+   "Lernversionen Kunst lesen",
+   "Karteikarten (Begriff → Erklärung) aus den Aufschrieben erstellen"
+  ],
+  "infos": [
+   "Klausurthemen Kunst 17.11."
+  ]
+ },
+ {
+  "date": "2026-11-07",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Letzter Check Mathe",
+  "aufgaben": [
+   "Merkblatt und Fehlerliste einmal durchlesen, drei Fehler-Aufgaben noch einmal rechnen",
+   "WTR-Befehle prüfen, Tasche packen",
+   "Danach frei bis Montag"
+  ],
+  "week": "K05 02.–08.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig und vorbereitet in die Klausur am Montag.",
+  "claude": [
+   "Die drei wichtigsten Fehler-Aufgaben aus der Fehlerliste auswählen",
+   "Kurze Checkliste für den Klausurtag vorlegen"
+  ]
+ },
+ {
+  "date": "2026-11-09",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Physik",
+  "thema": "Fehler aus der Probeklausur",
+  "aufgaben": [
+   "Alle Probeklausur-Fehler ohne Lösung neu rechnen",
+   "Zu jedem Fehlertyp eine ähnliche Aufgabe (Claude)"
+  ],
+  "week": "K06 09.–15.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Jeder Fehler aus der Physik-Probeklausur ist einmal richtig gerechnet.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Zu jedem Fehlertyp eine ähnliche Aufgabe raussuchen"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Physik",
+  "thema": "Formelsammlung auswendig",
+  "aufgaben": [
+   "Formelsammlung abdecken und abfragen (Claude fragt ab)",
+   "Einheiten-Check bei jeder Formel"
+  ],
+  "week": "K06 09.–15.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Alle Formeln der Klausur sicher, inklusive Einheiten.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Formel-Abfrage (15 Fragen) aus der Formelsammlung erstellen"
+  ]
+ },
+ {
+  "date": "2026-11-10",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Zwei Klausuraufgaben unter Zeit",
+  "aufgaben": [
+   "Zwei Aufgaben auf Klausurniveau in 45 Min",
+   "Korrigieren"
+  ],
+  "week": "K06 09.–15.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Klausurtempo üben.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Lernversionen Physik in Notion zum Thema lesen",
+   "Zwei noch nicht bearbeitete Klausuraufgaben raussuchen"
+  ]
+ },
+ {
+  "date": "2026-11-11",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Physik",
+  "thema": "Letzter Check Physik",
+  "aufgaben": [
+   "Formelsammlung und Fehlerliste durchlesen",
+   "Zwei Lieblingsaufgaben noch einmal rechnen",
+   "Tasche packen, früh schlafen"
+  ],
+  "week": "K06 09.–15.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig und vorbereitet in die Klausur am Donnerstag.",
+  "claude": [
+   "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
+   "Kurze Checkliste für den Klausurtag vorlegen"
+  ]
+ },
+ {
+  "date": "2026-11-12",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Kunst",
+  "thema": "Werkanalyse an einem neuen Bild",
+  "aufgaben": [
+   "Werkanalyse an einem neuen Bild (Claude sucht eins zur Klausur-Epoche) in 45 Min stichpunktartig",
+   "Claude gibt Feedback"
+  ],
+  "week": "K06 09.–15.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Eine Werkanalyse an einem unbekannten Bild selbstständig.",
+  "claude": [
+   "Ein passendes, unbekanntes Werk zur Klausur-Epoche raussuchen (Bild-Link)",
+   "Analyse nach Erwartungshorizont bewerten"
+  ]
+ },
+ {
+  "date": "2026-11-13",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Kunst",
+  "thema": "Analyse schriftlich ausformulieren",
+  "aufgaben": [
+   "Formale Analyse und Interpretation des Bildes vom Donnerstag ausformulieren (45 Min)",
+   "Claude korrigiert Fachsprache"
+  ],
+  "week": "K06 09.–15.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ein Teil der Analyse ist klausurfertig ausformuliert.",
+  "claude": [
+   "Text auf Fachsprache, Belegbarkeit am Bild und Aufbau prüfen"
+  ]
+ },
+ {
+  "date": "2026-11-14",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Geschichte",
+  "thema": "Klausurthemen + Überblick",
+  "aufgaben": [
+   "Frau Schubert nach den Klausurthemen am 23.11. fragen",
+   "Zeitstrahl mit den wichtigsten Daten und Ereignissen anlegen",
+   "Karteikarten starten: Begriffe, Personen, Daten"
+  ],
+  "week": "K06 09.–15.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du kennst die Themen und hast einen Zeitstrahl.",
+  "claude": [
+   "Klausurthemen Geschichte aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
+   "Lernversionen Geschichte in Notion lesen",
+   "Zeitstrahl-Vorlage und Karteikarten (Begriff → Erklärung) erstellen",
+   "Operatorenliste BW Geschichte bereitlegen"
+  ],
+  "infos": [
+   "Klausurthemen Geschichte 23.11. (Frau Schubert)"
+  ]
+ },
+ {
+  "date": "2026-11-16",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Kunst",
+  "thema": "Letzter Check Kunst",
+  "aufgaben": [
+   "Analyseschema und Fachbegriffe einmal durchgehen",
+   "Ein Bild in 5 Min mündlich analysieren"
+  ],
+  "week": "K07 16.–22.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Kunst-Klausur.",
+  "claude": [
+   "Eine Kurz-Abfrage (10 Fachbegriffe) erstellen"
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Geschichte",
+  "thema": "Karteikarten: Daten und Begriffe",
+  "aufgaben": [
+   "Karteikarten abfragen (Claude fragt)",
+   "Lücken markieren und neu lernen"
+  ],
+  "week": "K07 16.–22.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Daten, Begriffe und Personen sitzen.",
+  "claude": [
+   "Abfrage mit 20 Karten aus den Lernversionen erstellen"
+  ]
+ },
+ {
+  "date": "2026-11-17",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Englisch",
+  "thema": "Klausurformat + Themen",
+  "aufgaben": [
+   "Frau Buchalla nach Format und Themen der Klausur am 26.11. fragen (Comprehension, Analysis, Comment/Creative, Mediation?)",
+   "Redemittel-Liste für Analysis und Comment anlegen",
+   "Vokabeln der Unit wiederholen"
+  ],
+  "week": "K07 16.–22.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du weißt, welche Aufgaben kommen, und hast die Redemittel.",
+  "claude": [
+   "Klausurformat Englisch aus lernplan-status.md holen (fehlt es: Luiz fragen)",
+   "Lernversionen Englisch in Notion lesen",
+   "Redemittel-Liste (Einleitung, Überleitungen, Meinung, Fazit) als Notion-Seite erstellen"
+  ],
+  "infos": [
+   "Klausurformat und Themen Englisch 26.11. (Frau Buchalla)"
+  ]
+ },
+ {
+  "date": "2026-11-18",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Geschichte",
+  "thema": "Quellenanalyse schreiben",
+  "aufgaben": [
+   "Eine Quelle zum Klausurthema in 60 Min analysieren (Einleitung, Inhalt, Einordnung, Beurteilung)",
+   "Claude korrigiert"
+  ],
+  "week": "K07 16.–22.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Eine Quellenanalyse im Klausurformat.",
+  "claude": [
+   "Eine passende Quelle zum Klausurthema raussuchen und eine Aufgabenstellung mit Operatoren formulieren",
+   "Text nach Erwartungshorizont korrigieren und Punkte schätzen"
+  ]
+ },
+ {
+  "date": "2026-11-19",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Englisch",
+  "thema": "Redemittel + Vokabeln",
+  "aufgaben": [
+   "Redemittel-Liste abdecken und abfragen",
+   "Themenvokabeln (Claude fragt 20 Wörter ab)"
+  ],
+  "week": "K07 16.–22.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Redemittel und Themenwortschatz sitzen.",
+  "claude": [
+   "Vokabel- und Redemittel-Abfrage aus der Unit erstellen"
+  ]
+ },
+ {
+  "date": "2026-11-20",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Geschichte",
+  "thema": "Operatoren + Erörterung gliedern",
+  "aufgaben": [
+   "Operatorenliste lernen (nennen, erläutern, analysieren, beurteilen, erörtern)",
+   "Zwei Erörterungsfragen gliedern (Claude)"
+  ],
+  "week": "K07 16.–22.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Erörterungsaufgaben sicher gliedern.",
+  "claude": [
+   "Zwei typische Erörterungsfragen zum Klausurthema formulieren",
+   "Gliederungen auf Vollständigkeit und Urteil prüfen"
+  ]
+ },
+ {
+  "date": "2026-11-21",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Geschichte",
+  "thema": "Letzter Check Geschichte",
+  "aufgaben": [
+   "Zeitstrahl und Karteikarten einmal durch",
+   "Eine Gliederung mündlich durchsprechen",
+   "Frei bis Montag"
+  ],
+  "week": "K07 16.–22.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Klausur am Montag.",
+  "claude": [
+   "Kurz-Abfrage (15 Karten) erstellen"
+  ]
+ },
+ {
+  "date": "2026-11-23",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Englisch",
+  "thema": "Analysis üben",
+  "aufgaben": [
+   "Analysis-Aufgabe zu einem Text (Claude) in 45 Min",
+   "Claude korrigiert Sprache und Inhalt"
+  ],
+  "week": "K08 23.–29.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Eine Analysis-Aufgabe im Klausurformat.",
+  "claude": [
+   "Einen kurzen Text zum Klausurthema raussuchen und eine Analysis-Aufgabe formulieren",
+   "Nach Erwartungshorizont korrigieren (Inhalt + Sprache)"
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Englisch",
+  "thema": "Comment-Probetext (60 Min)",
+  "aufgaben": [
+   "Einen Comment zum Klausurthema in 60 Min schreiben (Claude stellt die Aufgabe)",
+   "Foto an Claude zur Korrektur"
+  ],
+  "week": "K08 23.–29.11.",
+  "kind": "probe",
+  "phase": "klausuren",
+  "ziel": "Ein Comment unter Zeit, der korrigiert wird.",
+  "claude": [
+   "Comment-Aufgabe im Klausurformat stellen",
+   "Nach Erwartungshorizont korrigieren, die 5 häufigsten Sprachfehler auflisten"
+  ]
+ },
+ {
+  "date": "2026-11-24",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Deutsch",
+  "thema": "Klausurthema + Woyzeck-Überblick",
+  "aufgaben": [
+   "Frau Keller nach Thema und Aufgabenart der Klausur am 03.12. fragen (Woyzeck? Szenenanalyse/Erörterung?)",
+   "Überblick: Figuren, Szenenfolge, Themen, Epoche/Kontext auf einer Seite"
+  ],
+  "week": "K08 23.–29.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du kennst das Klausurthema und hast den Überblick über das Werk.",
+  "claude": [
+   "Klausurthema Deutsch aus lernplan-status.md holen (fehlt es: Luiz fragen)",
+   "Lernversionen Deutsch in Notion lesen",
+   "Einseitigen Werküberblick als Notion-Seite erstellen"
+  ],
+  "infos": [
+   "Klausurthema Deutsch 03.12. (Frau Keller): Werk und Aufgabenart"
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Englisch",
+  "thema": "Letzter Check Englisch",
+  "aufgaben": [
+   "Korrektur des Probetexts durchgehen, die 5 Sprachfehler üben",
+   "Redemittel und Vokabeln einmal durch"
+  ],
+  "week": "K08 23.–29.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Klausur am Donnerstag.",
+  "claude": [
+   "Korrektur und Fehlerliste vom 24.11. bereitlegen",
+   "Kurz-Abfrage Redemittel erstellen"
+  ]
+ },
+ {
+  "date": "2026-11-26",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Deutsch",
+  "thema": "Aufbau einer Szenenanalyse",
+  "aufgaben": [
+   "Aufbau aufschreiben: Einleitung, Einordnung, Inhalt, Analyse (Sprache, Figuren, Handlung), Deutung, Schluss",
+   "Eine Szene (Claude wählt) gliedern"
+  ],
+  "week": "K08 23.–29.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Eine Szenenanalyse sicher gliedern.",
+  "claude": [
+   "Eine klausurtypische Szene auswählen und eine Aufgabenstellung formulieren",
+   "Gliederung prüfen"
+  ]
+ },
+ {
+  "date": "2026-11-27",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Gemeinschaftskunde",
+  "thema": "Klausurthemen + Karteikarten",
+  "aufgaben": [
+   "Su nach den Themen der gk-Klausur am 07.12. fragen",
+   "Karteikarten: Begriffe, Institutionen, Abläufe"
+  ],
+  "week": "K08 23.–29.11.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du kennst die gk-Themen und hast Karteikarten.",
+  "claude": [
+   "Klausurthemen gk aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
+   "Lernversionen gk in Notion lesen",
+   "Karteikarten erstellen"
+  ],
+  "infos": [
+   "Klausurthemen Gemeinschaftskunde 07.12. (Su)"
+  ]
+ },
+ {
+  "date": "2026-11-28",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Deutsch-Probeanalyse (90 Min)",
+  "aufgaben": [
+   "Eine Szenenanalyse zum Klausurwerk in 90 Min schreiben (Claude stellt die Aufgabe)",
+   "Foto an Claude zur Korrektur"
+  ],
+  "week": "K08 23.–29.11.",
+  "kind": "probe",
+  "phase": "klausuren",
+  "ziel": "Eine Analyse unter Zeit, die korrigiert wird.",
+  "claude": [
+   "Aufgabe im Klausurformat stellen (Szene + Arbeitsauftrag mit Operatoren)",
+   "Nach Erwartungshorizont korrigieren und Notenpunkte schätzen",
+   "Blöcke 30.11.–02.12. auf die Schwächen ausrichten"
+  ]
+ },
+ {
+  "date": "2026-11-30",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Deutsch",
+  "thema": "Probeanalyse überarbeiten",
+  "aufgaben": [
+   "Die zwei schwächsten Absätze der Probeanalyse neu schreiben",
+   "Claude vergleicht vorher/nachher"
+  ],
+  "week": "K09 30.11.–06.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Schwächen aus der Probeanalyse sind behoben.",
+  "claude": [
+   "Korrektur vom 28.11. bereitlegen und die zwei schwächsten Stellen markieren"
+  ]
+ },
+ {
+  "date": "2026-12-01",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Deutsch",
+  "thema": "Thesen + Zitate",
+  "aufgaben": [
+   "Fünf Deutungsthesen mit je einem passenden Zitat (Szene/Zeile) sammeln"
+  ],
+  "week": "K09 30.11.–06.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Für jedes Thema des Werks eine Deutungsthese mit Zitat.",
+  "claude": [
+   "Prüfen, ob die Zitate stimmen und zur These passen"
+  ]
+ },
+ {
+  "date": "2026-12-01",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Mathe",
+  "thema": "2. Mathe-Klausur: Themen + Einstieg",
+  "aufgaben": [
+   "Frau Assem nach den Themen der Klausur am 21.12. fragen",
+   "Erste Lernversion zum neuen Thema lesen",
+   "Drei Einstiegsaufgaben"
+  ],
+  "week": "K09 30.11.–06.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Themen der Klausur am 21.12. sind klar, der Einstieg ist gemacht.",
+  "claude": [
+   "Klausurthemen Mathe 21.12. aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
+   "Mathebattle nach neuen Battles von Frau Assem prüfen",
+   "Drei Einstiegsaufgaben raussuchen",
+   "Testfragen der Mathe-Blöcke im Dezember im Repo an das Thema anpassen"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 21.12. (Frau Assem)"
+  ]
+ },
+ {
+  "date": "2026-12-02",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Deutsch",
+  "thema": "Letzter Check Deutsch",
+  "aufgaben": [
+   "Werküberblick, Thesen und Zitate einmal durch",
+   "Aufbau der Analyse noch einmal aufschreiben",
+   "Früh schlafen"
+  ],
+  "week": "K09 30.11.–06.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Klausur am Donnerstag.",
+  "claude": [
+   "Kurz-Abfrage (Figuren, Szenen, Zitate) erstellen"
+  ]
+ },
+ {
+  "date": "2026-12-03",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Gemeinschaftskunde",
+  "thema": "Themen strukturieren",
+  "aufgaben": [
+   "Mindmap zu den Klausurthemen",
+   "Karteikarten abfragen (Claude)"
+  ],
+  "week": "K09 30.11.–06.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die gk-Themen als Übersicht.",
+  "claude": [
+   "Abfrage aus den Karteikarten erstellen"
+  ]
+ },
+ {
+  "date": "2026-12-04",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Gemeinschaftskunde",
+  "thema": "Operatoren + Erörterung",
+  "aufgaben": [
+   "Zwei typische Aufgaben gliedern (Claude)",
+   "Eine Teilaufgabe ausformulieren"
+  ],
+  "week": "K09 30.11.–06.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Eine gk-Erörterung sicher gliedern.",
+  "claude": [
+   "Zwei typische Aufgaben mit Operatoren zum Thema formulieren und die Gliederungen prüfen"
+  ]
+ },
+ {
+  "date": "2026-12-05",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Gemeinschaftskunde",
+  "thema": "Letzter Check Gemeinschaftskunde",
+  "aufgaben": [
+   "Karteikarten und Mindmap einmal durch",
+   "Frei bis Montag"
+  ],
+  "week": "K09 30.11.–06.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Klausur am Montag.",
+  "claude": [
+   "Kurz-Abfrage (15 Karten) erstellen"
+  ]
+ },
+ {
+  "date": "2026-12-07",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Sport",
+  "thema": "Sport-Theorie: Klausurthemen + Überblick",
+  "aufgaben": [
+   "Herrn Werner nach den Themen der Klausur am 11.12. fragen",
+   "Überblick der Themen auf einer Seite, Karteikarten starten"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du kennst die Themen der Sport-Klausur und hast den Überblick.",
+  "claude": [
+   "Klausurthemen Sport aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
+   "Lernversionen Sport in Notion lesen",
+   "Karteikarten erstellen"
+  ],
+  "infos": [
+   "Klausurthemen Sport 11.12. (Herr Werner)"
+  ]
+ },
+ {
+  "date": "2026-12-08",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Sport",
+  "thema": "Sport-Theorie: Karteikarten",
+  "aufgaben": [
+   "Karteikarten abfragen (Claude)",
+   "Ein Modell (z. B. Superkompensation) aus dem Kopf zeichnen und erklären"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Begriffe und Modelle sitzen.",
+  "claude": [
+   "Abfrage mit 20 Karten erstellen"
+  ]
+ },
+ {
+  "date": "2026-12-08",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Religion",
+  "thema": "Klausurthemen + Positionen",
+  "aufgaben": [
+   "Herrn Keller nach den Themen der Klausur am 14.12. fragen",
+   "Positionen/Theologen mit Kernaussage auf Karteikarten"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Du kennst die Themen der Reli-Klausur und die zentralen Positionen.",
+  "claude": [
+   "Klausurthemen Religion aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
+   "Lernversionen Religion in Notion lesen",
+   "Karteikarten erstellen"
+  ],
+  "infos": [
+   "Klausurthemen Religion 14.12. (Herr Keller)"
+  ]
+ },
+ {
+  "date": "2026-12-09",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Sport",
+  "thema": "Sport-Theorie: Anwendungsaufgaben schreiben",
+  "aufgaben": [
+   "Zwei Anwendungsaufgaben (Claude) schriftlich in 60 Min",
+   "Claude korrigiert"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Theorie auf Praxisbeispiele anwenden.",
+  "claude": [
+   "Zwei klausurtypische Anwendungsaufgaben formulieren (Stil Sport-Abi BW)",
+   "Nach Erwartungshorizont korrigieren"
+  ]
+ },
+ {
+  "date": "2026-12-10",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Letzter Check Sport",
+  "aufgaben": [
+   "Karteikarten einmal durch",
+   "Früh schlafen"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Klausur am Freitag.",
+  "claude": [
+   "Kurz-Abfrage erstellen"
+  ]
+ },
+ {
+  "date": "2026-12-12",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Religion",
+  "thema": "Erörterung üben",
+  "aufgaben": [
+   "Eine Erörterungsaufgabe (Claude) in 60 Min schreiben",
+   "Claude korrigiert"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Eine Reli-Erörterung im Klausurformat.",
+  "claude": [
+   "Eine typische Erörterungsaufgabe zum Thema formulieren",
+   "Nach Erwartungshorizont korrigieren"
+  ]
+ },
+ {
+  "date": "2026-12-13",
+  "start": "13:00",
+  "end": "14:00",
+  "fach": "Religion",
+  "thema": "Letzter Check Religion",
+  "aufgaben": [
+   "Karteikarten einmal durch"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Klausur am Montag.",
+  "claude": [
+   "Kurz-Abfrage erstellen"
+  ]
+ },
+ {
+  "date": "2026-12-13",
+  "start": "14:30",
+  "end": "16:00",
+  "fach": "Physik",
+  "thema": "2. Physik-Klausur: Themen + Aufgaben",
+  "aufgaben": [
+   "Themen der Klausur am 17.12. (Herr Baier) notieren",
+   "Formelsammlung fürs neue Thema anlegen",
+   "Drei Grundaufgaben"
+  ],
+  "week": "K10 07.–13.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Themen der Klausur am 17.12. sind klar, die Grundaufgaben laufen.",
+  "claude": [
+   "Klausurthemen Physik 17.12. aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
+   "Lernversionen lesen",
+   "Drei Grundaufgaben raussuchen",
+   "Testfragen der Physik-Blöcke im Dezember im Repo anpassen"
+  ],
+  "infos": [
+   "Klausurthemen Physik 17.12. (Herr Baier)"
+  ]
+ },
+ {
+  "date": "2026-12-14",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Physik",
+  "thema": "Aufgaben-Mix",
+  "aufgaben": [
+   "Drei Aufgaben (Claude)",
+   "Fehlerliste"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Neue Themen auf Klausurniveau.",
+  "claude": [
+   "Drei Aufgaben auf Klausurniveau zum Dezember-Thema raussuchen"
+  ]
+ },
+ {
+  "date": "2026-12-15",
+  "start": "11:30",
+  "end": "12:30",
+  "fach": "Physik",
+  "thema": "Formelsammlung abfragen",
+  "aufgaben": [
+   "Formel-Abfrage (Claude)",
+   "Einheiten-Check"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Alle Formeln der Klausur sicher.",
+  "claude": [
+   "Abfrage (15 Fragen) aus der Formelsammlung erstellen"
+  ]
+ },
+ {
+  "date": "2026-12-15",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Mini-Probeklausur (60 Min)",
+  "aufgaben": [
+   "Mini-Probeklausur von Claude in 60 Min",
+   "Foto an Claude zur Korrektur"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "probe",
+  "phase": "klausuren",
+  "ziel": "Klausurtempo unter echten Bedingungen.",
+  "claude": [
+   "Mini-Probeklausur (60 Min) mit Erwartungshorizont erstellen",
+   "Korrigieren und Notenpunkte schätzen"
+  ]
+ },
+ {
+  "date": "2026-12-16",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Physik",
+  "thema": "Letzter Check Physik",
+  "aufgaben": [
+   "Fehler aus der Mini-Probeklausur nachrechnen",
+   "Formelsammlung einmal durch",
+   "Früh schlafen"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Ruhig in die Klausur am Donnerstag.",
+  "claude": [
+   "Korrektur vom 15.12. bereitlegen"
+  ]
+ },
+ {
+  "date": "2026-12-17",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Mathe",
+  "thema": "Aufgaben-Mix zum Klausurthema",
+  "aufgaben": [
+   "Drei Aufgaben (Claude)",
+   "Fehlerliste"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Das Dezember-Thema auf Klausurniveau.",
+  "claude": [
+   "Drei Aufgaben (BW-Abi, Mathebattle) zum Thema der Klausur am 21.12. raussuchen"
+  ],
+  "infos": [
+   "Klausurthemen Mathe 21.12."
+  ]
+ },
+ {
+  "date": "2026-12-18",
+  "start": "09:45",
+  "end": "11:00",
+  "fach": "Mathe",
+  "thema": "Hilfsmittelfreier Teil",
+  "aufgaben": [
+   "Sechs Aufgaben ohne WTR in 30 Min",
+   "Korrigieren"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Hilfsmittelfreie Aufgaben schnell und sicher.",
+  "claude": [
+   "Sechs Aufgaben ohne WTR zum Klausurthema raussuchen"
+  ]
+ },
+ {
+  "date": "2026-12-19",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Mathe-Probeklausur",
+  "aufgaben": [
+   "Probeklausur von Claude ohne Unterlagen (90 Min)",
+   "Foto an Claude zur Korrektur",
+   "Fehler in die Fehlerliste"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "probe",
+  "phase": "klausuren",
+  "ziel": "Eine Probeklausur unter echten Bedingungen.",
+  "claude": [
+   "Probeklausur im Format der echten Klausur mit Erwartungshorizont erstellen",
+   "Korrigieren und Notenpunkte angeben"
+  ]
+ },
+ {
+  "date": "2026-12-20",
+  "start": "14:00",
+  "end": "16:00",
+  "fach": "Mathe",
+  "thema": "Letzter Check Mathe",
+  "aufgaben": [
+   "Fehler aus der Probeklausur neu rechnen",
+   "Merkblatt einmal durch",
+   "Tasche packen, früh schlafen"
+  ],
+  "week": "K11 14.–20.12.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Fehler aus der Probeklausur behoben, ruhig in die letzte Klausur.",
+  "claude": [
+   "Fehler aus der Probeklausur bereitlegen und zu jedem eine ähnliche Aufgabe raussuchen"
+  ]
+ },
+ {
   "date": "2027-01-04",
   "start": "09:30",
   "end": "11:30",
@@ -42,6 +1626,20 @@
    "Fragen an Herrn Werner notieren: Prüfungstermine Praxis, Teilkompetenzen 23/26/27 (Wissensbereich 2)"
   ],
   "week": "W01 Start (04.–10.01.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-11",
+  "start": "07:30",
+  "end": "07:45",
+  "fach": "Organisation",
+  "thema": "Lehrkräfte fragen (Sport + Physik)",
+  "aufgaben": [
+   "Herr Werner: Termin Praxisprüfung, Meldefrist Praxis-Wahl, Inhalte Teilkompetenzen 23/26/27",
+   "Herr Baier: kommen weitere Physik-Kapitel dran (z. B. Kern-/Relativitätsphysik)?",
+   "Antworten an Claude schicken, damit der Plan angepasst wird"
+  ],
+  "week": "W02 11.01.–17.01.",
   "kind": "block"
  },
  {
@@ -334,6 +1932,19 @@
    "Teil A: Ortskurve und gemeinsame Punkte einer Schar (2 Aufgaben)",
    "Steckbriefaufgabe mit LGS (Lernversion Block 6)",
    "Wahlaufgaben-Typen W1–W6 aus Abi 2025 ansehen"
+  ],
+  "week": "W06 08.02.–14.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-08",
+  "start": "18:30",
+  "end": "18:45",
+  "fach": "Organisation",
+  "thema": "Klausurplan 2. Halbjahr an Claude schicken",
+  "aufgaben": [
+   "Klausurplan aus Moodle an Claude schicken",
+   "Claude trägt Klausuren ein und baut die Wochen um"
   ],
   "week": "W06 08.02.–14.02.",
   "kind": "block"
@@ -1462,33 +3073,6 @@
    "Früh schlafen"
   ],
   "week": "W24 Mündlich (21.–27.06.)",
-  "kind": "block"
- },
- {
-  "date": "2027-01-11",
-  "start": "07:30",
-  "end": "07:45",
-  "fach": "Organisation",
-  "thema": "Lehrkräfte fragen (Sport + Physik)",
-  "aufgaben": [
-   "Herr Werner: Termin Praxisprüfung, Meldefrist Praxis-Wahl, Inhalte Teilkompetenzen 23/26/27",
-   "Herr Baier: kommen weitere Physik-Kapitel dran (z. B. Kern-/Relativitätsphysik)?",
-   "Antworten an Claude schicken, damit der Plan angepasst wird"
-  ],
-  "week": "W02 11.01.–17.01.",
-  "kind": "block"
- },
- {
-  "date": "2027-02-08",
-  "start": "18:30",
-  "end": "18:45",
-  "fach": "Organisation",
-  "thema": "Klausurplan 2. Halbjahr an Claude schicken",
-  "aufgaben": [
-   "Klausurplan aus Moodle an Claude schicken",
-   "Claude trägt Klausuren ein und baut die Wochen um"
-  ],
-  "week": "W06 08.02.–14.02.",
   "kind": "block"
  },
  {

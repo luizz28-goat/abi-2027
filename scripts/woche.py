@@ -37,7 +37,14 @@ BESTANDEN = 0.8  # Anteil richtiger Testfragen, ab dem eine Woche als bestanden 
 NACHHOL_SLOTS = "Fr 09:45–11:00 (Freistunde) und So 16:00–17:30 – oder einen Block vor den Wochencheck legen"
 PRUEFUNGEN = {"Sport": date(2027, 4, 19), "Physik": date(2027, 4, 20), "Mathe": date(2027, 5, 5),
               "Deutsch": date(2027, 6, 28), "Religion": date(2027, 6, 28)}
-CHECK_RE =re.compile(r"^- \[([ xX])\] F\d+ · (US-\d{3})", re.M)
+CHECK_RE = re.compile(r"^- \[([ xX])\] F\d+ · ((?:US|KL)-\d{3})", re.M)
+
+
+def pruefung(s: dict) -> date:
+    """Klausur bzw. Abiprüfung, für die der Block lernt. Danach wird er nicht mehr verschoben."""
+    if s.get("pruefung"):
+        return date.fromisoformat(s["pruefung"])
+    return PRUEFUNGEN.get(s["fach"], date.max)
 
 
 def load(name: str):
@@ -105,6 +112,8 @@ def start(gh, wochen, stories, idx: int) -> None:
     lines += ["", "</details>"]
     if not fragen:
         lines += ["_Diese Woche gibt es keine Testfragen._"]
+    if w.get("phase") == "klausuren":
+        lines.insert(2, "_Klausurphase 1. Halbjahr: Fragen zu Blöcken ohne festes Thema beantwortest du am besten als Nachricht an Claude, der prüft gegen deine Lernversionen._\n")
     created = gh.create_issue(f"[Wochentest {w['id']}] {w['titel']}", "\n".join(lines), ["type:wochentest", f"woche:{w['id']}"])
     print(f"Wochentest {w['id']} angelegt (#{created['number']}), {len(fragen)} Fragen.")
 
@@ -140,9 +149,9 @@ def abschluss(gh, wochen, stories, idx: int) -> None:
     # Nach der Prüfung eines Fachs wird nichts mehr verschoben
     if naechste:
         nstart = date.fromisoformat(naechste["start"])
-        vorbei = [(sid, i, g) for sid, i, g in nachholen if PRUEFUNGEN.get(by_id[sid]["fach"], date.max) <= nstart]
+        vorbei = [(sid, i, g) for sid, i, g in nachholen if pruefung(by_id[sid]) <= nstart]
         for sid, issue, _ in vorbei:
-            gh.comment(issue["number"], "Prüfung in diesem Fach ist vorbei – Block wird nicht mehr verschoben.")
+            gh.comment(issue["number"], f"{by_id[sid].get('pruefung_name', 'Prüfung')} ist vorbei – Block wird nicht mehr verschoben.")
             gh.update_issue(issue["number"], state="closed", state_reason="not_planned")
         nachholen = [x for x in nachholen if x not in vorbei]
 
