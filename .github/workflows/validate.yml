@@ -1,0 +1,27 @@
+name: Plan prüfen
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Daten neu erzeugen
+        run: python3 scripts/generate.py
+      - name: Plan validieren
+        run: python3 scripts/validate.py
+      - name: Wochenlogik testen
+        run: python3 -m unittest discover -s tests
+      - name: Generierte Dateien sind eingecheckt
+        run: git diff --exit-code

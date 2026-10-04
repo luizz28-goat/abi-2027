@@ -1,0 +1,50 @@
+[
+ {
+  "id": "E01",
+  "fach": "Mathe",
+  "title": "Mathe-LF schriftlich (05.05.2027)",
+  "ziel": "15 Punkte in der schriftlichen Mathe-Prüfung: Teil A sicher ohne Hilfsmittel, Teil B Analysis, Geometrie, Stochastik.",
+  "stories": 34,
+  "story_points": 118
+ },
+ {
+  "id": "E02",
+  "fach": "Physik",
+  "title": "Physik-LF schriftlich (20.04.2027)",
+  "ziel": "15 Punkte in Physik: Felder, Induktion, Schwingungen und Wellen, Wellenoptik, Quanten- und Atomphysik.",
+  "stories": 29,
+  "story_points": 81
+ },
+ {
+  "id": "E03",
+  "fach": "Sport",
+  "title": "Sport-LF Klausur + Praxis (19.04.2027)",
+  "ziel": "15 Punkte in der Sport-Klausur (Wissensbereiche 1 und 2) und Praxis auf Wertungstabellen-Niveau.",
+  "stories": 18,
+  "story_points": 49
+ },
+ {
+  "id": "E04",
+  "fach": "Deutsch",
+  "title": "Deutsch mündlich (28.–30.06.2027)",
+  "ziel": "15 Punkte mündlich: Mario und der Zauberer, Woyzeck, Lyrik, Sachtexte und Sprache aus allen vier Halbjahren.",
+  "stories": 14,
+  "story_points": 43
+ },
+ {
+  "id": "E05",
+  "fach": "Religion",
+  "title": "Religion mündlich (28.–30.06.2027)",
+  "ziel": "15 Punkte mündlich: Gottesfrage, Jesus Christus, Menschenbild, Ethik, Kirche aus allen vier Halbjahren.",
+  "stories": 11,
+  "story_points": 34
+ },
+ {
+  "id": "E06",
+  "fach": "Organisation",
+  "title": "Wochentests, Nachholen und Organisation",
+  "ziel": "Jede Woche getestet, nichts bleibt liegen, offene Fragen an Lehrkräfte geklärt.",
+  "stories": 4,
+  "story_points": 4
+ }
+]

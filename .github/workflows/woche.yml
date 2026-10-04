@@ -1,0 +1,53 @@
+name: Wochentest und Wochenabschluss
+
+# Montag früh: Wochentest-Issue für die neue Woche anlegen.
+# Sonntagabend: Test auswerten, offene oder durchgefallene Blöcke in die nächste Woche schieben,
+# Fortschritt aktualisieren. Außerhalb des Plans (vor 04.01.2027) passiert nichts.
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"   # Montag 05:00/06:00 Berlin
+    - cron: "0 19 * * 0"  # Sonntag 20:00/21:00 Berlin (nach dem Wochencheck um 18 Uhr)
+  workflow_dispatch:
+    inputs:
+      modus:
+        description: "start oder abschluss"
+        type: choice
+        options: [start, abschluss]
+        default: abschluss
+      woche:
+        description: "Woche, z. B. W05 (leer = nach Datum)"
+        required: false
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: abi-issues
+  cancel-in-progress: false
+
+jobs:
+  woche:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Woche ausführen
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          MODUS: ${{ inputs.modus }}
+          WOCHE: ${{ inputs.woche }}
+        run: |
+          if [ "$EVENT" = "schedule" ]; then
+            if [ "$SCHEDULE" = "0 4 * * 1" ]; then MODUS=start; else MODUS=abschluss; fi
+          fi
+          if [ -n "$WOCHE" ]; then
+            python3 scripts/woche.py "$MODUS" --woche "$WOCHE"
+          else
+            python3 scripts/woche.py "$MODUS"
+          fi

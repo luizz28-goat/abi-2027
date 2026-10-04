@@ -1,0 +1,1507 @@
+[
+ {
+  "date": "2027-01-04",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Diagnose Teil A (ohne Hilfsmittel)",
+  "aufgaben": [
+   "Teil A aus dem Abi 2025 (IBBW) unter echten Bedingungen: P1–P4 + 2 Wahlaufgaben, 110 Min, ohne WTR",
+   "Mit der Musterlösung korrigieren, Punkte notieren",
+   "Fehlerprotokoll anlegen (Spalten: Aufgabe, Thema, Fehlerart: Rechnen/Verständnis/Zeit, richtiger Weg)",
+   "Themen-Ampel Mathe ausfüllen (Analysis, Geometrie, Stochastik: grün/gelb/rot)"
+  ],
+  "week": "W01 Start (04.–10.01.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-06",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Diagnose: Felder und Induktion",
+  "aufgaben": [
+   "Eine komplette Aufgabe aus dem Physik-Abi 2025 (IBBW) zu Feldern/Induktion ohne Lösung bearbeiten, 75 Min",
+   "Korrigieren, Fehler ins Fehlerprotokoll Physik",
+   "Themen-Ampel Physik: E-Feld, B-Feld, Induktion, Schwingungen, Wellen, Wellenoptik, Quanten, Atom",
+   "IQB-Formelsammlung ausdrucken und durchblättern: wo steht was?"
+  ],
+  "week": "W01 Start (04.–10.01.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-08",
+  "start": "09:30",
+  "end": "11:00",
+  "fach": "Sport",
+  "thema": "Diagnose Sport-Theorie + Praxis-Check",
+  "aufgaben": [
+   "Themen-Ampel für Wissensbereich 1 (Trainingslehre, Sportbiologie, Bewegungslehre) und 2 erstellen",
+   "10 Fragen aus der letzten Klausur ohne Unterlagen beantworten, dann vergleichen",
+   "Praxis-Wahl notieren: Individualsportart 1, Individualsportart 2, Spiel – und eigene Leistungen gegen die Wertungstabelle halten",
+   "Fragen an Herrn Werner notieren: Prüfungstermine Praxis, Teilkompetenzen 23/26/27 (Wissensbereich 2)"
+  ],
+  "week": "W01 Start (04.–10.01.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-11",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Ableitungen, Kurvendiskussion, Tangenten (Teil A)",
+  "aufgaben": [
+   "Teil A: 6 Pflichtaufgaben-artige Ableitungsaufgaben ohne WTR (Mathebattle Analysis)",
+   "Hoch-/Tief-/Wendepunkte und Tangente/Normale an 2 Funktionen sauber durchrechnen",
+   "Selbsttest Lernversion Block 1, Lücken nachlesen"
+  ],
+  "week": "W02 11.01.–17.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-12",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Elektrisches Feld und Plattenkondensator",
+  "aufgaben": [
+   "Feldstärke, Spannung, Potenzial: Definitionen und Formeln aus dem Kopf aufschreiben",
+   "3 Rechenaufgaben Plattenkondensator (C, Q, Energie, Dielektrikum)",
+   "Selbsttest Lernversion Kapitel 1"
+  ],
+  "week": "W02 11.01.–17.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-13",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Ableitungen, Kurvendiskussion, Tangenten (Teil B)",
+  "aufgaben": [
+   "Teil B Analysis: eine Aufgabe zu ganzrationalen Funktionen mit Parameter (IQB-Pool / Musteraufgabe 2024-LF), 60 Min",
+   "Lösung vergleichen, jeden Punktverlust ins Fehlerprotokoll",
+   "3 Aufgaben aus dem Fehlerprotokoll nochmal rechnen"
+  ],
+  "week": "W02 11.01.–17.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-14",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Grundlagen der Trainingslehre",
+  "aufgaben": [
+   "Belastungsnormative (Intensität, Dauer, Umfang, Dichte, Häufigkeit) mit Beispielen",
+   "Superkompensation und Anpassung zeichnen und erklären",
+   "Selbsttest Lernversion „Grundlagen der Trainingslehre“, Karteikarten anlegen"
+  ],
+  "week": "W02 11.01.–17.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-16",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Elektrisches Feld und Plattenkondensator – Abi-Aufgabe",
+  "aufgaben": [
+   "Alte BW-Abiaufgabe (z. B. Abi 2015 Aufgabe I, schon in Notion) zum Kondensator/Elektron im Feld, 75 Min",
+   "Elektron im Längs- und Querfeld: Bahnkurve herleiten",
+   "Fehler ins Fehlerprotokoll Physik"
+  ],
+  "week": "W02 11.01.–17.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-18",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "e-Funktion, ln, Verkettung, Umkehrfunktion (Teil A)",
+  "aufgaben": [
+   "Teil A: Ketten-/Produktregel an 8 Termen, Gleichungen mit e und ln lösen",
+   "Umkehrfunktion: Definitions-/Wertemenge, Graph spiegeln, Term bestimmen (2 Beispiele)",
+   "Selbsttest Lernversion Block 3 + 4"
+  ],
+  "week": "W03 18.01.–24.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-19",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Kondensator: Auf- und Entladung, Coulomb",
+  "aufgaben": [
+   "Exponentielle Auf-/Entladung: Gleichungen und Zeitkonstante, Graph skizzieren",
+   "Coulomb-Gesetz, Feld einer Punktladung",
+   "Millikan-Versuch erklären (laut, 3 Min)"
+  ],
+  "week": "W03 18.01.–24.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-20",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "e-Funktion, ln, Verkettung, Umkehrfunktion (Teil B)",
+  "aufgaben": [
+   "Teil B: Modellierungsaufgabe mit e-Funktion (Wachstum/Abnahme), 60 Min",
+   "Mit WTR-Funktionen üben: Nullstellen, Extrema, Integral",
+   "Fehler ins Protokoll"
+  ],
+  "week": "W03 18.01.–24.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-21",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Trainingsprinzipien und Trainingsplanung",
+  "aufgaben": [
+   "Alle Trainingsprinzipien mit je einem Praxisbeispiel aufschreiben",
+   "Periodisierung/Zyklisierung eines Trainingsjahres skizzieren",
+   "Klausurverbesserung „Trainingsprinzipien“ nochmal durcharbeiten"
+  ],
+  "week": "W03 18.01.–24.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-23",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Kondensator: Auf- und Entladung, Coulomb – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe zur Kondensatorentladung (Messwerte auswerten, Halbwertszeit, Kapazität bestimmen), 75 Min",
+   "Diagramme mit WTR/Exponentialregression auswerten",
+   "Fehlerprotokoll"
+  ],
+  "week": "W03 18.01.–24.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-25",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Trigonometrische Funktionen und Modellierung (Teil A)",
+  "aufgaben": [
+   "Teil A: Amplitude, Periode, Verschiebung aus Graph ablesen und Term aufstellen (4 Aufgaben)",
+   "sin/cos ableiten und Gleichungen lösen",
+   "Selbsttest Lernversion Block 2"
+  ],
+  "week": "W04 25.01.–31.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-26",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Magnetfeld, Lorentzkraft, e/m",
+  "aufgaben": [
+   "Lorentzkraft und Drei-Finger-Regel, B-Feld einer langen Spule",
+   "Fadenstrahlrohr: e/m herleiten",
+   "Hall-Effekt erklären und Hallspannung berechnen"
+  ],
+  "week": "W04 25.01.–31.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-27",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Trigonometrische Funktionen und Modellierung (Teil B)",
+  "aufgaben": [
+   "Teil B: Sinus-Modellierung (z. B. Tageslänge, Wasserstand), 60 Min",
+   "Änderungsrate und mittlere Änderungsrate interpretieren üben",
+   "Fehlerprotokoll durchgehen"
+  ],
+  "week": "W04 25.01.–31.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-28",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Ausdauer und Energiebereitstellung",
+  "aufgaben": [
+   "Energiebereitstellung: ATP-PCr, anaerob-laktazid, aerob – Tabelle mit Dauer und Leistung",
+   "Ausdauerarten und Trainingsmethoden (Dauer, Intervall, Wiederholung, Wettkampf)",
+   "Laktat, VO2max, Schwellen erklären; Selbsttest „Ausdauer“"
+  ],
+  "week": "W04 25.01.–31.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-30",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Magnetfeld, Lorentzkraft, e/m – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe zu Wien-Filter und Massenspektrometer, 75 Min",
+   "Bahnradius und Geschwindigkeitsfilter selbst herleiten",
+   "Fehlerprotokoll"
+  ],
+  "week": "W04 25.01.–31.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-01",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Integralrechnung, Flächen, Rotationskörper (Teil A)",
+  "aufgaben": [
+   "Teil A: Stammfunktionen bilden (10 Terme), Flächen zwischen Graphen ohne WTR",
+   "Integralfunktion: Bedeutung und Ableitung erklären (laut)",
+   "Selbsttest Lernversion Block 5"
+  ],
+  "week": "W05 01.02.–07.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-02",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Induktion: Gesetz und Lenzsche Regel",
+  "aufgaben": [
+   "Magnetischer Fluss, Induktionsgesetz in beiden Fällen (A ändert sich / B ändert sich)",
+   "Lenzsche Regel an 3 Beispielen begründen (Thomsonscher Ringversuch)",
+   "Selbsttest Lernversion Kapitel 2"
+  ],
+  "week": "W05 01.02.–07.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-03",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Integralrechnung, Flächen, Rotationskörper (Teil B)",
+  "aufgaben": [
+   "Teil B: Bestand aus Änderungsrate rekonstruieren + Rotationsvolumen, 60 Min",
+   "Hinweis: Mittelwert per Integral, uneigentliche Integrale und Näherungsverfahren sind nicht prüfungsrelevant",
+   "Fehler ins Protokoll"
+  ],
+  "week": "W05 01.02.–07.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-04",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Herz-Kreislauf und Atmung",
+  "aufgaben": [
+   "Anpassungen an Ausdauertraining (Sportlerherz, Kapillarisierung, Mitochondrien)",
+   "Herzfrequenz und Belastungssteuerung (Trainingsbereiche berechnen)",
+   "3 Klausurfragen mit Operator „erläutern“ schriftlich beantworten"
+  ],
+  "week": "W05 01.02.–07.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-06",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Induktion: Gesetz und Lenzsche Regel – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe: Leiterschleife fährt durch Magnetfeld, U(t)-Diagramm zeichnen und berechnen, 75 Min",
+   "Generator: Wechselspannung herleiten",
+   "Fehlerprotokoll"
+  ],
+  "week": "W05 01.02.–07.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-08",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Funktionenscharen, Extremwertprobleme, Rekonstruktion (Teil A)",
+  "aufgaben": [
+   "Teil A: Ortskurve und gemeinsame Punkte einer Schar (2 Aufgaben)",
+   "Steckbriefaufgabe mit LGS (Lernversion Block 6)",
+   "Wahlaufgaben-Typen W1–W6 aus Abi 2025 ansehen"
+  ],
+  "week": "W06 08.02.–14.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-09",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Selbstinduktion und elektromagnetischer Schwingkreis",
+  "aufgaben": [
+   "Selbstinduktion, Induktivität, Ein- und Ausschaltvorgang einer Spule",
+   "Energie im Magnetfeld berechnen",
+   "Thomson-Gleichung herleiten"
+  ],
+  "week": "W06 08.02.–14.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-10",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Funktionenscharen, Extremwertprobleme, Rekonstruktion (Teil B)",
+  "aufgaben": [
+   "Teil B: Extremwertproblem (Fläche/Volumen maximieren) + Scharaufgabe, 75 Min",
+   "Begründen/Zeigen-Aufgaben sauber formulieren üben",
+   "Analysis-Ampel aktualisieren"
+  ],
+  "week": "W06 08.02.–14.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-11",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Kraft",
+  "aufgaben": [
+   "Kraftarten und ihre Beziehung (Maximal-, Schnell-, Reaktivkraft, Kraftausdauer)",
+   "Muskelaufbau, Fasertypen, inter-/intramuskuläre Koordination",
+   "Methoden: Hypertrophie vs. IK-Training; Selbsttest „Kraft“"
+  ],
+  "week": "W06 08.02.–14.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-13",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Selbstinduktion und elektromagnetischer Schwingkreis – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe zum LC-Schwingkreis (Energieumwandlung, Frequenz, Dämpfung), 75 Min",
+   "Analogie mechanisch ↔ elektrisch als Tabelle",
+   "Fehlerprotokoll"
+  ],
+  "week": "W06 08.02.–14.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-15",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Geraden, Ebenen, Lagebeziehungen (Teil A)",
+  "aufgaben": [
+   "Teil A: Ebenengleichung in Parameter-, Normalen- und Koordinatenform umrechnen",
+   "Lage Gerade–Ebene und Ebene–Ebene ohne WTR (4 Aufgaben)",
+   "Spurpunkte und Skizze im Koordinatensystem"
+  ],
+  "week": "W07 15.02.–21.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-16",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Mechanische Schwingungen",
+  "aufgaben": [
+   "Harmonische Schwingung: s(t), v(t), a(t), Federpendel und Fadenpendel",
+   "Energiebilanz einer Schwingung",
+   "Selbsttest Lernversion Kapitel 3"
+  ],
+  "week": "W07 15.02.–21.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-17",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Geraden, Ebenen, Lagebeziehungen (Teil B)",
+  "aufgaben": [
+   "Teil B Geometrie: Anwendungsaufgabe (Dach, Pyramide, Zelt), 60 Min",
+   "Schnittgerade zweier Ebenen bestimmen",
+   "Fehler ins Protokoll"
+  ],
+  "week": "W07 15.02.–21.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-18",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Schnelligkeit und Beweglichkeit",
+  "aufgaben": [
+   "Schnelligkeitskomponenten und Trainingsmethoden",
+   "Beweglichkeit: Einflussfaktoren und Dehnmethoden mit Vor-/Nachteilen",
+   "Selbsttests „Schnelligkeit“ und „Beweglichkeit“"
+  ],
+  "week": "W07 15.02.–21.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-20",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Mechanische Schwingungen – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe zu Schwingungen mit Messdaten (Periodendauer, Dämpfung, Resonanz), 75 Min",
+   "Resonanzkurve erklären",
+   "Fehlerprotokoll"
+  ],
+  "week": "W07 15.02.–21.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-22",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Abstände, Winkel, Spiegelung (Teil A)",
+  "aufgaben": [
+   "Teil A: Abstand Punkt–Ebene (Hessesche Normalform), Winkel zwischen Vektoren",
+   "Spiegelung eines Punktes an einer Ebene",
+   "Hinweis: Beweise mit Vektoren sind nicht prüfungsrelevant"
+  ],
+  "week": "W08 22.02.–28.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-23",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Mechanische und elektromagnetische Wellen",
+  "aufgaben": [
+   "Wellengleichung, λ, f, c, Transversal/Longitudinal",
+   "Stehende Wellen: Bedingungen, Eigenfrequenzen an Saite und Rohr",
+   "Hertzscher Dipol und Ausbreitung EM-Wellen"
+  ],
+  "week": "W08 22.02.–28.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-24",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Abstände, Winkel, Spiegelung (Teil B)",
+  "aufgaben": [
+   "Teil B: Flugbahn-/Bewegungsaufgabe (Abstand windschiefer Geraden, kürzester Abstand zeitabhängig), 75 Min",
+   "Lösung vergleichen",
+   "Geometrie-Ampel aktualisieren"
+  ],
+  "week": "W08 22.02.–28.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-25",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Koordination und motorisches Lernen",
+  "aufgaben": [
+   "Koordinative Fähigkeiten und Analysatoren",
+   "Lernphasen (Grob-, Fein-, Feinstkoordination) mit Fehlerbildern",
+   "Methoden des Techniktrainings, 2 Fragen schriftlich"
+  ],
+  "week": "W08 22.02.–28.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-27",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Mechanische und elektromagnetische Wellen – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe Wellen/Interferenz zweier Erreger, 75 Min",
+   "Gangunterschied-Bedingungen für Maximum/Minimum auswendig",
+   "Selbsttest Lernversion Kapitel 4"
+  ],
+  "week": "W08 22.02.–28.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-01",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Bedingte Wahrscheinlichkeit und Binomialverteilung (Teil A)",
+  "aufgaben": [
+   "Teil A: Baumdiagramm und Vierfeldertafel, bedingte Wahrscheinlichkeit, Unabhängigkeit (4 Aufgaben)",
+   "Binomialkoeffizient und Bernoulli-Formel ohne WTR",
+   "Standardabweichung/Varianz diskreter Verteilungen per Formel"
+  ],
+  "week": "W09 01.03.–07.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-02",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Wellenoptik: Doppelspalt und Gitter",
+  "aufgaben": [
+   "Doppelspalt und Gitter: Formeln, Kleinwinkelnäherung, wann sie gilt",
+   "Einzelspalt: Minima",
+   "Wellenlänge aus Gitterversuch bestimmen (2 Aufgaben)"
+  ],
+  "week": "W09 01.03.–07.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-03",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Bedingte Wahrscheinlichkeit und Binomialverteilung (Teil B)",
+  "aufgaben": [
+   "Teil B Stochastik: Binomialverteilung mit WTR (kumuliert, mindestens/höchstens, Mindestanzahl n), 60 Min",
+   "Erwartungswert in Spielsituationen (fair/unfair)",
+   "Fehler ins Protokoll"
+  ],
+  "week": "W09 01.03.–07.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-04",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Bewegungslehre und Biomechanik",
+  "aufgaben": [
+   "Biomechanische Prinzipien an je einer Sportart erklären",
+   "Phasenstruktur (Meinel) einer Bewegung analysieren",
+   "Bewegungsanalyse einer eigenen Prüfungsdisziplin aufschreiben"
+  ],
+  "week": "W09 01.03.–07.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-06",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Wellenoptik: Doppelspalt und Gitter – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe Wellenoptik (z. B. Interferenz an dünnen Schichten oder Gitterspektrometer), 75 Min",
+   "Messwerte auswerten, Fehlerbetrachtung formulieren",
+   "Fehlerprotokoll"
+  ],
+  "week": "W09 01.03.–07.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-08",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Hypothesentest und Normalverteilung (Teil A)",
+  "aufgaben": [
+   "Teil A: Ablehnungsbereich eines einseitigen Tests bestimmen, Fehler 1. und 2. Art erklären",
+   "Glockenkurve: μ und σ aus Graph ablesen",
+   "Begriffe laut erklären: Signifikanzniveau, Nullhypothese"
+  ],
+  "week": "W10 08.03.–14.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-09",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Quantenphysik",
+  "aufgaben": [
+   "Photoeffekt: Gegenfeldmethode, Plancksche Konstante aus Diagramm",
+   "Photonenimpuls, de-Broglie-Wellenlänge, Elektronenbeugung",
+   "Doppelspalt mit Einzelquanten und Unbestimmtheit erklären (laut)"
+  ],
+  "week": "W10 08.03.–14.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-10",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Hypothesentest und Normalverteilung (Teil B)",
+  "aufgaben": [
+   "Teil B: Hypothesentest-Aufgabe komplett, 60 Min",
+   "Normalverteilung mit WTR (Intervallwahrscheinlichkeiten)",
+   "Stochastik-Ampel aktualisieren"
+  ],
+  "week": "W10 08.03.–14.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-11",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Wissensbereich 2: Sport im sozialen Kontext",
+  "aufgaben": [
+   "Teilkompetenzen 23, 26, 27 mit Herrn Werners Unterlagen abgleichen",
+   "Themen daraus (z. B. Gruppe/Mannschaft, Motivation, Fairness) auf Karteikarten",
+   "Eine 10-BE-Wahlpflichtaufgabe schriftlich beantworten"
+  ],
+  "week": "W10 08.03.–14.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-13",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Quantenphysik – Abi-Aufgabe",
+  "aufgaben": [
+   "Abi-Aufgabe Quantenphysik, 75 Min",
+   "Welle-Teilchen-Begriffe sauber formulieren (Fachsprache zählt)",
+   "Fehlerprotokoll"
+  ],
+  "week": "W10 08.03.–14.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-15",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Mathe",
+  "thema": "Teil A komplett unter Zeit (Teil 1)",
+  "aufgaben": [
+   "Ein Teil-A-Satz aus dem IQB-Aufgabenpool: P1–P4 + 2 Wahlaufgaben in 110 Min (heute 60 Min, Mi den Rest) – Abi 2025/2026 aufheben für die Generalproben",
+   "Fehlerprotokoll: die 3 häufigsten Fehlerarten markieren"
+  ],
+  "week": "W11 15.03.–21.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-16",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Atomphysik und Materie",
+  "aufgaben": [
+   "Energieniveaus, Linienspektren, Franck-Hertz-Versuch",
+   "Eindimensionaler Potenzialtopf: Energien berechnen",
+   "Bei Herrn Baier nachfragen: sind weitere Kapitel (z. B. Kern/Relativität) prüfungsrelevant?"
+  ],
+  "week": "W11 15.03.–21.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-17",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Mathe",
+  "thema": "Teil A komplett unter Zeit (Teil 2)",
+  "aufgaben": [
+   "Rest Teil A fertig + korrigieren",
+   "Für jedes rote Thema der Ampel eine Mathebattle-Aufgabe",
+   "Plan für die Osterferien-Generalprobe prüfen"
+  ],
+  "week": "W11 15.03.–21.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-18",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Probe-Pflichtaufgabe",
+  "aufgaben": [
+   "Pflichtaufgabe im Abi-Stil (Wissensbereich 1, 40 BE) in 60 Min schreiben",
+   "Mit Erwartungshorizont vergleichen, Lücken auf Karteikarten",
+   "Praxis: Trainingsstand gegen Wertungstabelle prüfen"
+  ],
+  "week": "W11 15.03.–21.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-20",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Atomphysik und Materie – Abi-Aufgabe",
+  "aufgaben": [
+   "Gemischte Abi-Teilaufgaben aus 3 Gebieten der roten Ampel, 90 Min",
+   "Fehlerprotokoll komplett durchgehen",
+   "Plan für die Generalprobe prüfen"
+  ],
+  "week": "W11 15.03.–21.03.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-25",
+  "start": "09:00",
+  "end": "13:00",
+  "fach": "Sport",
+  "thema": "Generalprobe Sport-Klausur (240 Min)",
+  "aufgaben": [
+   "Komplette Sport-Klausur im Abi-Format: Pflichtaufgabe (WB1 40 BE + WB2 10 BE) + eine Wahlpflichtaufgabe, 240 Min",
+   "Quelle: Stark Abiturprüfung BW Sport oder Herr Werner",
+   "Danach: mit Erwartungshorizont korrigieren, Lücken auf Karteikarten"
+  ],
+  "week": "W12 Osterferien (22.03.–04.04.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-03-30",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Physik",
+  "thema": "Fehlerprotokoll + rote Themen",
+  "aufgaben": [
+   "Fehlerprotokoll Physik komplett durchgehen",
+   "Für jedes rote Thema eine Abi-Teilaufgabe rechnen",
+   "Formelsammlung: Seiten für Felder, Schwingungen, Quanten markieren"
+  ],
+  "week": "W12 Osterferien (22.03.–04.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-03-31",
+  "start": "09:00",
+  "end": "14:00",
+  "fach": "Physik",
+  "thema": "Generalprobe Physik (300 Min)",
+  "aufgaben": [
+   "Physik-Abi 2026 (IBBW): 3 von 4 Aufgaben in 300 Min, nur Formelsammlung + WTR",
+   "Auswahl in den ersten 15 Min bewusst treffen",
+   "Am Abend grob korrigieren, Details am nächsten Tag"
+  ],
+  "week": "W12 Osterferien (22.03.–04.04.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-04-01",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Lücken schließen + Teil A",
+  "aufgaben": [
+   "Physik-Generalprobe fertig korrigieren (30 Min)",
+   "Mathe-Fehlerprotokoll: 6 alte Fehler neu rechnen",
+   "Ein Wahlaufgaben-Set W1–W6 ohne Hilfsmittel"
+  ],
+  "week": "W12 Osterferien (22.03.–04.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-02",
+  "start": "09:00",
+  "end": "14:00",
+  "fach": "Mathe",
+  "thema": "Generalprobe Mathe 1 (300 Min)",
+  "aufgaben": [
+   "Mathe-Abi 2025 (IBBW) komplett: Teil A (110 Min, ohne Hilfsmittel), dann Teil B mit WTR + Formelsammlung",
+   "Danach korrigieren, Punkte und Fehlerarten notieren"
+  ],
+  "week": "W12 Osterferien (22.03.–04.04.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-04-05",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Sport",
+  "thema": "Trainingslehre wiederholen",
+  "aufgaben": [
+   "Alle Karteikarten Trainingslehre aktiv abfragen",
+   "Superkompensation, Belastungsnormative, Prinzipien frei erklären",
+   "Falsche Karten in Stapel „nochmal“"
+  ],
+  "week": "W13 Endspurt Sport/Physik (05.–11.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-06",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Felder: Abi-Teilaufgabe",
+  "aufgaben": [
+   "Eine Abi-Teilaufgabe zu E- und B-Feldern unter Zeit (45 Min)",
+   "Korrigieren, Fehler ins Protokoll"
+  ],
+  "week": "W13 Endspurt Sport/Physik (05.–11.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-07",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Sport",
+  "thema": "Sportbiologie wiederholen",
+  "aufgaben": [
+   "Energiebereitstellung und Anpassungen ohne Unterlagen aufschreiben",
+   "Kraft/Ausdauer/Schnelligkeit/Beweglichkeit: je 2 Klausurfragen beantworten"
+  ],
+  "week": "W13 Endspurt Sport/Physik (05.–11.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-08",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Physik",
+  "thema": "Schwingungen und Wellen: Abi-Teilaufgabe",
+  "aufgaben": [
+   "Abi-Teilaufgabe Schwingungen/Wellenoptik unter Zeit",
+   "Fehlerprotokoll"
+  ],
+  "week": "W13 Endspurt Sport/Physik (05.–11.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-10",
+  "start": "09:00",
+  "end": "13:00",
+  "fach": "Sport",
+  "thema": "Generalprobe Sport 2 (240 Min)",
+  "aufgaben": [
+   "Zweite komplette Sport-Klausur unter Zeit (anderer Jahrgang als am 25.03.)",
+   "Korrigieren und mit Generalprobe 1 vergleichen"
+  ],
+  "week": "W13 Endspurt Sport/Physik (05.–11.04.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-04-12",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Physik",
+  "thema": "Quanten und Atom: Abi-Teilaufgabe",
+  "aufgaben": [
+   "Abi-Teilaufgabe Quanten-/Atomphysik unter Zeit",
+   "Fachbegriffe laut erklären"
+  ],
+  "week": "W14 Endspurt Sport/Physik (12.–18.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-13",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Bewegungslehre, Koordination, Wissensbereich 2",
+  "aufgaben": [
+   "Karteikarten Bewegungslehre und WB2 abfragen",
+   "Eine Bewegungsanalyse in 15 Min schreiben"
+  ],
+  "week": "W14 Endspurt Sport/Physik (12.–18.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-14",
+  "start": "08:30",
+  "end": "10:00",
+  "fach": "Physik",
+  "thema": "Fehlerprotokoll + Formelsammlung",
+  "aufgaben": [
+   "Fehlerprotokoll Physik komplett",
+   "Formelsammlung: jede gebrauchte Formel in unter 30 Sek finden"
+  ],
+  "week": "W14 Endspurt Sport/Physik (12.–18.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-15",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Sport",
+  "thema": "Alles abfragen",
+  "aufgaben": [
+   "Alle Sport-Karteikarten einmal durch",
+   "Operatoren (nennen, erläutern, analysieren, beurteilen) wiederholen"
+  ],
+  "week": "W14 Endspurt Sport/Physik (12.–18.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-17",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Physik",
+  "thema": "Gemischte Teilaufgaben",
+  "aufgaben": [
+   "3 kurze Teilaufgaben aus verschiedenen Gebieten, locker",
+   "Nur Fehlerprotokoll, nichts Neues"
+  ],
+  "week": "W14 Endspurt Sport/Physik (12.–18.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-18",
+  "start": "16:00",
+  "end": "16:45",
+  "fach": "Sport",
+  "thema": "Letzter Check vor der Sport-Klausur",
+  "aufgaben": [
+   "Nur Stapel „nochmal“ durchgehen",
+   "Tasche packen, früh schlafen"
+  ],
+  "week": "W14 Endspurt Sport/Physik (12.–18.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-19",
+  "start": "17:00",
+  "end": "17:45",
+  "fach": "Physik",
+  "thema": "Letzter Check vor der Physik-Prüfung",
+  "aufgaben": [
+   "Fehlerprotokoll überfliegen, Formelsammlung + WTR einpacken (Speicher leeren)",
+   "Früh schlafen"
+  ],
+  "week": "W15 Mathe-Endspurt (19.–25.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-21",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Teil A Training",
+  "aufgaben": [
+   "2 Wahlaufgaben-Sets W1–W6 ohne Hilfsmittel",
+   "Leichter Tag nach Physik"
+  ],
+  "week": "W15 Mathe-Endspurt (19.–25.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-22",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Analysis Teil B",
+  "aufgaben": [
+   "Analysis-Aufgabe aus dem IQB-Pool unter Zeit (Abi 2026 bleibt für die Generalprobe am 26.04.)",
+   "Fehlerprotokoll"
+  ],
+  "week": "W15 Mathe-Endspurt (19.–25.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-23",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Geometrie Teil B",
+  "aufgaben": [
+   "Geometrie-Aufgabe unter Zeit (anderer Jahrgang)",
+   "Fehlerprotokoll"
+  ],
+  "week": "W15 Mathe-Endspurt (19.–25.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-24",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Stochastik Teil B",
+  "aufgaben": [
+   "Stochastik-Aufgabe unter Zeit",
+   "Hypothesentest und Binomial nochmal sicher"
+  ],
+  "week": "W15 Mathe-Endspurt (19.–25.04.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-26",
+  "start": "09:00",
+  "end": "14:00",
+  "fach": "Mathe",
+  "thema": "Generalprobe Mathe 2 (300 Min)",
+  "aufgaben": [
+   "Mathe-Abi 2026 (IBBW) komplett unter echten Bedingungen",
+   "Korrigieren und mit Generalprobe 1 vergleichen"
+  ],
+  "week": "W16 Mathe-Endspurt (26.04.–02.05.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-04-27",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Generalprobe nachbereiten",
+  "aufgaben": [
+   "Jede verlorene Teilaufgabe neu rechnen",
+   "Fehlerprotokoll aktualisieren"
+  ],
+  "week": "W16 Mathe-Endspurt (26.04.–02.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-28",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Teil A: Wahlaufgaben",
+  "aufgaben": [
+   "3 Sets W1–W6, je 15 Min pro Aufgabe",
+   "Welche Wahlaufgaben-Typen liegen dir? Notieren"
+  ],
+  "week": "W16 Mathe-Endspurt (26.04.–02.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-29",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Analysis: schwere Typen",
+  "aufgaben": [
+   "Scharen, Modellierung, Begründen-Aufgaben",
+   "2 Teilaufgaben unter Zeit"
+  ],
+  "week": "W16 Mathe-Endspurt (26.04.–02.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-04-30",
+  "start": "09:30",
+  "end": "12:00",
+  "fach": "Mathe",
+  "thema": "Geometrie + Stochastik gemischt",
+  "aufgaben": [
+   "Je eine Teilaufgabe Geometrie und Stochastik",
+   "Fehlerprotokoll"
+  ],
+  "week": "W16 Mathe-Endspurt (26.04.–02.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-03",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Mathe",
+  "thema": "Fehlerprotokoll final",
+  "aufgaben": [
+   "Komplettes Fehlerprotokoll durchgehen",
+   "Ein lockeres Teil-A-Set, nichts Neues"
+  ],
+  "week": "W17 Mathe-Prüfung (03.–09.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-04",
+  "start": "17:00",
+  "end": "17:30",
+  "fach": "Mathe",
+  "thema": "Letzter Check vor Mathe",
+  "aufgaben": [
+   "WTR (Speicher leeren), Geodreieck, Zirkel einpacken",
+   "Früh schlafen"
+  ],
+  "week": "W17 Mathe-Prüfung (03.–09.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-10",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Deutsch",
+  "thema": "Prüfungsformat + Themenliste",
+  "aufgaben": [
+   "Format: 20 Min Vorbereitung, 10 Min Vortrag, 10 Min Gespräch – alle 4 Halbjahre",
+   "Themenliste aller Halbjahre aus Notion zusammenstellen (Lektüren, Lyrik, Sachtexte, Sprache)",
+   "Bei Frau Keller nachfragen: welche zwei Ganzschriften der Pflichtliste wurden behandelt?"
+  ],
+  "week": "W18 Mündlich Start (10.–16.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-13",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Religion",
+  "thema": "Themenliste + Fachbegriffe",
+  "aufgaben": [
+   "Themenliste aller 4 Halbjahre aus Notion",
+   "Fachbegriffe-Karteikarten (Evangelium, Vergebung, Eschatologie, Messias, Menschenwürde, Diakonie …)",
+   "Prüfungsformat: 20 Min Vorbereitung, 10 Min Vortrag, 10 Min Gespräch; christliche Perspektive muss vorkommen"
+  ],
+  "week": "W18 Mündlich Start (10.–16.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-15",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Thomas Mann: Mario und der Zauberer",
+  "aufgaben": [
+   "Inhalt, Aufbau der Novelle, Figurenkonstellation in 5 Min frei erzählen",
+   "Deutungen: Faschismus, Macht und Manipulation, Erzähler",
+   "Eine Textstelle 20 Min vorbereiten und 10 Min vortragen (aufnehmen)"
+  ],
+  "week": "W18 Mündlich Start (10.–16.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-18",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Büchner – Woyzeck",
+  "aufgaben": [
+   "Inhalt und Szenenfolge (offene Form, Fragment) in 5 Min frei erzählen",
+   "Figuren und Konstellation: Woyzeck, Marie, Hauptmann, Doktor, Tambourmajor",
+   "Themen: soziale Determination, Ausbeutung, Wissenschaftskritik, Wahnsinn; Kontext Vormärz",
+   "Eine Szene 20 Min vorbereiten und 10 Min als Probevortrag halten (aufnehmen)"
+  ],
+  "week": "W19 Pfingstferien 1 (17.–23.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-19",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Religion",
+  "thema": "Gottesfrage und Theodizee",
+  "aufgaben": [
+   "Gottesbilder, Trinität, Ich-bin-Worte",
+   "Theodizee: Hiob (Kap. 1–5, 38–42), H. Jonas",
+   "Probevortrag 10 Min zu „Wie kann Gott Leid zulassen?“"
+  ],
+  "week": "W19 Pfingstferien 1 (17.–23.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-20",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Lyrik und Epochen",
+  "aufgaben": [
+   "Gedichtinterpretation: Aufbau eines mündlichen Vortrags",
+   "Epochenüberblick (Aufklärung bis Gegenwart), Schwerpunkt Romantik",
+   "Ein unbekanntes Gedicht in 20 Min vorbereiten, 10 Min vortragen"
+  ],
+  "week": "W19 Pfingstferien 1 (17.–23.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-22",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Religion",
+  "thema": "Jesus Christus, Passion und Auferstehung",
+  "aufgaben": [
+   "Wer ist Jesus? Christustitel, Botschaft vom Reich Gottes",
+   "Deutungen des Todes Jesu (Mk 14–15), Auferstehung",
+   "Selbsttests der Lernversionen aus Klasse 11 und 12"
+  ],
+  "week": "W19 Pfingstferien 1 (17.–23.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-24",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Sachtexte, Medien und Sprache",
+  "aufgaben": [
+   "Medien und Kommunikation (Organon-Modell, Watzlawick)",
+   "Politische Rede/Sprache: Strategie vs. Verständigung",
+   "Einen Kommentar analysieren und mündlich erörtern"
+  ],
+  "week": "W20 Pfingstferien 2 (24.–30.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-25",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Religion",
+  "thema": "Menschenbild",
+  "aufgaben": [
+   "Schöpfung und Evolution (1. Mose 1–2, Psalm 8)",
+   "Gottebenbildlichkeit, Sünde, simul iustus et peccator",
+   "Vergleich mit Freud – Tabelle"
+  ],
+  "week": "W20 Pfingstferien 2 (24.–30.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-26",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Kurzprosa und Parabel",
+  "aufgaben": [
+   "Parabel, Gleichnis, Fabel unterscheiden",
+   "Eine Kurzgeschichte in 20 Min vorbereiten und vortragen",
+   "Rhetorik-Notizen „mündliche Tipps“ wiederholen"
+  ],
+  "week": "W20 Pfingstferien 2 (24.–30.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-27",
+  "start": "09:30",
+  "end": "11:30",
+  "fach": "Religion",
+  "thema": "Ethik",
+  "aufgaben": [
+   "Menschenwürde, Kant, Freiheit",
+   "Deontologisch vs. teleologisch an einem Fall (z. B. Klonen) prüfen",
+   "Gerechtigkeit: Rawls, Zedakah, Amos, Mt 20,1–16"
+  ],
+  "week": "W20 Pfingstferien 2 (24.–30.05.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-05-29",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Probeprüfung Deutsch 1",
+  "aufgaben": [
+   "Unbekannte Aufgabe: 20 Min Vorbereitung, 10 Min Vortrag, 10 Min Gespräch (Claude prüft dich)",
+   "Aufnahme anhören, 3 Verbesserungen notieren"
+  ],
+  "week": "W20 Pfingstferien 2 (24.–30.05.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-05-31",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Deutsch",
+  "thema": "Literaturgeschichte im Zusammenhang",
+  "aufgaben": [
+   "Epochen den Lektüren und Gedichten zuordnen",
+   "Zu jeder Epoche 2 Merkmale + 1 Werk"
+  ],
+  "week": "W21 Mündlich (31.05.–06.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-03",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Religion",
+  "thema": "Kirche, Staat und Gesellschaft",
+  "aufgaben": [
+   "Röm 13, Barmer Theologische Erklärung (These 4 und 5)",
+   "Diakonie, Kirche in der pluralen Gesellschaft, Apg 2",
+   "Probevortrag 10 Min"
+  ],
+  "week": "W21 Mündlich (31.05.–06.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-05",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Religion",
+  "thema": "Probeprüfung Religion 1",
+  "aufgaben": [
+   "Unbekannte Aufgabe: 20 Min Vorbereitung, 10 Min Vortrag, 10 Min Gespräch (Claude prüft dich)",
+   "Bibelstellen nutzen, christliche Perspektive einbringen"
+  ],
+  "week": "W21 Mündlich (31.05.–06.06.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-06-07",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Deutsch",
+  "thema": "Probeprüfung Deutsch 2",
+  "aufgaben": [
+   "Neue Aufgabe aus einem anderen Halbjahr",
+   "Aufnahme auswerten"
+  ],
+  "week": "W22 Mündlich (07.–13.06.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-06-10",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Religion",
+  "thema": "Religionen, Wahrheitsfrage, Zukunft",
+  "aufgaben": [
+   "Toleranz vs. Absolutheitsanspruch, Fundamentalismus, Konvivenz",
+   "Reich Gottes, Eschatologie, Utopie",
+   "Apostolisches Glaubensbekenntnis erklären"
+  ],
+  "week": "W22 Mündlich (07.–13.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-12",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Lücken Deutsch + Religion",
+  "aufgaben": [
+   "Je 30 Min das schwächste Thema aus den Probeprüfungen",
+   "Karteikarten Religion abfragen"
+  ],
+  "week": "W22 Mündlich (07.–13.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-14",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Religion",
+  "thema": "Probeprüfung Religion 2",
+  "aufgaben": [
+   "Neue Aufgabe aus einem anderen Halbjahr",
+   "Aufnahme auswerten"
+  ],
+  "week": "W23 Mündlich (14.–20.06.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-06-17",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Deutsch",
+  "thema": "Probeprüfung Deutsch 3",
+  "aufgaben": [
+   "Aufgabe zu einem Sachtext/Sprache",
+   "Gesprächsteil: auf Nachfragen frei reagieren"
+  ],
+  "week": "W23 Mündlich (14.–20.06.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-06-19",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Religion",
+  "thema": "Bibeltexte und Fachbegriffe",
+  "aufgaben": [
+   "Alle wichtigen Bibelstellen: wo steht was, worum geht es?",
+   "Alle Fachbegriff-Karten"
+  ],
+  "week": "W23 Mündlich (14.–20.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-21",
+  "start": "17:30",
+  "end": "18:30",
+  "fach": "Deutsch",
+  "thema": "Schwachstellen Deutsch",
+  "aufgaben": [
+   "Die 3 notierten Verbesserungen gezielt üben",
+   "Einstiegssätze für den Vortrag bereitlegen"
+  ],
+  "week": "W24 Mündlich (21.–27.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-23",
+  "start": "18:00",
+  "end": "18:45",
+  "fach": "Organisation",
+  "thema": "Ergebnisse schriftlich: nächste Schritte",
+  "aufgaben": [
+   "Ergebnisse eintragen, Schnitt berechnen",
+   "Prüfen, ob eine zusätzliche mündliche Prüfung in einem Leistungsfach Sinn macht (Frist bei der Schule erfragen)"
+  ],
+  "week": "W24 Mündlich (21.–27.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-24",
+  "start": "16:30",
+  "end": "17:30",
+  "fach": "Religion",
+  "thema": "Schwachstellen Religion",
+  "aufgaben": [
+   "Schwächstes Thema aus den Probeprüfungen",
+   "Ein letzter Probevortrag"
+  ],
+  "week": "W24 Mündlich (21.–27.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-26",
+  "start": "10:00",
+  "end": "11:30",
+  "fach": "Deutsch",
+  "thema": "Letzte Probevorträge",
+  "aufgaben": [
+   "Je ein kurzer Probevortrag Deutsch und Religion",
+   "Danach nichts Neues mehr"
+  ],
+  "week": "W24 Mündlich (21.–27.06.)",
+  "kind": "probe"
+ },
+ {
+  "date": "2027-06-27",
+  "start": "17:00",
+  "end": "17:30",
+  "fach": "Deutsch",
+  "thema": "Letzter Check vor den mündlichen Prüfungen",
+  "aufgaben": [
+   "Nur Stichwortzettel überfliegen",
+   "Früh schlafen"
+  ],
+  "week": "W24 Mündlich (21.–27.06.)",
+  "kind": "block"
+ },
+ {
+  "date": "2027-01-11",
+  "start": "07:30",
+  "end": "07:45",
+  "fach": "Organisation",
+  "thema": "Lehrkräfte fragen (Sport + Physik)",
+  "aufgaben": [
+   "Herr Werner: Termin Praxisprüfung, Meldefrist Praxis-Wahl, Inhalte Teilkompetenzen 23/26/27",
+   "Herr Baier: kommen weitere Physik-Kapitel dran (z. B. Kern-/Relativitätsphysik)?",
+   "Antworten an Claude schicken, damit der Plan angepasst wird"
+  ],
+  "week": "W02 11.01.–17.01.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-02-08",
+  "start": "18:30",
+  "end": "18:45",
+  "fach": "Organisation",
+  "thema": "Klausurplan 2. Halbjahr an Claude schicken",
+  "aufgaben": [
+   "Klausurplan aus Moodle an Claude schicken",
+   "Claude trägt Klausuren ein und baut die Wochen um"
+  ],
+  "week": "W06 08.02.–14.02.",
+  "kind": "block"
+ },
+ {
+  "date": "2027-06-28",
+  "start": "08:00",
+  "end": "08:30",
+  "fach": "Organisation",
+  "thema": "Mündliche Prüfungen Deutsch + Religion",
+  "aufgaben": [
+   "Bibel (Lutherübersetzung) und Ausgaben der Pflichtlektüren mitnehmen",
+   "Nach der Prüfung: Ergebnis eintragen"
+  ],
+  "week": "W24 Mündlich (21.–27.06.)",
+  "kind": "block"
+ }
+]

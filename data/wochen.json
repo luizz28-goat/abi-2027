@@ -1,0 +1,352 @@
+[
+ {
+  "id": "W01",
+  "titel": "Start (04.–10.01.)",
+  "start": "2027-01-04",
+  "ende": "2027-01-10",
+  "story_points": 13,
+  "stories": [
+   "US-001",
+   "US-002",
+   "US-003"
+  ],
+  "testfragen": 3
+ },
+ {
+  "id": "W02",
+  "titel": "11.01.–17.01.",
+  "start": "2027-01-11",
+  "ende": "2027-01-17",
+  "story_points": 13,
+  "stories": [
+   "US-004",
+   "US-005",
+   "US-006",
+   "US-007",
+   "US-008",
+   "US-009"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "W03",
+  "titel": "18.01.–24.01.",
+  "start": "2027-01-18",
+  "ende": "2027-01-24",
+  "story_points": 12,
+  "stories": [
+   "US-010",
+   "US-011",
+   "US-012",
+   "US-013",
+   "US-014"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W04",
+  "titel": "25.01.–31.01.",
+  "start": "2027-01-25",
+  "ende": "2027-01-31",
+  "story_points": 12,
+  "stories": [
+   "US-015",
+   "US-016",
+   "US-017",
+   "US-018",
+   "US-019"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W05",
+  "titel": "01.02.–07.02.",
+  "start": "2027-02-01",
+  "ende": "2027-02-07",
+  "story_points": 12,
+  "stories": [
+   "US-020",
+   "US-021",
+   "US-022",
+   "US-023",
+   "US-024"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W06",
+  "titel": "08.02.–14.02.",
+  "start": "2027-02-08",
+  "ende": "2027-02-14",
+  "story_points": 13,
+  "stories": [
+   "US-025",
+   "US-026",
+   "US-027",
+   "US-028",
+   "US-029",
+   "US-030"
+  ],
+  "testfragen": 6
+ },
+ {
+  "id": "W07",
+  "titel": "15.02.–21.02.",
+  "start": "2027-02-15",
+  "ende": "2027-02-21",
+  "story_points": 12,
+  "stories": [
+   "US-031",
+   "US-032",
+   "US-033",
+   "US-034",
+   "US-035"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W08",
+  "titel": "22.02.–28.02.",
+  "start": "2027-02-22",
+  "ende": "2027-02-28",
+  "story_points": 12,
+  "stories": [
+   "US-036",
+   "US-037",
+   "US-038",
+   "US-039",
+   "US-040"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W09",
+  "titel": "01.03.–07.03.",
+  "start": "2027-03-01",
+  "ende": "2027-03-07",
+  "story_points": 12,
+  "stories": [
+   "US-041",
+   "US-042",
+   "US-043",
+   "US-044",
+   "US-045"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W10",
+  "titel": "08.03.–14.03.",
+  "start": "2027-03-08",
+  "ende": "2027-03-14",
+  "story_points": 12,
+  "stories": [
+   "US-046",
+   "US-047",
+   "US-048",
+   "US-049",
+   "US-050"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W11",
+  "titel": "15.03.–21.03.",
+  "start": "2027-03-15",
+  "ende": "2027-03-21",
+  "story_points": 12,
+  "stories": [
+   "US-051",
+   "US-052",
+   "US-053",
+   "US-054",
+   "US-055"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W12",
+  "titel": "Osterferien (22.03.–04.04.)",
+  "start": "2027-03-22",
+  "ende": "2027-04-04",
+  "story_points": 34,
+  "stories": [
+   "US-056",
+   "US-057",
+   "US-058",
+   "US-059",
+   "US-060"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W13",
+  "titel": "Endspurt Sport/Physik (05.–11.04.)",
+  "start": "2027-04-05",
+  "ende": "2027-04-11",
+  "story_points": 17,
+  "stories": [
+   "US-061",
+   "US-062",
+   "US-063",
+   "US-064",
+   "US-065"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W14",
+  "titel": "Endspurt Sport/Physik (12.–18.04.)",
+  "start": "2027-04-12",
+  "ende": "2027-04-18",
+  "story_points": 13,
+  "stories": [
+   "US-066",
+   "US-067",
+   "US-068",
+   "US-069",
+   "US-070",
+   "US-071"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W15",
+  "titel": "Mathe-Endspurt (19.–25.04.)",
+  "start": "2027-04-19",
+  "ende": "2027-04-25",
+  "story_points": 19,
+  "stories": [
+   "US-072",
+   "US-073",
+   "US-074",
+   "US-075",
+   "US-076"
+  ],
+  "testfragen": 4
+ },
+ {
+  "id": "W16",
+  "titel": "Mathe-Endspurt (26.04.–02.05.)",
+  "start": "2027-04-26",
+  "ende": "2027-05-02",
+  "story_points": 28,
+  "stories": [
+   "US-077",
+   "US-078",
+   "US-079",
+   "US-080",
+   "US-081"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W17",
+  "titel": "Mathe-Prüfung (03.–09.05.)",
+  "start": "2027-05-03",
+  "ende": "2027-05-09",
+  "story_points": 4,
+  "stories": [
+   "US-082",
+   "US-083"
+  ],
+  "testfragen": 1
+ },
+ {
+  "id": "W18",
+  "titel": "Mündlich Start (10.–16.05.)",
+  "start": "2027-05-10",
+  "ende": "2027-05-16",
+  "story_points": 7,
+  "stories": [
+   "US-084",
+   "US-085",
+   "US-086"
+  ],
+  "testfragen": 3
+ },
+ {
+  "id": "W19",
+  "titel": "Pfingstferien 1 (17.–23.05.)",
+  "start": "2027-05-17",
+  "ende": "2027-05-23",
+  "story_points": 18,
+  "stories": [
+   "US-087",
+   "US-088",
+   "US-089",
+   "US-090"
+  ],
+  "testfragen": 4
+ },
+ {
+  "id": "W20",
+  "titel": "Pfingstferien 2 (24.–30.05.)",
+  "start": "2027-05-24",
+  "ende": "2027-05-30",
+  "story_points": 23,
+  "stories": [
+   "US-091",
+   "US-092",
+   "US-093",
+   "US-094",
+   "US-095"
+  ],
+  "testfragen": 5
+ },
+ {
+  "id": "W21",
+  "titel": "Mündlich (31.05.–06.06.)",
+  "start": "2027-05-31",
+  "ende": "2027-06-06",
+  "story_points": 7,
+  "stories": [
+   "US-096",
+   "US-097",
+   "US-098"
+  ],
+  "testfragen": 3
+ },
+ {
+  "id": "W22",
+  "titel": "Mündlich (07.–13.06.)",
+  "start": "2027-06-07",
+  "ende": "2027-06-13",
+  "story_points": 7,
+  "stories": [
+   "US-099",
+   "US-100",
+   "US-101"
+  ],
+  "testfragen": 3
+ },
+ {
+  "id": "W23",
+  "titel": "Mündlich (14.–20.06.)",
+  "start": "2027-06-14",
+  "ende": "2027-06-20",
+  "story_points": 7,
+  "stories": [
+   "US-102",
+   "US-103",
+   "US-104"
+  ],
+  "testfragen": 3
+ },
+ {
+  "id": "W24",
+  "titel": "Mündlich (21.–27.06.)",
+  "start": "2027-06-21",
+  "ende": "2027-06-27",
+  "story_points": 10,
+  "stories": [
+   "US-105",
+   "US-106",
+   "US-107",
+   "US-108",
+   "US-109",
+   "US-110"
+  ],
+  "testfragen": 3
+ }
+]

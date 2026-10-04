@@ -1,0 +1,82 @@
+[
+ {
+  "id": "M01",
+  "title": "Diagnose abgeschlossen",
+  "due": "2027-01-10",
+  "beschreibung": "Themen-Ampel für Mathe, Physik, Sport steht; Fehlerprotokolle angelegt.",
+  "stories": 3,
+  "story_points": 13
+ },
+ {
+  "id": "M02",
+  "title": "Analysis + Felder/Induktion durch",
+  "due": "2027-02-14",
+  "beschreibung": "Mathe-Analysis komplett und Physik E-/B-Felder, Induktion, Schwingkreis einmal mit Abi-Aufgaben durchgearbeitet.",
+  "stories": 22,
+  "story_points": 52
+ },
+ {
+  "id": "M03",
+  "title": "Geometrie + Schwingungen/Wellen durch",
+  "due": "2027-02-28",
+  "beschreibung": "Analytische Geometrie und Schwingungen/Wellen durchgearbeitet.",
+  "stories": 8,
+  "story_points": 20
+ },
+ {
+  "id": "M04",
+  "title": "Stochastik, Optik, Quanten, Atom + Sport-Theorie durch",
+  "due": "2027-03-21",
+  "beschreibung": "Alle Prüfungsgebiete einmal durch, Sport-Wissensbereiche komplett.",
+  "stories": 22,
+  "story_points": 50
+ },
+ {
+  "id": "M05",
+  "title": "Generalproben Osterferien",
+  "due": "2027-04-04",
+  "beschreibung": "Sport, Physik und Mathe je einmal komplett unter Prüfungszeit, ausgewertet.",
+  "stories": 5,
+  "story_points": 34
+ },
+ {
+  "id": "M06",
+  "title": "Abi Sport",
+  "due": "2027-04-19",
+  "beschreibung": "Schriftliche Sport-Prüfung (Klausur + Praxis).",
+  "stories": 6,
+  "story_points": 18
+ },
+ {
+  "id": "M07",
+  "title": "Abi Physik",
+  "due": "2027-04-20",
+  "beschreibung": "Schriftliche Physik-Prüfung.",
+  "stories": 6,
+  "story_points": 13
+ },
+ {
+  "id": "M08",
+  "title": "Abi Mathe",
+  "due": "2027-05-05",
+  "beschreibung": "Schriftliche Mathe-Prüfung.",
+  "stories": 11,
+  "story_points": 50
+ },
+ {
+  "id": "M09",
+  "title": "Mündlich prüfungsbereit",
+  "due": "2027-06-27",
+  "beschreibung": "Deutsch und Religion je mind. zwei Probeprüfungen mit sicherem Vortrag.",
+  "stories": 26,
+  "story_points": 78
+ },
+ {
+  "id": "M10",
+  "title": "Abi geschafft",
+  "due": "2027-06-30",
+  "beschreibung": "Mündliche Prüfungen Deutsch und Religion abgelegt.",
+  "stories": 1,
+  "story_points": 1
+ }
+]

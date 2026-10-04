@@ -1,0 +1,31 @@
+name: Issues und Milestones anlegen
+
+# Legt nach jeder Änderung an den Plandaten fehlende Labels, Milestones, Epics und
+# Lernblock-Issues an (idempotent, nichts wird doppelt angelegt).
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/bootstrap.py", "scripts/github_api.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: abi-issues
+  cancel-in-progress: false
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/validate.py
+      - run: python3 scripts/bootstrap.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,411 @@
+{
+ "2027-01-04": {
+  "frage": "Bestimme ohne Taschenrechner die Ableitung von f(x) = (2x−1)³ und die Steigung im Punkt x = 1.",
+  "loesung": "f'(x) = 6(2x−1)², f'(1) = 6."
+ },
+ "2027-01-06": {
+  "frage": "Ein Elektron wird mit U = 200 V beschleunigt. Gib die Energieformel an und berechne die Endgeschwindigkeit (me ≈ 9,11·10⁻³¹ kg).",
+  "loesung": "e·U = ½ m v² → v = √(2eU/m) ≈ 8,4·10⁶ m/s."
+ },
+ "2027-01-08": {
+  "frage": "Nenne die fünf Belastungsnormative.",
+  "loesung": "Reizintensität, Reizdauer, Reizumfang, Reizdichte, Trainingshäufigkeit."
+ },
+ "2027-01-11": {
+  "frage": "Hast du die Antworten von Herrn Werner und Herrn Baier an Claude geschickt?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-01-12": {
+  "frage": "Wie ändert sich die Kapazität eines Plattenkondensators, wenn der Plattenabstand verdoppelt wird? Formel?",
+  "loesung": "C = ε₀ εr A/d → C halbiert sich."
+ },
+ "2027-01-13": {
+  "frage": "Wie lautet die Gleichung der Tangente an f im Punkt (a|f(a))?",
+  "loesung": "t(x) = f'(a)(x − a) + f(a)."
+ },
+ "2027-01-14": {
+  "frage": "Erkläre das Prinzip der Superkompensation in drei Sätzen inklusive der vier Phasen.",
+  "loesung": "Belastung → Ermüdung → Wiederherstellung → Superkompensation über Ausgangsniveau; nächster Reiz in der Superkompensationsphase."
+ },
+ "2027-01-16": {
+  "frage": "Ein Elektron fliegt senkrecht in ein homogenes E-Feld. Welche Bahnform hat es im Feld und warum?",
+  "loesung": "Parabel: konstante Geschwindigkeit in x-Richtung, gleichmäßig beschleunigt in y-Richtung (wie waagrechter Wurf)."
+ },
+ "2027-01-18": {
+  "frage": "Löse e^(2x) − 3e^x = 0.",
+  "loesung": "e^x(e^x − 3) = 0 → x = ln 3."
+ },
+ "2027-01-19": {
+  "frage": "Gib U(t) bei der Entladung eines Kondensators an und erkläre τ.",
+  "loesung": "U(t) = U₀·e^(−t/(RC)), τ = RC: nach τ ist U auf ≈ 37 % gefallen."
+ },
+ "2027-01-20": {
+  "frage": "Bestand B(t) = 500·e^(−0,1t). Nach wie vielen Zeiteinheiten ist die Hälfte übrig?",
+  "loesung": "t = ln 2/0,1 ≈ 6,93."
+ },
+ "2027-01-21": {
+  "frage": "Nenne vier Trainingsprinzipien mit je einem Beispiel.",
+  "loesung": "z. B. progressive Belastungssteigerung, wirksamer Belastungsreiz, Wechsel von Belastung und Erholung, Kontinuität, Periodisierung, Individualität – jeweils mit passendem Beispiel."
+ },
+ "2027-01-23": {
+  "frage": "Wie bestimmst du aus einer Entladekurve U(t) die Kapazität, wenn R bekannt ist?",
+  "loesung": "Halbwertszeit T½ ablesen → τ = T½/ln 2 → C = τ/R (oder Regression ln U gegen t)."
+ },
+ "2027-01-25": {
+  "frage": "Gib Amplitude, Periode und Verschiebung von f(x) = 3·sin(2(x − 1)) + 4 an.",
+  "loesung": "a = 3, p = π, 1 nach rechts, 4 nach oben."
+ },
+ "2027-01-26": {
+  "frage": "Leite e/m für das Fadenstrahlrohr her (U, B, r gegeben).",
+  "loesung": "eU = ½mv², evB = mv²/r → e/m = 2U/(B²r²)."
+ },
+ "2027-01-27": {
+  "frage": "Was ist der Unterschied zwischen mittlerer und momentaner Änderungsrate?",
+  "loesung": "Mittlere: Differenzenquotient über ein Intervall; momentane: Ableitung an einer Stelle."
+ },
+ "2027-01-28": {
+  "frage": "Welche Energiebereitstellung dominiert bei einem 400-m-Lauf und warum?",
+  "loesung": "Anaerob-laktazid: Belastung ca. 45–60 s bei hoher Intensität."
+ },
+ "2027-01-30": {
+  "frage": "Welche Bedingung gilt im Wien-Filter für Teilchen, die gerade durchfliegen?",
+  "loesung": "qE = qvB → v = E/B."
+ },
+ "2027-02-01": {
+  "frage": "Berechne die Fläche zwischen f(x) = x² und g(x) = x ohne WTR.",
+  "loesung": "Schnittstellen 0 und 1, ∫(x − x²)dx = 1/6."
+ },
+ "2027-02-02": {
+  "frage": "Formuliere das Induktionsgesetz und die Lenzsche Regel.",
+  "loesung": "Uind = −n·dΦ/dt; der induzierte Strom wirkt seiner Ursache entgegen."
+ },
+ "2027-02-03": {
+  "frage": "Formel für das Volumen bei Rotation von f um die x-Achse über [a; b]?",
+  "loesung": "V = π∫ f(x)² dx von a bis b."
+ },
+ "2027-02-04": {
+  "frage": "Nenne drei Anpassungen des Herz-Kreislauf-Systems an Ausdauertraining.",
+  "loesung": "z. B. größeres Schlagvolumen, niedrigerer Ruhepuls, Kapillarisierung, mehr Mitochondrien, Herzvergrößerung."
+ },
+ "2027-02-06": {
+  "frage": "Eine Leiterschleife fährt mit konstantem v durch ein begrenztes B-Feld. Skizziere U(t) in Worten.",
+  "loesung": "Beim Eintreten konstante Spannung, ganz drin 0, beim Austreten konstante Spannung mit umgekehrtem Vorzeichen."
+ },
+ "2027-02-08": {
+  "frage": "f_a(x) = x² − 2ax. Bestimme die Ortskurve der Tiefpunkte.",
+  "loesung": "TP(a|−a²) → y = −x²."
+ },
+ "2027-02-09": {
+  "frage": "Thomsonsche Schwingungsgleichung?",
+  "loesung": "T = 2π√(LC), f = 1/(2π√(LC))."
+ },
+ "2027-02-10": {
+  "frage": "Welche drei Schritte braucht jedes Extremwertproblem?",
+  "loesung": "Hauptbedingung, Nebenbedingung, Zielfunktion aufstellen und Extremum inkl. Randwerte prüfen."
+ },
+ "2027-02-11": {
+  "frage": "Unterscheide Hypertrophie- und IK-Training (Intensität, Wiederholungen, Wirkung).",
+  "loesung": "Hypertrophie ca. 60–85 %, 6–15 Wdh., Muskelquerschnitt; IK > 85–90 %, 1–5 Wdh., Rekrutierung/Frequenzierung."
+ },
+ "2027-02-13": {
+  "frage": "Welche Energieformen wechseln sich im LC-Schwingkreis ab?",
+  "loesung": "Elektrische Feldenergie ½CU² und magnetische Feldenergie ½LI²."
+ },
+ "2027-02-15": {
+  "frage": "Wandle E: x = (1|0|0) + r(1|1|0) + s(0|1|1) in Koordinatenform um.",
+  "loesung": "n = (1|−1|1) → x₁ − x₂ + x₃ = 1."
+ },
+ "2027-02-16": {
+  "frage": "Periodendauer von Feder- und Fadenpendel?",
+  "loesung": "T = 2π√(m/D) bzw. T = 2π√(l/g) (kleine Auslenkung)."
+ },
+ "2027-02-17": {
+  "frage": "Wie prüfst du die Lage zweier Ebenen zueinander?",
+  "loesung": "Normalenvektoren vergleichen: linear abhängig → parallel/identisch (Punktprobe), sonst Schnittgerade."
+ },
+ "2027-02-18": {
+  "frage": "Nenne zwei Dehnmethoden mit je einem Vor- und Nachteil.",
+  "loesung": "z. B. statisch (sicher, senkt kurzfristig Schnellkraft), dynamisch (gut zum Aufwärmen, Verletzungsrisiko bei falscher Ausführung), PNF."
+ },
+ "2027-02-20": {
+  "frage": "Was ist Resonanz und wann tritt sie auf?",
+  "loesung": "Maximale Amplitude, wenn Erregerfrequenz ≈ Eigenfrequenz."
+ },
+ "2027-02-22": {
+  "frage": "Abstand von P(1|2|3) zur Ebene x₁ + 2x₂ + 2x₃ = 3?",
+  "loesung": "|1+4+6−3|/3 = 8/3."
+ },
+ "2027-02-23": {
+  "frage": "Bedingung für Eigenschwingungen einer beidseitig eingespannten Saite?",
+  "loesung": "l = n·λ/2 → fn = n·c/(2l)."
+ },
+ "2027-02-24": {
+  "frage": "Wie berechnest du den Abstand zweier windschiefer Geraden?",
+  "loesung": "Gemeinsamer Normalenvektor n (Kreuzprodukt), Abstand = |(P−Q)·n|/|n|."
+ },
+ "2027-02-25": {
+  "frage": "Nenne die drei Lernphasen nach Meinel/Schnabel mit typischem Fehlerbild.",
+  "loesung": "Grobkoordination (verkrampft, unrund), Feinkoordination (flüssig unter Standardbedingungen), Feinstkoordination/variable Verfügbarkeit (stabil auch unter Störungen)."
+ },
+ "2027-02-27": {
+  "frage": "Bedingung für ein Interferenzmaximum bei zwei Erregern?",
+  "loesung": "Gangunterschied Δs = k·λ (Minimum: (2k+1)·λ/2)."
+ },
+ "2027-03-01": {
+  "frage": "P(A) = 0,4, P(B|A) = 0,5, P(B|Ā) = 0,2. Berechne P(B) und P(A|B).",
+  "loesung": "P(B) = 0,2 + 0,12 = 0,32; P(A|B) = 0,2/0,32 = 0,625."
+ },
+ "2027-03-02": {
+  "frage": "Gitterformel und wann darfst du sin α ≈ tan α nehmen?",
+  "loesung": "k·λ = g·sin α; nur bei kleinen Winkeln (Schirm weit entfernt)."
+ },
+ "2027-03-03": {
+  "frage": "X ~ B(20; 0,3). Berechne E(X) und σ.",
+  "loesung": "E = 6, σ = √(20·0,3·0,7) ≈ 2,05."
+ },
+ "2027-03-04": {
+  "frage": "Nenne drei biomechanische Prinzipien nach Hochmuth.",
+  "loesung": "Anfangskraft, optimaler Beschleunigungsweg, Koordination der Teilimpulse, Gegenwirkung, Impulserhaltung."
+ },
+ "2027-03-06": {
+  "frage": "Wie bestimmst du λ mit einem Gitter (g, Schirmabstand a, Abstand d des 1. Maximums)?",
+  "loesung": "tan α = d/a → α → λ = g·sin α."
+ },
+ "2027-03-08": {
+  "frage": "Was ist ein Fehler 1. Art und ein Fehler 2. Art?",
+  "loesung": "1. Art: H₀ abgelehnt, obwohl wahr; 2. Art: H₀ beibehalten, obwohl falsch."
+ },
+ "2027-03-09": {
+  "frage": "Photoeffekt: Energiegleichung und was gibt die Steigung im E(f)-Diagramm an?",
+  "loesung": "h·f = W_A + E_kin; Steigung = h."
+ },
+ "2027-03-10": {
+  "frage": "H₀: p = 0,5, n = 100, α = 5 %, rechtsseitig. Wie findest du den Ablehnungsbereich?",
+  "loesung": "Kleinstes k mit P(X ≥ k) ≤ 0,05 (WTR) → ca. k = 59."
+ },
+ "2027-03-11": {
+  "frage": "Nenne die Inhalte der Teilkompetenzen 23, 26 und 27 (Wissensbereich 2), wie Herr Werner sie unterrichtet.",
+  "loesung": "Mit Herrn Werners Unterlagen vergleichen."
+ },
+ "2027-03-13": {
+  "frage": "Wie lautet die de-Broglie-Wellenlänge eines Elektrons, das mit U beschleunigt wurde?",
+  "loesung": "λ = h/p = h/√(2meU)."
+ },
+ "2027-03-15": {
+  "frage": "Wie viele Punkte hattest du im Teil A unter Zeit (Ziel: mind. 85 %)?",
+  "loesung": "Selbstauskunft – Häkchen nur, wenn ≥ 85 %."
+ },
+ "2027-03-16": {
+  "frage": "Was zeigt der Franck-Hertz-Versuch und wie?",
+  "loesung": "Diskrete Energieniveaus: Stromminima im Abstand von ca. 4,9 V bei Quecksilber durch inelastische Stöße."
+ },
+ "2027-03-17": {
+  "frage": "Welche drei Fehlerarten kommen in deinem Mathe-Fehlerprotokoll am häufigsten vor?",
+  "loesung": "Selbstauskunft – Häkchen, wenn du sie ohne Nachsehen nennen kannst."
+ },
+ "2027-03-18": {
+  "frage": "Probe-Pflichtaufgabe: mind. 34 von 40 BE erreicht?",
+  "loesung": "Selbstauskunft nach Erwartungshorizont."
+ },
+ "2027-03-20": {
+  "frage": "Energie im eindimensionalen Potenzialtopf (unendlich hoch, Breite L)?",
+  "loesung": "En = n²h²/(8mL²)."
+ },
+ "2027-03-25": {
+  "frage": "Generalprobe Sport: mindestens 13 Punkte (85 %) erreicht?",
+  "loesung": "Selbstauskunft nach Erwartungshorizont."
+ },
+ "2027-03-30": {
+  "frage": "Alle roten Physik-Themen haben je eine gerechnete Abi-Teilaufgabe?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-03-31": {
+  "frage": "Generalprobe Physik: mindestens 13 Punkte (85 %) erreicht?",
+  "loesung": "Selbstauskunft nach Erwartungshorizont."
+ },
+ "2027-04-01": {
+  "frage": "Wahlaufgaben-Set ohne Hilfsmittel: alle Aufgaben vollständig richtig?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-02": {
+  "frage": "Generalprobe Mathe 1: mindestens 13 Punkte (85 %) erreicht?",
+  "loesung": "Selbstauskunft nach Erwartungshorizont."
+ },
+ "2027-04-05": {
+  "frage": "Erkläre ohne Unterlagen: Belastungsnormative, Superkompensation und drei Trainingsprinzipien in 3 Minuten.",
+  "loesung": "Vergleich mit Karteikarten."
+ },
+ "2027-04-06": {
+  "frage": "Hall-Spannung: Formel und Herleitung in zwei Sätzen.",
+  "loesung": "UH = B·I/(n·e·d); Lorentzkraft = elektrische Kraft im Gleichgewicht."
+ },
+ "2027-04-07": {
+  "frage": "Ordne die drei Energiebereitstellungswege nach Leistung und Dauer.",
+  "loesung": "ATP-PCr (höchste Leistung, ~10 s), anaerob-laktazid (~10 s–2 min), aerob (geringste Leistung, unbegrenzt lange)."
+ },
+ "2027-04-08": {
+  "frage": "Wie unterscheiden sich Transversal- und Longitudinalwellen? Je ein Beispiel.",
+  "loesung": "Schwingung senkrecht vs. parallel zur Ausbreitung; z. B. Seilwelle/Licht vs. Schall."
+ },
+ "2027-04-10": {
+  "frage": "Generalprobe Sport 2: mindestens 13 Punkte erreicht und besser als Generalprobe 1?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-12": {
+  "frage": "Erkläre den Doppelspalt mit Einzelphotonen (Was sieht man, was folgt daraus?).",
+  "loesung": "Einzelne Treffer bauen das Interferenzmuster auf: Wahrscheinlichkeitswelle, kein Bahnbegriff."
+ },
+ "2027-04-13": {
+  "frage": "Beschreibe die Phasenstruktur einer azyklischen Bewegung am Beispiel Weitsprung.",
+  "loesung": "Vorbereitungsphase (Anlauf), Hauptphase (Absprung/Flug), Endphase (Landung)."
+ },
+ "2027-04-14": {
+  "frage": "Findest du in der IQB-Formelsammlung Lorentzkraft, Thomson-Gleichung und de Broglie jeweils in unter 30 s?",
+  "loesung": "Selbstauskunft mit Stoppuhr."
+ },
+ "2027-04-15": {
+  "frage": "Alle Sport-Karteikarten im Stapel „gekonnt“?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-17": {
+  "frage": "Drei gemischte Teilaufgaben ohne Fehler gelöst?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-21": {
+  "frage": "Zwei Wahlaufgaben-Sets: mind. 85 % der Punkte?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-22": {
+  "frage": "Analysis Teil B unter Zeit: mind. 85 % der Punkte?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-23": {
+  "frage": "Geometrie Teil B unter Zeit: mind. 85 % der Punkte?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-24": {
+  "frage": "Stochastik Teil B unter Zeit: mind. 85 % der Punkte?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-26": {
+  "frage": "Generalprobe Mathe 2: mindestens 13 Punkte erreicht?",
+  "loesung": "Selbstauskunft nach Erwartungshorizont."
+ },
+ "2027-04-27": {
+  "frage": "Jede verlorene Teilaufgabe der Generalprobe ist jetzt richtig neu gerechnet?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-04-28": {
+  "frage": "Welche zwei Wahlaufgaben-Typen nimmst du in der Prüfung bevorzugt?",
+  "loesung": "Selbstauskunft – Häkchen, wenn die Entscheidung steht."
+ },
+ "2027-04-29": {
+  "frage": "Scharaufgabe: Für welches a berührt f_a(x) = x² + a die Gerade y = 2x?",
+  "loesung": "x² − 2x + a = 0 mit Diskriminante 0 → a = 1."
+ },
+ "2027-04-30": {
+  "frage": "Je eine Geometrie- und Stochastik-Teilaufgabe ohne Fehler?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-05-03": {
+  "frage": "Kannst du die fünf häufigsten Fehler aus deinem Mathe-Fehlerprotokoll nennen und je den richtigen Weg erklären?",
+  "loesung": "Selbstauskunft – Vergleich mit dem Fehlerprotokoll."
+ },
+ "2027-05-10": {
+  "frage": "Nenne die Themen aller vier Deutsch-Halbjahre in einer Liste.",
+  "loesung": "Vergleich mit Notion-Lernversionen."
+ },
+ "2027-05-13": {
+  "frage": "Erkläre ohne Unterlagen: Eschatologie, Messias, simul iustus et peccator, Diakonie.",
+  "loesung": "Vergleich mit Karteikarten."
+ },
+ "2027-05-15": {
+  "frage": "Wie funktioniert Cipollas Macht über das Publikum und wofür steht sie?",
+  "loesung": "Manipulation/Suggestion, Willensbrechung; Parabel auf den Faschismus, Ende mit Marios Schuss als Befreiung."
+ },
+ "2027-05-18": {
+  "frage": "Warum gilt Woyzeck als sozial determiniert? Zwei Textbelege.",
+  "loesung": "Armut, Ausbeutung durch Hauptmann und Doktor (Erbsen-Diät), „Wir arme Leut“, fehlende Moral als Folge der Verhältnisse."
+ },
+ "2027-05-19": {
+  "frage": "Was ist das Theodizee-Problem und wie antwortet das Hiob-Buch?",
+  "loesung": "Wie lässt ein guter, allmächtiger Gott Leid zu? Hiob: keine rationale Lösung, Gottesbegegnung, Grenzen menschlicher Einsicht."
+ },
+ "2027-05-20": {
+  "frage": "Nenne vier Merkmale der Romantik und ein passendes Gedicht.",
+  "loesung": "z. B. Sehnsucht, Nacht, Natur als Spiegel der Seele, Fernweh, Universalpoesie; Eichendorff „Mondnacht“."
+ },
+ "2027-05-22": {
+  "frage": "Nenne zwei Deutungen des Todes Jesu.",
+  "loesung": "z. B. Sühneopfer, Stellvertretung, Solidarität Gottes mit den Leidenden, Lösegeld."
+ },
+ "2027-05-24": {
+  "frage": "Erkläre das Organon-Modell nach Bühler.",
+  "loesung": "Zeichen mit Ausdrucks- (Sender), Appell- (Empfänger) und Darstellungsfunktion (Gegenstände)."
+ },
+ "2027-05-25": {
+  "frage": "Vergleiche das biblische Menschenbild mit dem Freuds in zwei Sätzen.",
+  "loesung": "Bibel: Ebenbild Gottes, Würde unabhängig von Leistung, Sünde als gestörte Beziehung; Freud: Es–Ich–Über-Ich, Triebe bestimmen, Religion als Illusion."
+ },
+ "2027-05-26": {
+  "frage": "Unterschied zwischen Parabel und Fabel?",
+  "loesung": "Parabel: Bild- und Sachebene, Übertragung nötig; Fabel: Tiere, explizite Moral."
+ },
+ "2027-05-27": {
+  "frage": "Deontologische vs. teleologische Ethik an einem Beispiel.",
+  "loesung": "Pflicht/Handlung zählt (Kant) vs. Folgen zählen (Utilitarismus); z. B. Lügen zur Rettung eines Menschen."
+ },
+ "2027-05-29": {
+  "frage": "Probeprüfung Deutsch 1: Vortrag 10 Min geschafft und Gespräch sicher?",
+  "loesung": "Selbstauskunft nach Feedback."
+ },
+ "2027-05-31": {
+  "frage": "Ordne Mario und der Zauberer, Woyzeck und ein Romantik-Gedicht ihren Epochen zu.",
+  "loesung": "Mann: Moderne/Weimarer Zeit (1930); Büchner: Vormärz; Romantik."
+ },
+ "2027-06-03": {
+  "frage": "Was sagen Röm 13 und die Barmer Theologische Erklärung (These 5) über den Staat?",
+  "loesung": "Röm 13: Obrigkeit von Gott eingesetzt; Barmen 5: Staat hat begrenzten Auftrag, Kirche nicht dem Staat unterworfen."
+ },
+ "2027-06-05": {
+  "frage": "Probeprüfung Religion 1: Vortrag 10 Min geschafft und christliche Perspektive eingebracht?",
+  "loesung": "Selbstauskunft nach Feedback."
+ },
+ "2027-06-07": {
+  "frage": "Probeprüfung Deutsch 2: besser als Probeprüfung 1?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-06-10": {
+  "frage": "Was bedeutet Konvivenz im interreligiösen Dialog?",
+  "loesung": "Zusammenleben in gegenseitiger Hilfe, Lernen und Feiern, ohne den eigenen Wahrheitsanspruch aufzugeben."
+ },
+ "2027-06-12": {
+  "frage": "Die zwei schwächsten Themen aus den Probeprüfungen sind wiederholt?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-06-14": {
+  "frage": "Probeprüfung Religion 2: besser als Probeprüfung 1?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-06-17": {
+  "frage": "Probeprüfung Deutsch 3: Sachtext-Analyse sicher vorgetragen?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-06-19": {
+  "frage": "Wo stehen Hiob, die Bergpredigt und das Gleichnis von den Arbeitern im Weinberg?",
+  "loesung": "Hiob 1–42, Mt 5–7, Mt 20,1–16."
+ },
+ "2027-06-21": {
+  "frage": "Die drei notierten Deutsch-Verbesserungen sitzen?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-06-24": {
+  "frage": "Letzter Probevortrag Religion ohne Stocken?",
+  "loesung": "Selbstauskunft."
+ },
+ "2027-06-26": {
+  "frage": "Beide Probevorträge geschafft?",
+  "loesung": "Selbstauskunft."
+ },
+ "_hinweis": "Eine Testfrage pro Lernblock, Schlüssel = Datum des Blocks. Ohne Unterlagen beantworten. Generalproben: Selbstauskunft über das Ergebnis."
+}

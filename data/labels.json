@@ -1,0 +1,207 @@
+[
+ {
+  "name": "type:epic",
+  "color": "5319E7",
+  "description": "Großes Ziel pro Fach"
+ },
+ {
+  "name": "type:lernblock",
+  "color": "1D76DB",
+  "description": "Ein Lernblock (Story)"
+ },
+ {
+  "name": "type:wochentest",
+  "color": "0E8A16",
+  "description": "Wöchentlicher Test"
+ },
+ {
+  "name": "type:fortschritt",
+  "color": "BFD4F2",
+  "description": "Fortschritts-Übersicht"
+ },
+ {
+  "name": "nachholen",
+  "color": "B60205",
+  "description": "Nicht erledigt oder Test nicht bestanden – in dieser Woche nachholen"
+ },
+ {
+  "name": "generalprobe",
+  "color": "8E44AD",
+  "description": "Prüfung unter echten Bedingungen"
+ },
+ {
+  "name": "fach:mathe",
+  "color": "6F42C1",
+  "description": ""
+ },
+ {
+  "name": "fach:physik",
+  "color": "E36209",
+  "description": ""
+ },
+ {
+  "name": "fach:sport",
+  "color": "28A745",
+  "description": ""
+ },
+ {
+  "name": "fach:deutsch",
+  "color": "D73A49",
+  "description": ""
+ },
+ {
+  "name": "fach:religion",
+  "color": "F9A8D4",
+  "description": ""
+ },
+ {
+  "name": "fach:organisation",
+  "color": "959DA5",
+  "description": ""
+ },
+ {
+  "name": "sp:1",
+  "color": "FBCA04",
+  "description": "1 Story Points"
+ },
+ {
+  "name": "sp:2",
+  "color": "FBCA04",
+  "description": "2 Story Points"
+ },
+ {
+  "name": "sp:3",
+  "color": "FBCA04",
+  "description": "3 Story Points"
+ },
+ {
+  "name": "sp:5",
+  "color": "FBCA04",
+  "description": "5 Story Points"
+ },
+ {
+  "name": "sp:8",
+  "color": "FBCA04",
+  "description": "8 Story Points"
+ },
+ {
+  "name": "woche:W01",
+  "color": "C5DEF5",
+  "description": "04.01.–10.01."
+ },
+ {
+  "name": "woche:W02",
+  "color": "C5DEF5",
+  "description": "11.01.–17.01."
+ },
+ {
+  "name": "woche:W03",
+  "color": "C5DEF5",
+  "description": "18.01.–24.01."
+ },
+ {
+  "name": "woche:W04",
+  "color": "C5DEF5",
+  "description": "25.01.–31.01."
+ },
+ {
+  "name": "woche:W05",
+  "color": "C5DEF5",
+  "description": "01.02.–07.02."
+ },
+ {
+  "name": "woche:W06",
+  "color": "C5DEF5",
+  "description": "08.02.–14.02."
+ },
+ {
+  "name": "woche:W07",
+  "color": "C5DEF5",
+  "description": "15.02.–21.02."
+ },
+ {
+  "name": "woche:W08",
+  "color": "C5DEF5",
+  "description": "22.02.–28.02."
+ },
+ {
+  "name": "woche:W09",
+  "color": "C5DEF5",
+  "description": "01.03.–07.03."
+ },
+ {
+  "name": "woche:W10",
+  "color": "C5DEF5",
+  "description": "08.03.–14.03."
+ },
+ {
+  "name": "woche:W11",
+  "color": "C5DEF5",
+  "description": "15.03.–21.03."
+ },
+ {
+  "name": "woche:W12",
+  "color": "C5DEF5",
+  "description": "22.03.–04.04."
+ },
+ {
+  "name": "woche:W13",
+  "color": "C5DEF5",
+  "description": "05.04.–11.04."
+ },
+ {
+  "name": "woche:W14",
+  "color": "C5DEF5",
+  "description": "12.04.–18.04."
+ },
+ {
+  "name": "woche:W15",
+  "color": "C5DEF5",
+  "description": "19.04.–25.04."
+ },
+ {
+  "name": "woche:W16",
+  "color": "C5DEF5",
+  "description": "26.04.–02.05."
+ },
+ {
+  "name": "woche:W17",
+  "color": "C5DEF5",
+  "description": "03.05.–09.05."
+ },
+ {
+  "name": "woche:W18",
+  "color": "C5DEF5",
+  "description": "10.05.–16.05."
+ },
+ {
+  "name": "woche:W19",
+  "color": "C5DEF5",
+  "description": "17.05.–23.05."
+ },
+ {
+  "name": "woche:W20",
+  "color": "C5DEF5",
+  "description": "24.05.–30.05."
+ },
+ {
+  "name": "woche:W21",
+  "color": "C5DEF5",
+  "description": "31.05.–06.06."
+ },
+ {
+  "name": "woche:W22",
+  "color": "C5DEF5",
+  "description": "07.06.–13.06."
+ },
+ {
+  "name": "woche:W23",
+  "color": "C5DEF5",
+  "description": "14.06.–20.06."
+ },
+ {
+  "name": "woche:W24",
+  "color": "C5DEF5",
+  "description": "21.06.–27.06."
+ }
+]
