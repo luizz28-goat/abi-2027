@@ -33,6 +33,8 @@ Luiz schreibt oft nur diesen Satz. Dann:
 - GitHub Actions starten nicht: „account is locked due to a billing issue“ (Luiz muss unter github.com/settings/billing
   nachsehen). Bis dahin Bootstrap und Wochenstart/-abschluss von Hand bzw. per Claude ausführen:
   `GITHUB_REPOSITORY=luizz28-goat/abi-2027 python3 scripts/woche.py start|abschluss --woche K01`.
+  Dafür läuft der geplante Task „Wochenabschluss abi-2027“ (So 19:50 Berlin): Abschluss der endenden Woche + Start der
+  nächsten. Sobald die Actions wieder laufen, diesen Task löschen, sonst läuft alles doppelt.
 - Klausurthemen fehlen noch für alle Fächer der Klausurphase (siehe „❓“ in den Terminen); Mathe 09.11. vermutlich Stochastik.
 - Sport (Herr Werner): Praxis-Termine, Praxis-Wahl, Inhalte Teilkompetenzen 23/26/27 – Frage am 11.01.2027.
 - Physik (Herr Baier): weitere prüfungsrelevante Kapitel? – Frage am 11.01.2027.
