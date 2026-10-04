@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import time
 import urllib.error
 import urllib.request
@@ -57,6 +58,8 @@ class GitHub:
             for part in link.split(","):
                 if 'rel="next"' in part:
                     url = part[part.index("<") + 1:part.index(">")]
+                    # GitHub liefert Folgeseiten als /repositories/<id>/…; über Proxys nur /repos/<owner>/<repo>/… erlaubt
+                    url = re.sub(r"/repositories/\d+/", f"/repos/{self.repo}/", url)
         return items
 
     # Bequeme Hilfen
