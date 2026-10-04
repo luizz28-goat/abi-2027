@@ -108,9 +108,9 @@ REPO_URL = "https://github.com/luizz28-goat/abi-2027"
 NOTION = "Notion: „Schule – Lernversionen“"
 MATERIAL = {
     "Mathe": ["Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
-              "BW-Abi Mathe Leistungsfach mit Lösungen (2019–2026, Teil A/B, Stochastik einzeln): https://www.mathe-aufgaben.com/pruefungsaufgaben/abitur/allg-gymnasien/allg-gymnasien-abiturpruefung-leistungsfach/",
+              "BW-Abi Leistungsfach 2019–2026 mit Lösungen: mathe-aufgaben.com → Prüfungsaufgaben → Abitur → Allg. Gymnasien → Leistungsfach",
               f"{NOTION} → Mathe, Fehlerliste Mathe"],
-    "Physik": ["LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
+    "Physik": ["LEIFI Physik (leifiphysik.de): Erklärungen + Aufgaben mit Lösung",
                "BW-Abi Physik (IBBW-Prüfungen, Stark-Heft falls vorhanden)",
                f"{NOTION} → Physik, Formelsammlung, Fehlerliste Physik"],
     "Sport": [f"{NOTION} → Sport", "Stark Abiturprüfung BW Sport / Material von Herrn Werner"],
@@ -373,12 +373,10 @@ def kalender(s: dict) -> dict:
     zeilen += ["", "📚 MATERIAL"] + [f"• {m}" for m in br["material"]]
     if br["infos"]:
         zeilen += ["", "❓ BRAUCHT CLAUDE VON DIR (falls noch nicht im Lernplan-Status)"] + [f"• {i}" for i in br["infos"]]
-    zeilen += ["", "🏁 ERLEDIGT, WENN",
-               "• alle Aufgaben oben gemacht sind",
-               f"• das Issue {s['id']} abgehakt und geschlossen ist: {issue}"]
+    erledigt = f"🏁 ERLEDIGT: Aufgaben gemacht · Issue {s['id']} geschlossen"
     if s["testfrage"]:
-        zeilen.append(f"• die Testfrage im Wochentest {s['woche']} am Sonntag richtig ist")
-    zeilen += ["", "Nicht geschafft? Issue offen lassen – der Wochenabschluss schiebt den Block in die nächste Woche."]
+        erledigt += f" · Testfrage im Wochentest {s['woche']} richtig"
+    zeilen += ["", erledigt, f"Issue: {issue}"]
     return {"id": s["id"], "datum": s["datum"], "start": s["start"], "ende": s["ende"],
             "summary": summary, "colorId": "3" if s["generalprobe"] and s["phase"] == "abi" else "9",
             "description": "\n".join(zeilen)}
