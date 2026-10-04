@@ -130,8 +130,7 @@ CLAUDE_STANDARD = {
               "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
               "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste"],
 }
-CLAUDE_ABSCHLUSS = ("Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) "
-                    "in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen")
+CLAUDE_ABSCHLUSS = "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
 
 
 def story_points(start: str, end: str) -> int:
@@ -359,10 +358,10 @@ def kalender(s: dict) -> dict:
         emoji = "📚"
     if s["phase"] == "klausuren":
         summary = f"{emoji} {s['fach']} · {s['titel']}" if s["fach"] != "Organisation" else f"{emoji} {s['titel']}"
-        fuer = f"{s['pruefung_name']} ({WT[p.weekday()]} {p:%d.%m.}, noch {(p - d).days} Tage)"
+        fuer = f"{s['pruefung_name']} am {WT[p.weekday()]} {p:%d.%m.} – noch {(p - d).days} Tage"
     else:
         summary = f"Abi-{'Generalprobe' if s['generalprobe'] else 'Lernblock'} {s['fach']}: {s['titel']}"
-        fuer = f"{s['pruefung_name']} (noch {(p - d).days} Tage)"
+        fuer = f"{s['pruefung_name']} – noch {(p - d).days} Tage"
     issue = f"{REPO_URL}/issues?q=is%3Aissue+{s['id']}"
     zeilen = [f"🎯 Ziel: {br['ziel']}",
               f"📌 Für: {fuer}",

@@ -29,7 +29,7 @@
     "Lernversionen Mathe zu Stochastik in Notion lesen",
     "Fehlerliste Mathe als Notion-Tabelle anlegen, falls es noch keine gibt",
     "Nach dem Block: Ergebnis auswerten und die zwei schwächsten Themen in die nächsten Mathe-Blöcke eintragen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -72,7 +72,7 @@
     "Eine Formelsammlungs-Vorlage zum Thema als Notion-Seite erstellen",
     "Drei passende Übungsaufgaben (LEIFI Physik, BW-Abi Physik) mit Lösung raussuchen",
     "Die Physik-Testfragen im Repo (data/testfragen.json) auf das echte Thema umschreiben",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -114,7 +114,7 @@
     "Mathebattle-Stand der Typen 2 und 3 auslesen",
     "Zwei Stochastik-Teilaufgaben zu Baumdiagramm/Pfadregel aus mathe-aufgaben.com (BW-Abi Leistungsfach) raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lösungen erst nach Luiz' Abgabe zeigen und korrigieren",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -154,7 +154,7 @@
     "Daraus Lernversionen in Notion („Schule – Lernversionen“, einheitliches Schema) erstellen oder ergänzen",
     "Unleserliche Wörter und unklare Stellen als kurze Liste zum Auflösen vorlegen",
     "Eine Vokabel-Abfrage (10 Wörter Deutsch→Englisch) aus der aktuellen Unit stellen und auswerten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Google Drive: GoodNotes-Backup und Ordner Schule/Memo (Sprachmemos)",
@@ -194,7 +194,7 @@
     "Ergebnis des Check-ins (Mathebattle) auslesen und die falschen Themen bestimmen",
     "Zu jedem dieser Themen drei Aufgaben steigender Schwierigkeit raussuchen (Mathebattle-Training, BW-Abi Teil A)",
     "Lösungen erst nach Abgabe zeigen, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -234,7 +234,7 @@
     "Lernversionen Physik in Notion zum Thema lesen",
     "Vier Aufgaben steigender Schwierigkeit (LEIFI Physik, BW-Abi Physik) mit Link und Lösung raussuchen",
     "Fehlerliste Physik als Notion-Tabelle anlegen, falls es noch keine gibt",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -275,7 +275,7 @@
    "claude": [
     "Mathebattle-Stand der Typen 4–6 auslesen und prüfen, ob das Battle danach komplett ist",
     "Zu jedem falsch gelösten Typ eine Erklär-Aufgabe mit Lösungsweg vorbereiten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -314,7 +314,7 @@
    "claude": [
     "Sieben passende Aufgaben (Mathebattle-Training oder BW-Abi Teil A) raussuchen und als Aufgabenblatt mit Zeitvorgabe vorlegen",
     "Lösungen erst nach Abgabe zeigen, Fehler in die Fehlerliste übernehmen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -354,7 +354,7 @@
     "Lernversionen Physik in Notion zum Thema lesen",
     "Drei Aufgaben mittleren Niveaus mit Lösung raussuchen",
     "Die wichtigste Herleitung des Themas als Lückentext vorbereiten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -396,7 +396,7 @@
     "Vier Teil-A-Aufgaben Stochastik und eine Teil-B-Teilaufgabe aus mathe-aufgaben.com (BW Leistungsfach 2019–2026) auswählen: Jahrgang, Aufgabennummer, Link, BE",
     "Nur Themen nehmen, die laut Frau Assem in der Klausur vorkommen",
     "Korrigieren und Punktzahl in Prozent angeben",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -437,7 +437,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Drei Grundaufgaben zum zweiten Thema mit Lösung raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -479,7 +479,7 @@
     "Daraus Lernversionen in Notion („Schule – Lernversionen“, einheitliches Schema) erstellen oder ergänzen",
     "Unleserliche Wörter und unklare Stellen als kurze Liste zum Auflösen vorlegen",
     "Eine Vokabel-Abfrage (10 Wörter Deutsch→Englisch) aus der aktuellen Unit stellen und auswerten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Google Drive: GoodNotes-Backup und Ordner Schule/Memo (Sprachmemos)",
@@ -519,7 +519,7 @@
    "claude": [
     "Klären (lernplan-status.md oder Luiz fragen), ob Vierfeldertafel/bedingte Wahrscheinlichkeit in der Klausur vorkommt",
     "Je nach Antwort fünf passende Aufgaben raussuchen (BW-Abi, Mathebattle)",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -560,7 +560,7 @@
    "claude": [
     "Prüfen, ob Binomialverteilung Klausurstoff ist",
     "Sechs Aufgaben passend zum Stand raussuchen, WTR-Befehle für Luiz' Modell kurz erklären",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -601,7 +601,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Drei gemischte Aufgaben (Klausurniveau) raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -642,7 +642,7 @@
    "claude": [
     "Zwei Teil-B-Stochastik-Aufgaben (mathe-aufgaben.com, BW Leistungsfach) mit Link, BE und Zeit auswählen",
     "Nach Abgabe korrigieren und Punkte in Prozent angeben",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -682,7 +682,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Drei Aufgaben zum dritten Thema oder zur größten Lücke raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -724,7 +724,7 @@
     "Daraus Lernversionen in Notion („Schule – Lernversionen“, einheitliches Schema) erstellen oder ergänzen",
     "Unleserliche Wörter und unklare Stellen als kurze Liste zum Auflösen vorlegen",
     "Eine Vokabel-Abfrage (10 Wörter Deutsch→Englisch) aus der aktuellen Unit stellen und auswerten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Google Drive: GoodNotes-Backup und Ordner Schule/Memo (Sprachmemos)",
@@ -763,7 +763,7 @@
    "claude": [
     "Eine komplette Teil-B-Stochastikaufgabe auswählen, die noch nicht bearbeitet wurde",
     "Korrigieren und Punkte in Prozent angeben",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -801,7 +801,7 @@
    "claude": [
     "Fehlerliste und Ampel aus Notion lesen",
     "Zu jedem roten Thema drei Aufgaben steigender Schwierigkeit raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -840,7 +840,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Zu jedem Klausurthema zwei Aufgaben auf Klausurniveau mit Lösung raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -880,7 +880,7 @@
    "claude": [
     "Sechs Teil-A-Aufgaben und eine Teil-B-Aufgabe auswählen, die noch nicht bearbeitet wurden",
     "Korrigieren und Punkte angeben",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -919,7 +919,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Zwei klausurähnliche Aufgaben (BW-Abi Physik oder alte Klausuren) mit Erwartungshorizont raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -960,7 +960,7 @@
     "Probeklausur im Format der echten Klausur erstellen (Themen laut Frau Assem, Teil ohne/mit WTR), mit Erwartungshorizont und Punkteschema",
     "Nach Abgabe (Foto/Scan) korrigieren, Punkte in Notenpunkte umrechnen",
     "Fehler in die Fehlerliste übernehmen und die Blöcke 02.11./05.11. darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -1001,7 +1001,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Zwei Aufgaben zum schwächsten Thema laut Ampel raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -1040,7 +1040,7 @@
    "claude": [
     "Fehler aus der Probeklausur aus der Fehlerliste holen",
     "Zu jedem Fehlertyp eine ähnliche Aufgabe raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -1078,7 +1078,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Drei gemischte Aufgaben raussuchen, die noch nicht bearbeitet wurden",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -1119,7 +1119,7 @@
     "Klausurthemen Kunst aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
     "Lernversionen Kunst in Notion lesen",
     "Ein Analyseschema als Notion-Vorlage erstellen und ein Beispielbild zum Thema raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Kunst",
@@ -1161,7 +1161,7 @@
     "Probeklausur mit Erwartungshorizont aus den Klausurthemen erstellen (Aufgaben im Stil BW-Abi Physik)",
     "Nach Abgabe (Foto/Scan) korrigieren und Notenpunkte angeben",
     "Blöcke 09.–11.11. auf die Fehler ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -1201,7 +1201,7 @@
    "claude": [
     "Acht kurze Aufgaben ohne WTR (BW-Abi Teil A, Mathebattle) raussuchen",
     "Zeit mitstoppen lassen und auswerten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -1238,7 +1238,7 @@
    "claude": [
     "Lernversionen Kunst lesen",
     "Karteikarten (Begriff → Erklärung) aus den Aufschrieben erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Kunst",
@@ -1277,7 +1277,7 @@
    "claude": [
     "Die drei wichtigsten Fehler-Aufgaben aus der Fehlerliste auswählen",
     "Kurze Checkliste für den Klausurtag vorlegen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -1315,7 +1315,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Zu jedem Fehlertyp eine ähnliche Aufgabe raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -1353,7 +1353,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Formel-Abfrage (15 Fragen) aus der Formelsammlung erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -1391,7 +1391,7 @@
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Lernversionen Physik in Notion zum Thema lesen",
     "Zwei noch nicht bearbeitete Klausuraufgaben raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -1429,7 +1429,7 @@
    "claude": [
     "Klausurthemen Physik aus lernplan-status.md holen (fehlen sie: Luiz fragen und dort eintragen)",
     "Kurze Checkliste für den Klausurtag vorlegen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -1466,7 +1466,7 @@
    "claude": [
     "Ein passendes, unbekanntes Werk zur Klausur-Epoche raussuchen (Bild-Link)",
     "Analyse nach Erwartungshorizont bewerten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Kunst",
@@ -1501,7 +1501,7 @@
    "ziel": "Ein Teil der Analyse ist klausurfertig ausformuliert.",
    "claude": [
     "Text auf Fachsprache, Belegbarkeit am Bild und Aufbau prüfen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Kunst",
@@ -1540,7 +1540,7 @@
     "Lernversionen Geschichte in Notion lesen",
     "Zeitstrahl-Vorlage und Karteikarten (Begriff → Erklärung) erstellen",
     "Operatorenliste BW Geschichte bereitlegen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Geschichte",
@@ -1578,7 +1578,7 @@
    "ziel": "Ruhig in die Kunst-Klausur.",
    "claude": [
     "Eine Kurz-Abfrage (10 Fachbegriffe) erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Kunst",
@@ -1613,7 +1613,7 @@
    "ziel": "Daten, Begriffe und Personen sitzen.",
    "claude": [
     "Abfrage mit 20 Karten aus den Lernversionen erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Geschichte",
@@ -1652,7 +1652,7 @@
     "Klausurformat Englisch aus lernplan-status.md holen (fehlt es: Luiz fragen)",
     "Lernversionen Englisch in Notion lesen",
     "Redemittel-Liste (Einleitung, Überleitungen, Meinung, Fazit) als Notion-Seite erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Englisch (Vokabeln, Redemittel)",
@@ -1690,7 +1690,7 @@
    "claude": [
     "Eine passende Quelle zum Klausurthema raussuchen und eine Aufgabenstellung mit Operatoren formulieren",
     "Text nach Erwartungshorizont korrigieren und Punkte schätzen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Geschichte",
@@ -1726,7 +1726,7 @@
    "ziel": "Redemittel und Themenwortschatz sitzen.",
    "claude": [
     "Vokabel- und Redemittel-Abfrage aus der Unit erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Englisch (Vokabeln, Redemittel)",
@@ -1762,7 +1762,7 @@
    "claude": [
     "Zwei typische Erörterungsfragen zum Klausurthema formulieren",
     "Gliederungen auf Vollständigkeit und Urteil prüfen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Geschichte",
@@ -1799,7 +1799,7 @@
    "ziel": "Ruhig in die Klausur am Montag.",
    "claude": [
     "Kurz-Abfrage (15 Karten) erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Geschichte",
@@ -1836,7 +1836,7 @@
    "claude": [
     "Einen kurzen Text zum Klausurthema raussuchen und eine Analysis-Aufgabe formulieren",
     "Nach Erwartungshorizont korrigieren (Inhalt + Sprache)",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Englisch (Vokabeln, Redemittel)",
@@ -1872,7 +1872,7 @@
    "claude": [
     "Comment-Aufgabe im Klausurformat stellen",
     "Nach Erwartungshorizont korrigieren, die 5 häufigsten Sprachfehler auflisten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Englisch (Vokabeln, Redemittel)",
@@ -1909,7 +1909,7 @@
     "Klausurthema Deutsch aus lernplan-status.md holen (fehlt es: Luiz fragen)",
     "Lernversionen Deutsch in Notion lesen",
     "Einseitigen Werküberblick als Notion-Seite erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -1948,7 +1948,7 @@
    "claude": [
     "Korrektur und Fehlerliste vom 24.11. bereitlegen",
     "Kurz-Abfrage Redemittel erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Englisch (Vokabeln, Redemittel)",
@@ -1984,7 +1984,7 @@
    "claude": [
     "Eine klausurtypische Szene auswählen und eine Aufgabenstellung formulieren",
     "Gliederung prüfen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -2022,7 +2022,7 @@
     "Klausurthemen gk aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
     "Lernversionen gk in Notion lesen",
     "Karteikarten erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Gemeinschaftskunde",
@@ -2061,7 +2061,7 @@
     "Aufgabe im Klausurformat stellen (Szene + Arbeitsauftrag mit Operatoren)",
     "Nach Erwartungshorizont korrigieren und Notenpunkte schätzen",
     "Blöcke 30.11.–02.12. auf die Schwächen ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -2097,7 +2097,7 @@
    "ziel": "Die Schwächen aus der Probeanalyse sind behoben.",
    "claude": [
     "Korrektur vom 28.11. bereitlegen und die zwei schwächsten Stellen markieren",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -2132,7 +2132,7 @@
    "ziel": "Für jedes Thema des Werks eine Deutungsthese mit Zitat.",
    "claude": [
     "Prüfen, ob die Zitate stimmen und zur These passen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -2172,7 +2172,7 @@
     "Mathebattle nach neuen Battles von Frau Assem prüfen",
     "Drei Einstiegsaufgaben raussuchen",
     "Testfragen der Mathe-Blöcke im Dezember im Repo an das Thema anpassen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -2211,7 +2211,7 @@
    "ziel": "Ruhig in die Klausur am Donnerstag.",
    "claude": [
     "Kurz-Abfrage (Figuren, Szenen, Zitate) erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -2247,7 +2247,7 @@
    "ziel": "Die gk-Themen als Übersicht.",
    "claude": [
     "Abfrage aus den Karteikarten erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Gemeinschaftskunde",
@@ -2282,7 +2282,7 @@
    "ziel": "Eine gk-Erörterung sicher gliedern.",
    "claude": [
     "Zwei typische Aufgaben mit Operatoren zum Thema formulieren und die Gliederungen prüfen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Gemeinschaftskunde",
@@ -2317,7 +2317,7 @@
    "ziel": "Ruhig in die Klausur am Montag.",
    "claude": [
     "Kurz-Abfrage (15 Karten) erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Gemeinschaftskunde",
@@ -2354,7 +2354,7 @@
     "Klausurthemen Sport aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
     "Lernversionen Sport in Notion lesen",
     "Karteikarten erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -2391,7 +2391,7 @@
    "ziel": "Begriffe und Modelle sitzen.",
    "claude": [
     "Abfrage mit 20 Karten erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -2428,7 +2428,7 @@
     "Klausurthemen Religion aus lernplan-status.md holen (fehlen sie: Luiz fragen)",
     "Lernversionen Religion in Notion lesen",
     "Karteikarten erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -2467,7 +2467,7 @@
    "claude": [
     "Zwei klausurtypische Anwendungsaufgaben formulieren (Stil Sport-Abi BW)",
     "Nach Erwartungshorizont korrigieren",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -2502,7 +2502,7 @@
    "ziel": "Ruhig in die Klausur am Freitag.",
    "claude": [
     "Kurz-Abfrage erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -2538,7 +2538,7 @@
    "claude": [
     "Eine typische Erörterungsaufgabe zum Thema formulieren",
     "Nach Erwartungshorizont korrigieren",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -2573,7 +2573,7 @@
    "ziel": "Ruhig in die Klausur am Montag.",
    "claude": [
     "Kurz-Abfrage erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -2613,7 +2613,7 @@
     "Lernversionen lesen",
     "Drei Grundaufgaben raussuchen",
     "Testfragen der Physik-Blöcke im Dezember im Repo anpassen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -2651,7 +2651,7 @@
    "ziel": "Neue Themen auf Klausurniveau.",
    "claude": [
     "Drei Aufgaben auf Klausurniveau zum Dezember-Thema raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -2687,7 +2687,7 @@
    "ziel": "Alle Formeln der Klausur sicher.",
    "claude": [
     "Abfrage (15 Fragen) aus der Formelsammlung erstellen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -2724,7 +2724,7 @@
    "claude": [
     "Mini-Probeklausur (60 Min) mit Erwartungshorizont erstellen",
     "Korrigieren und Notenpunkte schätzen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -2761,7 +2761,7 @@
    "ziel": "Ruhig in die Klausur am Donnerstag.",
    "claude": [
     "Korrektur vom 15.12. bereitlegen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -2797,7 +2797,7 @@
    "ziel": "Das Dezember-Thema auf Klausurniveau.",
    "claude": [
     "Drei Aufgaben (BW-Abi, Mathebattle) zum Thema der Klausur am 21.12. raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -2835,7 +2835,7 @@
    "ziel": "Hilfsmittelfreie Aufgaben schnell und sicher.",
    "claude": [
     "Sechs Aufgaben ohne WTR zum Klausurthema raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -2873,7 +2873,7 @@
    "claude": [
     "Probeklausur im Format der echten Klausur mit Erwartungshorizont erstellen",
     "Korrigieren und Notenpunkte angeben",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -2910,7 +2910,7 @@
    "ziel": "Fehler aus der Probeklausur behoben, ruhig in die letzte Klausur.",
    "claude": [
     "Fehler aus der Probeklausur bereitlegen und zu jedem eine ähnliche Aufgabe raussuchen",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -2950,7 +2950,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -2990,7 +2990,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3030,7 +3030,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -3068,7 +3068,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Google Drive: GoodNotes-Backup und Ordner Schule/Memo (Sprachmemos)",
@@ -3106,7 +3106,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3145,7 +3145,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3184,7 +3184,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3223,7 +3223,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -3261,7 +3261,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3300,7 +3300,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3339,7 +3339,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3378,7 +3378,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3417,7 +3417,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -3455,7 +3455,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3494,7 +3494,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3533,7 +3533,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3572,7 +3572,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3611,7 +3611,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -3649,7 +3649,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3688,7 +3688,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3727,7 +3727,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3766,7 +3766,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3805,7 +3805,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -3843,7 +3843,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3882,7 +3882,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -3920,7 +3920,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Google Drive: GoodNotes-Backup und Ordner Schule/Memo (Sprachmemos)",
@@ -3958,7 +3958,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -3997,7 +3997,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4036,7 +4036,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -4074,7 +4074,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4113,7 +4113,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4152,7 +4152,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4191,7 +4191,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4230,7 +4230,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -4268,7 +4268,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4307,7 +4307,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4346,7 +4346,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4385,7 +4385,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4424,7 +4424,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -4462,7 +4462,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4501,7 +4501,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4540,7 +4540,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4579,7 +4579,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4618,7 +4618,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -4656,7 +4656,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4695,7 +4695,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4734,7 +4734,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4773,7 +4773,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4812,7 +4812,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -4850,7 +4850,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4888,7 +4888,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -4927,7 +4927,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -4966,7 +4966,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5005,7 +5005,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5043,7 +5043,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5082,7 +5082,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5120,7 +5120,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5159,7 +5159,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5198,7 +5198,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5236,7 +5236,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5275,7 +5275,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5312,7 +5312,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5350,7 +5350,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5387,7 +5387,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5425,7 +5425,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5462,7 +5462,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5500,7 +5500,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5537,7 +5537,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5575,7 +5575,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5612,7 +5612,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5650,7 +5650,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Sport",
@@ -5687,7 +5687,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "LEIFI Physik (Erklärungen + Aufgaben mit Lösung): https://www.leifiphysik.de",
@@ -5725,7 +5725,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5763,7 +5763,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5801,7 +5801,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5839,7 +5839,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5877,7 +5877,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5915,7 +5915,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5953,7 +5953,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -5991,7 +5991,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -6029,7 +6029,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -6067,7 +6067,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -6105,7 +6105,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
@@ -6144,7 +6144,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6183,7 +6183,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6222,7 +6222,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6262,7 +6262,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6301,7 +6301,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6340,7 +6340,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6379,7 +6379,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6418,7 +6418,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6457,7 +6457,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6496,7 +6496,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6535,7 +6535,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6573,7 +6573,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6611,7 +6611,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6650,7 +6650,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6688,7 +6688,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6726,7 +6726,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6765,7 +6765,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6803,7 +6803,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6841,7 +6841,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6879,7 +6879,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6917,7 +6917,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -6955,7 +6955,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -6993,7 +6993,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Google Drive: GoodNotes-Backup und Ordner Schule/Memo (Sprachmemos)",
@@ -7030,7 +7030,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Notion: „Schule – Lernversionen“ → Religion",
@@ -7068,7 +7068,7 @@
     "Die Prüfung aus den Aufgaben bereitstellen (Link/PDF), Zeit und erlaubte Hilfsmittel nennen",
     "Nach der Abgabe (Foto/Scan) mit Erwartungshorizont korrigieren und Punkte angeben",
     "Fehler in die Fehlerliste übernehmen und die nächsten Blöcke darauf ausrichten",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -7106,7 +7106,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Lektüre (Woyzeck, Mario und der Zauberer) mit Szenen-/Seitenangaben",
@@ -7144,7 +7144,7 @@
     "Die in den Aufgaben genannten Aufgaben/Quellen raussuchen: Jahrgang, Aufgabennummer, Link, Zeitvorgabe",
     "Lernversionen zum Thema in Notion lesen und eine Kurz-Erklärung der Kernidee vorbereiten",
     "Aufgabenblatt vorlegen, Lösungen erst nach Luiz' Abgabe zeigen, korrigieren, Fehler in die Fehlerliste",
-    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+    "Zum Schluss: Issue abhaken und schließen, neue Infos in Lernplan-Status, Repo und Kalender nachtragen"
    ],
    "material": [
     "Google Drive: GoodNotes-Backup und Ordner Schule/Memo (Sprachmemos)",
