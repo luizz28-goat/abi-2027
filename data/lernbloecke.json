@@ -98,6 +98,27 @@
   ]
  },
  {
+  "date": "2026-10-08",
+  "start": "17:45",
+  "end": "18:45",
+  "fach": "Mathe",
+  "thema": "Stochastik: Lücken aus dem Check-in schließen",
+  "aufgaben": [
+   "Zu jedem Thema, das im Check-in falsch war, drei Aufgaben rechnen (Claude sucht raus)",
+   "Merkblatt Pfadregeln: 1. Pfadregel (Produkt entlang des Pfads), 2. Pfadregel (Summe der Pfade)",
+   "Fehlerliste ergänzen"
+  ],
+  "week": "K01 05.–11.10.",
+  "kind": "block",
+  "phase": "klausuren",
+  "ziel": "Die Lücken aus dem Check-in vom Montag sind geschlossen, Pfadregeln sitzen.",
+  "claude": [
+   "Ergebnis des Check-ins (Mathebattle) auslesen und die falschen Themen bestimmen",
+   "Zu jedem dieser Themen drei Aufgaben steigender Schwierigkeit raussuchen (Mathebattle-Training, BW-Abi Teil A)",
+   "Lösungen erst nach Abgabe zeigen, Fehler in die Fehlerliste"
+  ]
+ },
+ {
   "date": "2026-10-09",
   "start": "09:45",
   "end": "11:00",

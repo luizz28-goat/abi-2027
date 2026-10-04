@@ -4,7 +4,7 @@ _Generiert._
 
 | Milestone | Fällig | Blöcke | SP | Beschreibung |
 |---|---|---:|---:|---|
-| K01 Klausur Mathe 09.11. | 09.11. | 18 | 54 | Klausur Mathe-LK (M1, Frau Assem). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht. |
+| K01 Klausur Mathe 09.11. | 09.11. | 19 | 56 | Klausur Mathe-LK (M1, Frau Assem). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht. |
 | K02 Klausur Physik 12.11. | 12.11. | 15 | 40 | Klausur Physik-LK (PH1, Herr Baier). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht. |
 | K03 Klausur Kunst 17.11. | 17.11. | 5 | 12 | Klausur Kunst (bk2, Herr Kunze). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht. |
 | K04 Klausur Geschichte 23.11. | 23.11. | 5 | 14 | Klausur Geschichte (g3, Frau Schubert). Alle Blöcke davor erledigt, Probeklausur bzw. letzter Check gemacht. |

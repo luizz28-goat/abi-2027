@@ -169,6 +169,45 @@
   "id": "KL-005",
   "phase": "klausuren",
   "epic": "E07",
+  "fach": "Mathe",
+  "woche": "K01",
+  "datum": "2026-10-08",
+  "wochentag": "Do",
+  "start": "17:45",
+  "ende": "18:45",
+  "titel": "Stochastik: Lücken aus dem Check-in schließen",
+  "aufgaben": [
+   "Zu jedem Thema, das im Check-in falsch war, drei Aufgaben rechnen (Claude sucht raus)",
+   "Merkblatt Pfadregeln: 1. Pfadregel (Produkt entlang des Pfads), 2. Pfadregel (Summe der Pfade)",
+   "Fehlerliste ergänzen"
+  ],
+  "story_points": 2,
+  "generalprobe": false,
+  "milestone": "K01",
+  "pruefung": "2026-11-09",
+  "pruefung_name": "Klausur Mathe-LK (M1, Frau Assem)",
+  "testfrage": "Ein Glücksrad zeigt mit P = 0,3 Rot. Es wird zweimal gedreht. Wie groß ist P(genau einmal Rot)?",
+  "loesung": "2 · 0,3 · 0,7 = 0,42 (zwei Pfade, 2. Pfadregel).",
+  "briefing": {
+   "ziel": "Die Lücken aus dem Check-in vom Montag sind geschlossen, Pfadregeln sitzen.",
+   "claude": [
+    "Ergebnis des Check-ins (Mathebattle) auslesen und die falschen Themen bestimmen",
+    "Zu jedem dieser Themen drei Aufgaben steigender Schwierigkeit raussuchen (Mathebattle-Training, BW-Abi Teil A)",
+    "Lösungen erst nach Abgabe zeigen, Fehler in die Fehlerliste",
+    "Zum Schluss: erledigte Aufgaben im Issue abhaken und schließen, neue Infos (Themen, Termine) in lernplan-status.md bzw. abi-lernplan-status.md und – wenn sich der Plan ändert – in Repo und Kalender nachtragen"
+   ],
+   "material": [
+    "Mathebattle (Kurs M1 LF von Frau Assem) – im Browser der Claude-App angemeldet",
+    "BW-Abi Mathe Leistungsfach mit Lösungen (2019–2026, Teil A/B, Stochastik einzeln): https://www.mathe-aufgaben.com/pruefungsaufgaben/abitur/allg-gymnasien/allg-gymnasien-abiturpruefung-leistungsfach/",
+    "Notion: „Schule – Lernversionen“ → Mathe, Fehlerliste Mathe"
+   ],
+   "infos": []
+  }
+ },
+ {
+  "id": "KL-006",
+  "phase": "klausuren",
+  "epic": "E07",
   "fach": "Physik",
   "woche": "K01",
   "datum": "2026-10-09",
@@ -208,7 +247,7 @@
   }
  },
  {
-  "id": "KL-006",
+  "id": "KL-007",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -247,7 +286,7 @@
   }
  },
  {
-  "id": "KL-007",
+  "id": "KL-008",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -286,7 +325,7 @@
   }
  },
  {
-  "id": "KL-008",
+  "id": "KL-009",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -328,7 +367,7 @@
   }
  },
  {
-  "id": "KL-009",
+  "id": "KL-010",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -370,7 +409,7 @@
   }
  },
  {
-  "id": "KL-010",
+  "id": "KL-011",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -411,7 +450,7 @@
   }
  },
  {
-  "id": "KL-011",
+  "id": "KL-012",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Organisation",
@@ -452,7 +491,7 @@
   }
  },
  {
-  "id": "KL-012",
+  "id": "KL-013",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -493,7 +532,7 @@
   }
  },
  {
-  "id": "KL-013",
+  "id": "KL-014",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -535,7 +574,7 @@
   }
  },
  {
-  "id": "KL-014",
+  "id": "KL-015",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -575,7 +614,7 @@
   }
  },
  {
-  "id": "KL-015",
+  "id": "KL-016",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -616,7 +655,7 @@
   }
  },
  {
-  "id": "KL-016",
+  "id": "KL-017",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -656,7 +695,7 @@
   }
  },
  {
-  "id": "KL-017",
+  "id": "KL-018",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Organisation",
@@ -697,7 +736,7 @@
   }
  },
  {
-  "id": "KL-018",
+  "id": "KL-019",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -735,7 +774,7 @@
   }
  },
  {
-  "id": "KL-019",
+  "id": "KL-020",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -773,7 +812,7 @@
   }
  },
  {
-  "id": "KL-020",
+  "id": "KL-021",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -814,7 +853,7 @@
   }
  },
  {
-  "id": "KL-021",
+  "id": "KL-022",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -852,7 +891,7 @@
   }
  },
  {
-  "id": "KL-022",
+  "id": "KL-023",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -893,7 +932,7 @@
   }
  },
  {
-  "id": "KL-023",
+  "id": "KL-024",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -935,7 +974,7 @@
   }
  },
  {
-  "id": "KL-024",
+  "id": "KL-025",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -975,7 +1014,7 @@
   }
  },
  {
-  "id": "KL-025",
+  "id": "KL-026",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -1012,7 +1051,7 @@
   }
  },
  {
-  "id": "KL-026",
+  "id": "KL-027",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -1052,7 +1091,7 @@
   }
  },
  {
-  "id": "KL-027",
+  "id": "KL-028",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Kunst",
@@ -1092,7 +1131,7 @@
   }
  },
  {
-  "id": "KL-028",
+  "id": "KL-029",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -1135,7 +1174,7 @@
   }
  },
  {
-  "id": "KL-029",
+  "id": "KL-030",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -1173,7 +1212,7 @@
   }
  },
  {
-  "id": "KL-030",
+  "id": "KL-031",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Kunst",
@@ -1211,7 +1250,7 @@
   }
  },
  {
-  "id": "KL-031",
+  "id": "KL-032",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -1249,7 +1288,7 @@
   }
  },
  {
-  "id": "KL-032",
+  "id": "KL-033",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -1287,7 +1326,7 @@
   }
  },
  {
-  "id": "KL-033",
+  "id": "KL-034",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -1325,7 +1364,7 @@
   }
  },
  {
-  "id": "KL-034",
+  "id": "KL-035",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -1363,7 +1402,7 @@
   }
  },
  {
-  "id": "KL-035",
+  "id": "KL-036",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -1401,7 +1440,7 @@
   }
  },
  {
-  "id": "KL-036",
+  "id": "KL-037",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Kunst",
@@ -1437,7 +1476,7 @@
   }
  },
  {
-  "id": "KL-037",
+  "id": "KL-038",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Kunst",
@@ -1472,7 +1511,7 @@
   }
  },
  {
-  "id": "KL-038",
+  "id": "KL-039",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Geschichte",
@@ -1514,7 +1553,7 @@
   }
  },
  {
-  "id": "KL-039",
+  "id": "KL-040",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Kunst",
@@ -1549,7 +1588,7 @@
   }
  },
  {
-  "id": "KL-040",
+  "id": "KL-041",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Geschichte",
@@ -1585,7 +1624,7 @@
   }
  },
  {
-  "id": "KL-041",
+  "id": "KL-042",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Englisch",
@@ -1625,7 +1664,7 @@
   }
  },
  {
-  "id": "KL-042",
+  "id": "KL-043",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Geschichte",
@@ -1662,7 +1701,7 @@
   }
  },
  {
-  "id": "KL-043",
+  "id": "KL-044",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Englisch",
@@ -1697,7 +1736,7 @@
   }
  },
  {
-  "id": "KL-044",
+  "id": "KL-045",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Geschichte",
@@ -1734,7 +1773,7 @@
   }
  },
  {
-  "id": "KL-045",
+  "id": "KL-046",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Geschichte",
@@ -1771,7 +1810,7 @@
   }
  },
  {
-  "id": "KL-046",
+  "id": "KL-047",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Englisch",
@@ -1807,7 +1846,7 @@
   }
  },
  {
-  "id": "KL-047",
+  "id": "KL-048",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Englisch",
@@ -1843,7 +1882,7 @@
   }
  },
  {
-  "id": "KL-048",
+  "id": "KL-049",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Deutsch",
@@ -1883,7 +1922,7 @@
   }
  },
  {
-  "id": "KL-049",
+  "id": "KL-050",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Englisch",
@@ -1919,7 +1958,7 @@
   }
  },
  {
-  "id": "KL-050",
+  "id": "KL-051",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Deutsch",
@@ -1956,7 +1995,7 @@
   }
  },
  {
-  "id": "KL-051",
+  "id": "KL-052",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Gemeinschaftskunde",
@@ -1995,7 +2034,7 @@
   }
  },
  {
-  "id": "KL-052",
+  "id": "KL-053",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Deutsch",
@@ -2033,7 +2072,7 @@
   }
  },
  {
-  "id": "KL-053",
+  "id": "KL-054",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Deutsch",
@@ -2069,7 +2108,7 @@
   }
  },
  {
-  "id": "KL-054",
+  "id": "KL-055",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Deutsch",
@@ -2104,7 +2143,7 @@
   }
  },
  {
-  "id": "KL-055",
+  "id": "KL-056",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -2146,7 +2185,7 @@
   }
  },
  {
-  "id": "KL-056",
+  "id": "KL-057",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Deutsch",
@@ -2183,7 +2222,7 @@
   }
  },
  {
-  "id": "KL-057",
+  "id": "KL-058",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Gemeinschaftskunde",
@@ -2218,7 +2257,7 @@
   }
  },
  {
-  "id": "KL-058",
+  "id": "KL-059",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Gemeinschaftskunde",
@@ -2253,7 +2292,7 @@
   }
  },
  {
-  "id": "KL-059",
+  "id": "KL-060",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Gemeinschaftskunde",
@@ -2288,7 +2327,7 @@
   }
  },
  {
-  "id": "KL-060",
+  "id": "KL-061",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Sport",
@@ -2327,7 +2366,7 @@
   }
  },
  {
-  "id": "KL-061",
+  "id": "KL-062",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Sport",
@@ -2362,7 +2401,7 @@
   }
  },
  {
-  "id": "KL-062",
+  "id": "KL-063",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Religion",
@@ -2402,7 +2441,7 @@
   }
  },
  {
-  "id": "KL-063",
+  "id": "KL-064",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Sport",
@@ -2438,7 +2477,7 @@
   }
  },
  {
-  "id": "KL-064",
+  "id": "KL-065",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Sport",
@@ -2473,7 +2512,7 @@
   }
  },
  {
-  "id": "KL-065",
+  "id": "KL-066",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Religion",
@@ -2510,7 +2549,7 @@
   }
  },
  {
-  "id": "KL-066",
+  "id": "KL-067",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Religion",
@@ -2545,7 +2584,7 @@
   }
  },
  {
-  "id": "KL-067",
+  "id": "KL-068",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -2587,7 +2626,7 @@
   }
  },
  {
-  "id": "KL-068",
+  "id": "KL-069",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -2623,7 +2662,7 @@
   }
  },
  {
-  "id": "KL-069",
+  "id": "KL-070",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -2659,7 +2698,7 @@
   }
  },
  {
-  "id": "KL-070",
+  "id": "KL-071",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -2696,7 +2735,7 @@
   }
  },
  {
-  "id": "KL-071",
+  "id": "KL-072",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Physik",
@@ -2733,7 +2772,7 @@
   }
  },
  {
-  "id": "KL-072",
+  "id": "KL-073",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -2771,7 +2810,7 @@
   }
  },
  {
-  "id": "KL-073",
+  "id": "KL-074",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -2807,7 +2846,7 @@
   }
  },
  {
-  "id": "KL-074",
+  "id": "KL-075",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",
@@ -2845,7 +2884,7 @@
   }
  },
  {
-  "id": "KL-075",
+  "id": "KL-076",
   "phase": "klausuren",
   "epic": "E07",
   "fach": "Mathe",

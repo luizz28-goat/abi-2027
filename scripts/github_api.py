@@ -29,6 +29,7 @@ class GitHub:
                 "Accept": "application/vnd.github+json",
                 "X-GitHub-Api-Version": "2022-11-28",
                 "User-Agent": "abi-2027-bot",
+                **({"Content-Type": "application/json"} if data is not None else {}),
             })
             try:
                 with urllib.request.urlopen(req) as resp:

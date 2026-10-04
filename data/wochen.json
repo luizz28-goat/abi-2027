@@ -5,16 +5,17 @@
   "start": "2026-10-05",
   "ende": "2026-10-11",
   "phase": "klausuren",
-  "story_points": 15,
+  "story_points": 17,
   "stories": [
    "KL-001",
    "KL-002",
    "KL-003",
    "KL-004",
    "KL-005",
-   "KL-006"
+   "KL-006",
+   "KL-007"
   ],
-  "testfragen": 6
+  "testfragen": 7
  },
  {
   "id": "K02",
@@ -24,12 +25,12 @@
   "phase": "klausuren",
   "story_points": 15,
   "stories": [
-   "KL-007",
    "KL-008",
    "KL-009",
    "KL-010",
    "KL-011",
-   "KL-012"
+   "KL-012",
+   "KL-013"
   ],
   "testfragen": 6
  },
@@ -41,12 +42,12 @@
   "phase": "klausuren",
   "story_points": 15,
   "stories": [
-   "KL-013",
    "KL-014",
    "KL-015",
    "KL-016",
    "KL-017",
-   "KL-018"
+   "KL-018",
+   "KL-019"
   ],
   "testfragen": 6
  },
@@ -58,12 +59,12 @@
   "phase": "klausuren",
   "story_points": 28,
   "stories": [
-   "KL-019",
    "KL-020",
    "KL-021",
    "KL-022",
    "KL-023",
-   "KL-024"
+   "KL-024",
+   "KL-025"
   ],
   "testfragen": 6
  },
@@ -75,13 +76,13 @@
   "phase": "klausuren",
   "story_points": 17,
   "stories": [
-   "KL-025",
    "KL-026",
    "KL-027",
    "KL-028",
    "KL-029",
    "KL-030",
-   "KL-031"
+   "KL-031",
+   "KL-032"
   ],
   "testfragen": 6
  },
@@ -93,13 +94,13 @@
   "phase": "klausuren",
   "story_points": 17,
   "stories": [
-   "KL-032",
    "KL-033",
    "KL-034",
    "KL-035",
    "KL-036",
    "KL-037",
-   "KL-038"
+   "KL-038",
+   "KL-039"
   ],
   "testfragen": 6
  },
@@ -111,13 +112,13 @@
   "phase": "klausuren",
   "story_points": 17,
   "stories": [
-   "KL-039",
    "KL-040",
    "KL-041",
    "KL-042",
    "KL-043",
    "KL-044",
-   "KL-045"
+   "KL-045",
+   "KL-046"
   ],
   "testfragen": 5
  },
@@ -129,13 +130,13 @@
   "phase": "klausuren",
   "story_points": 17,
   "stories": [
-   "KL-046",
    "KL-047",
    "KL-048",
    "KL-049",
    "KL-050",
    "KL-051",
-   "KL-052"
+   "KL-052",
+   "KL-053"
   ],
   "testfragen": 6
  },
@@ -147,13 +148,13 @@
   "phase": "klausuren",
   "story_points": 17,
   "stories": [
-   "KL-053",
    "KL-054",
    "KL-055",
    "KL-056",
    "KL-057",
    "KL-058",
-   "KL-059"
+   "KL-059",
+   "KL-060"
   ],
   "testfragen": 5
  },
@@ -165,14 +166,14 @@
   "phase": "klausuren",
   "story_points": 19,
   "stories": [
-   "KL-060",
    "KL-061",
    "KL-062",
    "KL-063",
    "KL-064",
    "KL-065",
    "KL-066",
-   "KL-067"
+   "KL-067",
+   "KL-068"
   ],
   "testfragen": 6
  },
@@ -184,14 +185,14 @@
   "phase": "klausuren",
   "story_points": 22,
   "stories": [
-   "KL-068",
    "KL-069",
    "KL-070",
    "KL-071",
    "KL-072",
    "KL-073",
    "KL-074",
-   "KL-075"
+   "KL-075",
+   "KL-076"
   ],
   "testfragen": 6
  },

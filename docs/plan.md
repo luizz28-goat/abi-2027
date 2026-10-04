@@ -2,7 +2,7 @@
 
 _Generiert aus `data/` mit `scripts/generate.py`._
 
-**185 Lernblöcke · 528 Story Points · 35 Wochen · 21 Milestones**
+**186 Lernblöcke · 530 Story Points · 35 Wochen · 21 Milestones**
 
 ## Epics
 
@@ -14,13 +14,13 @@ _Generiert aus `data/` mit `scripts/generate.py`._
 | E04 Deutsch mündlich (28.–30.06.2027) | 15 Punkte mündlich: Mario und der Zauberer, Woyzeck, Lyrik, Sachtexte und Sprache aus allen vier Halbjahren. | 14 | 43 |
 | E05 Religion mündlich (28.–30.06.2027) | 15 Punkte mündlich: Gottesfrage, Jesus Christus, Menschenbild, Ethik, Kirche aus allen vier Halbjahren. | 11 | 34 |
 | E06 Wochentests, Nachholen und Organisation | Jede Woche getestet, nichts bleibt liegen, offene Fragen an Lehrkräfte geklärt. | 4 | 4 |
-| E07 Klausuren 1. Halbjahr Jg12 (Okt–Dez 2026) | In allen Klausuren bis 21.12.2026 auf 13–15 Punkte: jeder Block erledigt, vor Mathe, Physik, Englisch und Deutsch eine Probeklausur. | 75 | 199 |
+| E07 Klausuren 1. Halbjahr Jg12 (Okt–Dez 2026) | In allen Klausuren bis 21.12.2026 auf 13–15 Punkte: jeder Block erledigt, vor Mathe, Physik, Englisch und Deutsch eine Probeklausur. | 76 | 201 |
 
 ## Klausuren 1. Halbjahr
 
 | Datum | Klausur | Blöcke | SP |
 |---|---|---:|---:|
-| 09.11. | Klausur Mathe 09.11. | 18 | 54 |
+| 09.11. | Klausur Mathe 09.11. | 19 | 56 |
 | 12.11. | Klausur Physik 12.11. | 15 | 40 |
 | 17.11. | Klausur Kunst 17.11. | 5 | 12 |
 | 23.11. | Klausur Geschichte 23.11. | 5 | 14 |
@@ -36,7 +36,7 @@ _Generiert aus `data/` mit `scripts/generate.py`._
 
 | Woche | Zeitraum | Blöcke | SP | Testfragen |
 |---|---|---:|---:|---:|
-| [K01](wochen/K01.md) 05.–11.10. | 05.10.–11.10. | 6 | 15 | 6 |
+| [K01](wochen/K01.md) 05.–11.10. | 05.10.–11.10. | 7 | 17 | 7 |
 | [K02](wochen/K02.md) 12.–18.10. | 12.10.–18.10. | 6 | 15 | 6 |
 | [K03](wochen/K03.md) 19.–25.10. | 19.10.–25.10. | 6 | 15 | 6 |
 | [K04](wochen/K04.md) Herbstferien (26.10.–01.11.) | 26.10.–01.11. | 6 | 28 | 6 |
